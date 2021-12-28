@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "ee1a408f173da16f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7192d373c8dc3b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox/Untitled2.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffd52edc291be678",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e98c5a884fee6e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f3bc5e0a1afc83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c83bfa7b3f2bcc57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48d450220783c011",
+    "type": "split",
+    "children": [
+      {
+        "id": "44be82d560e9781c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152eae20bfd4679d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/Untitled2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a7192d373c8dc3b6",
+  "lastOpenFiles": [
+    "inbox/Untitled2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "История ОС UNIX/История ОС UNIX.md",
+    "История ОС UNIX/Обзор UNIX.md",
+    "История ОС UNIX/Лаборатории Белла - Bell Labs.md",
+    "1.md",
+    "История ОС UNIX/Ритчи, Деннис.md",
+    "index.md",
+    "История ОС UNIX/PDP-7.md"
+  ]
+}
