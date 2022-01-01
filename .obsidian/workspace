@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/Untitled2.md",
+            "file": "operator-statement/operator_academic.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Untitled2.md",
+                "file": "operator-statement/operator_academic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +79,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "a811493c5712fc4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -90,15 +98,15 @@
   },
   "active": "a7192d373c8dc3b6",
   "lastOpenFiles": [
-    "inbox/Untitled2.md",
-    "Untitled 1.md",
+    "operator-statement/operator_academic.md",
+    "operator-statement/operator-statement.md",
+    "operator-statement/statement_wiki.md",
+    "operator-statement/statement_info.md",
+    "data_type/data_type_pascal.md",
+    "inbox/tasks.md",
     "Untitled.md",
-    "История ОС UNIX/История ОС UNIX.md",
-    "История ОС UNIX/Обзор UNIX.md",
-    "История ОС UNIX/Лаборатории Белла - Bell Labs.md",
-    "1.md",
-    "История ОС UNIX/Ритчи, Деннис.md",
-    "index.md",
-    "История ОС UNIX/PDP-7.md"
+    "data_type/data_type_wiki.md",
+    "data_type/Aggregation.md",
+    "data_type/data_type.md"
   ]
 }
