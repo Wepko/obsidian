@@ -3,5 +3,6 @@
   "defaultViewMode": "preview",
   "legacyEditor": false,
   "livePreview": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "vimMode": true
 }
