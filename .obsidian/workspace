@@ -1,34 +1,29 @@
 {
   "main": {
-    "id": "ee1a408f173da16f",
+    "id": "f387260eb2385d7c",
     "type": "split",
     "children": [
       {
-        "id": "6d1824d2db795b7a",
+        "id": "88f6b19b224f5a6a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "История ОС UNIX/История ОС UNIX.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ffd52edc291be678",
+    "id": "e41d98d2dc7afade",
     "type": "split",
     "children": [
       {
-        "id": "5e98c5a884fee6e8",
+        "id": "1a36d5a53de997ff",
         "type": "tabs",
         "children": [
           {
-            "id": "73f3bc5e0a1afc83",
+            "id": "22e747e9858bad22",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +31,7 @@
             }
           },
           {
-            "id": "c83bfa7b3f2bcc57",
+            "id": "d9dcfab6edb9ff9a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "48d450220783c011",
+    "id": "2591f792fad02b45",
     "type": "split",
     "children": [
       {
-        "id": "44be82d560e9781c",
+        "id": "7d07fcb2300b95c1",
         "type": "tabs",
         "children": [
           {
-            "id": "152eae20bfd4679d",
+            "id": "ed692037bdf60c6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История ОС UNIX/История ОС UNIX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d1824d2db795b7a",
+  "active": "88f6b19b224f5a6a",
   "lastOpenFiles": [
-    "История ОС UNIX/История ОС UNIX.md",
-    "История ОС UNIX/Обзор UNIX.md",
-    "История ОС UNIX/Лаборатории Белла - Bell Labs.md",
-    "1.md",
-    "История ОС UNIX/Ритчи, Деннис.md",
-    "index.md",
-    "История ОС UNIX/PDP-7.md",
-    "Обзор UNIX^6db5cd.md",
-    "История ОС UNIX/Кен Томсон.md",
-    "История ОС UNIX/Консорциум.md"
+    "Leacture1.md",
+    "operator-statement/statement_info.md"
   ]
 }
