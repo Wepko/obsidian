@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "base_of_programming/operator-statement/fundamentals_of_structural_programming.md",
-            "mode": "preview",
+            "file": "base_of_programming/data_type/data_type_pascal.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Состав",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base_of_programming/operator-statement/fundamentals_of_structural_programming.md",
+                "file": "base_of_programming/data_type/data_type_pascal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,15 +99,15 @@
   },
   "active": "39b729b9f79c2fbf",
   "lastOpenFiles": [
-    "base_of_programming/operator-statement/fundamentals_of_structural_programming.md",
-    "base_of_programming/operator-statement/statement_wiki.md",
-    "base_of_programming/operator-statement/statement_info.md",
-    "base_of_programming/operator-statement/operator-statement.md",
-    "base_of_programming/operator-statement/operator_academic.md",
-    "base_of_programming/data_type/data_type_wiki.md",
     "base_of_programming/data_type/data_type_pascal.md",
-    "base_of_programming/cycle/cycle_wiki.md",
+    "basic_C_language.md",
+    "course_C.md",
+    "base_of_programming/data_type/data_type_wiki.md",
+    "base_of_programming/data_type/data_type_C.md",
     "Untitled.md",
-    "base_of_programming/cycle/cycle.md"
+    "base_of_programming/operator-statement/operator_academic.md",
+    "base_of_programming/operator-statement/fundamentals_of_structural_programming.md",
+    "base_of_programming/subroutine/subroutine_wiki.md",
+    "base_of_programming/subroutine/subroutine.md"
   ]
 }
