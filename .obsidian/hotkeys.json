@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-git:clone-repo": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ]
+}
