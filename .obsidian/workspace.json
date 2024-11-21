@@ -11,10 +11,13 @@
             "id": "7ae684512d6e5483",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -130,8 +133,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "7ae684512d6e5483",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "daily/daily.md",
     "daily/2024-11-21.md",
     "daily/2022-02-19.md",
