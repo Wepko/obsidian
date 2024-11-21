@@ -13,7 +13,11 @@
   "command-palette": true,
   "slash-command": false,
   "editor-status": false,
+<<<<<<< HEAD
   "markdown-importer": false,
+=======
+  "markdown-importer": true,
+>>>>>>> origin/main
   "zk-prefixer": false,
   "random-note": false,
   "outline": false,
