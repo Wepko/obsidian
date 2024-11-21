@@ -4,7 +4,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "strictLineBreaks": false,
-  "vimMode": true,
+  "vimMode": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
