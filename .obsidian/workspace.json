@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/course_async_programming/000-index.md",
-                "mode": "preview",
+                "file": "Economics/volume 2.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000-index"
+              "title": "volume 2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/course_async_programming/000-index.md",
+                "file": "Economics/volume 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000-index"
+              "title": "Backlinks for volume 2"
             }
           },
           {
@@ -138,8 +138,9 @@
   },
   "active": "c3021c293e75480b",
   "lastOpenFiles": [
-    "Programming/course_async_programming/016-Revealing Constructor.md",
+    "daily/2024-11-21.md",
     "Programming/course_async_programming/000-index.md",
+    "Programming/course_async_programming/016-Revealing Constructor.md",
     "Programming/patterns/async_programming/list/Thenable.md",
     "Programming/patterns/async_programming/list/Deferred.md",
     "Programming/course_async_programming/001-Введение.md",
@@ -167,7 +168,6 @@
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Computer_Science/Lecture_1/Lecture_1.md",
     "Programming/Computer_Science/Lecture_1/Entropy.md",
-    "Programming/Computer_Science/Lecture_1/Acronym.md",
     "Programming/Computer_Science/Lecture_1/Практика.pdf",
     "Programming/Computer_Science/Lecture_1/И и ИТ_Лекция 2 (1).pdf",
     "Programming/Computer_Science/Lecture_1/И и ИТ_Лекция 1 (1).pdf",
