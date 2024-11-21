@@ -19,24 +19,8 @@
               "icon": "git-pull-request",
               "title": "Diff View (workspace.json)"
             }
-          },
-          {
-            "id": "adbb9d57672ce302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks"
             }
           },
           {
@@ -150,7 +133,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbb9d57672ce302",
+  "active": "7ae684512d6e5483",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "daily/2024-11-21.md",
