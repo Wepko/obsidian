@@ -21,8 +21,22 @@
               "icon": "lucide-file",
               "title": "2024-11-21"
             }
+          },
+          {
+            "id": "b87cf3ffc958afa6",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +187,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d77a8fda1131e8b",
+  "active": "b87cf3ffc958afa6",
   "lastOpenFiles": [
-    "daily/new.md",
     "conflict-files-obsidian-git.md",
     "daily/2024-11-21.md",
-    "daily/daily.md",
-    "daily/2022-02-19.md",
-    "daily/2022-02-14.md"
+    "helper Obsidian.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Programming/patterns/async_programming/list/Асинхронный адаптер.md",
+    "Programming/patterns/async_programming/list/Thenable.md",
+    "Programming/patterns/async_programming/list/Promise.md",
+    "Programming/patterns/async_programming/list/Future.md",
+    "Programming/patterns/async_programming/list/EventEmitter.md",
+    "Programming/patterns/async_programming/list/Deferred.md",
+    "Programming/patterns/async_programming/list/Dataflow programming.md",
+    "Programming/patterns/async_programming/list/DataCollector.md",
+    "Programming/patterns/async_programming/list/Callback.md",
+    "Programming/old/programming_languages/С++/C++.md",
+    "Programming/old/programming_languages/С++/5.md",
+    "Programming/old/programming_languages/С++/2.md",
+    "Programming/old/programming_languages/С++/2.5.md",
+    "Programming/old/programming_languages/С/course_C.md",
+    "Programming/old/programming_languages/С/basic_C_language.md",
+    "Programming/old/base_of_programming/subroutine/subroutine_wiki.md",
+    "Programming/old/base_of_programming/subroutine/subroutine.md",
+    "Programming/old/base_of_programming/data_type/data_type_pascal.md",
+    "Programming/old/base_of_programming/data_type/data_type_wiki.md",
+    "Programming/old/base_of_programming/data_type/data_type_C.md",
+    "Programming/old/base_of_programming/data_type/data_type.md",
+    "Programming/old/base_of_programming/data_type/Aggregation.md",
+    "Programming/old/base_of_programming/operator-statement/statement_wiki.md",
+    "Programming/История ОС UNIX/IMG/Без названия.jfif",
+    "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
+    "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
+    "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
+    "Programming/patterns/async_programming/list",
+    "Programming/old/programming_languages/С++",
+    "Programming/old/programming_languages/С",
+    "Programming/old/dynamic_data_structures/devcpp_4.pdf",
+    "Programming/old/data_structure/Pasted image 20220215221220.png",
+    "Programming/old/data_structure/Pasted image 20220215221026.png",
+    "Programming/old/base_of_programming/subroutine",
+    "Programming/old/base_of_programming/data_type",
+    "Programming/old/base_of_programming/operator-statement",
+    "Programming/old/base_of_programming/cycle",
+    "Programming/Computer_Science/Lecture_2/И и ИТ_Лекция 2 (1).pdf",
+    "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
+    "Programming/Pasted image 20230907194244.png",
+    "Programming/Pasted image 20230907192719.png",
+    "Programming/Pasted image 20230907113832.png",
+    "Programming/Pasted image 20230903135254.png"
   ]
 }

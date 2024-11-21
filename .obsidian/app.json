@@ -12,5 +12,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "attachmentFolderPath": "delay"
+  "attachmentFolderPath": "delay",
+  "showLineNumber": false
 }
