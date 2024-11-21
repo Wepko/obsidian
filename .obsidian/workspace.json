@@ -11,13 +11,15 @@
             "id": "7ae684512d6e5483",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "daily/2024-11-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "2024-11-21"
             }
           }
         ]
@@ -113,6 +115,45 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2c02c89a4a5272c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2024-11-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-21"
+            }
+          },
+          {
+            "id": "82cffaa1f0c5819d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6db9c66cf4149288",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2024-11-21.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-21"
+            }
           }
         ],
         "currentTab": 1
@@ -123,13 +164,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
