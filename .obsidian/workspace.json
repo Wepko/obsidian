@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "02d451c9f26ae472",
+    "type": "split",
+    "children": [
+      {
+        "id": "10d02bba5141eb5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae684512d6e5483",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a49dd92cf2aa88c",
+    "type": "split",
+    "children": [
+      {
+        "id": "688f7faeb7d3dcf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96dbea7db3b1f7a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec061cd20b1c0d6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fb000a5b0b3e7cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "69e258f4db20389d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db112b4f23a27ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe22d37484c9363",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "45bc3434bea9c1f5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "96dbea7db3b1f7a3",
+  "lastOpenFiles": [
+    "daily/daily.md",
+    "daily/2024-11-21.md",
+    "daily/2022-02-19.md",
+    "daily/2022-02-14.md"
+  ]
+}

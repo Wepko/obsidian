@@ -305,7 +305,7 @@ subject.Notify("Goodbye, world!");
 Пример простой реализации Observer на СИ:
 
 ```c
-#include <stdio.h>
+[[include]] <stdio.h>
 
 typedef struct observer {
     void (*update)(const char* data);

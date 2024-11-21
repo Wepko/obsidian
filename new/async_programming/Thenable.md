@@ -72,10 +72,10 @@ myThenable.Then(
 ```c
 
 // Example using a custom thenable object
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <time.h>
+[[include]] <stdio.h>
+[[include]] <stdlib.h>
+[[include]] <stdbool.h>
+[[include]] <time.h>
 
 typedef struct {
     bool is_rejected;

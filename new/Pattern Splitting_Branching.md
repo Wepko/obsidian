@@ -54,9 +54,9 @@ public async Task<int> CalculateSquareAsync(int number) {
 
 ```c
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <pthread.h>
+[[include]] <stdio.h>
+[[include]] <stdlib.h>
+[[include]] <pthread.h>
 
 void *print_message(void *ptr);
 
