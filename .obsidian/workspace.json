@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "4a4ee5e62f4ef7ef",
+    "id": "02d451c9f26ae472",
     "type": "split",
     "children": [
       {
-        "id": "4bf12a4b76d5bf52",
+        "id": "c025b65a164671b0",
         "type": "tabs",
         "children": [
           {
-            "id": "c3021c293e75480b",
+            "id": "5d77a8fda1131e8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-21"
             }
           }
         ]
@@ -23,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9d0e268b95410926",
+    "id": "4a49dd92cf2aa88c",
     "type": "split",
     "children": [
       {
-        "id": "4afa1d4a0d56f116",
+        "id": "688f7faeb7d3dcf9",
         "type": "tabs",
         "children": [
           {
-            "id": "432588ac00e33605",
+            "id": "96dbea7db3b1f7a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +48,7 @@
             }
           },
           {
-            "id": "3be60461581568bd",
+            "id": "ec061cd20b1c0d6f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +65,7 @@
             }
           },
           {
-            "id": "57e078434c0692a7",
+            "id": "5fb000a5b0b3e7cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
-    "id": "c2b7506f43bc243c",
+    "id": "69e258f4db20389d",
     "type": "split",
     "children": [
       {
-        "id": "af2a004a968d43c5",
+        "id": "9db112b4f23a27ec",
         "type": "tabs",
         "children": [
           {
-            "id": "cae7d680083d74f7",
+            "id": "0fe22d37484c9363",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,13 +107,52 @@
             }
           },
           {
-            "id": "fde3c2d7b824cf24",
+            "id": "45bc3434bea9c1f5",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "2c02c89a4a5272c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/new.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from new"
+            }
+          },
+          {
+            "id": "82cffaa1f0c5819d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6db9c66cf4149288",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/new.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of new"
             }
           }
         ],
@@ -120,23 +164,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3021c293e75480b",
+  "active": "5d77a8fda1131e8b",
   "lastOpenFiles": [
     "daily/new.md",
-    "new/async_programming/Thenable.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2024-11-21.md",
     "daily/daily.md",
-    "daily/2022-02-14.md",
     "daily/2022-02-19.md",
-    "daily/2024-11-21.md"
+    "daily/2022-02-14.md"
   ]
 }
