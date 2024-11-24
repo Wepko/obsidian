@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "2024-11-21"
             }
+          },
+          {
+            "id": "d26b419491c1817c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-24"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b87cf3ffc958afa6",
+  "active": "d26b419491c1817c",
   "lastOpenFiles": [
+    "daily/2024-11-24.md",
     "conflict-files-obsidian-git.md",
     "daily/2024-11-21.md",
     "helper Obsidian.md",
@@ -217,7 +233,6 @@
     "Programming/old/base_of_programming/data_type/data_type_C.md",
     "Programming/old/base_of_programming/data_type/data_type.md",
     "Programming/old/base_of_programming/data_type/Aggregation.md",
-    "Programming/old/base_of_programming/operator-statement/statement_wiki.md",
     "Programming/История ОС UNIX/IMG/Без названия.jfif",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
