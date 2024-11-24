@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychologie/10.md",
+                "file": "Psychologie/Модель поведение.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10"
+              "title": "Модель поведение"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "d26b419491c1817c",
   "lastOpenFiles": [
-    "Psychologie/Untitled.md",
     "Psychologie/10.md",
+    "Psychologie/Модель поведение.md",
     "daily/2024-11-24.md",
     "Psychologie",
     "conflict-files-obsidian-git.md",
