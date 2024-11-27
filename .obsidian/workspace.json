@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volume 3/Термины спроса их виды формулировки.md",
+                "file": "Economics/theme/Ситуации/Рассмотрим следующие ситуации.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Термины спроса их виды формулировки"
+              "title": "Рассмотрим следующие ситуации"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "e5102369350b88d5",
   "lastOpenFiles": [
-    "Economics/theme/Ситуации/Рассмотрим следующие ситуации.md",
     "Economics/volume 3/Термины спроса их виды формулировки.md",
+    "Economics/theme/Ситуации/volume 3",
+    "Economics/theme/Ситуации/Рассмотрим следующие ситуации.md",
     "Economics/volume 3.md",
     "Economics/volume 3",
     "conflict-files-obsidian-git.md",
@@ -204,7 +205,6 @@
     "Programming/old/programming_languages/С++/5.md",
     "Programming/old/programming_languages/С++/2.md",
     "Programming/old/programming_languages/С++/2.5.md",
-    "Programming/old/programming_languages/С/course_C.md",
     "Programming/История ОС UNIX/IMG/Без названия.jfif",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
@@ -216,7 +216,6 @@
     "Programming/old/data_structure/Pasted image 20220215221220.png",
     "Programming/old/data_structure/Pasted image 20220215221026.png",
     "Programming/old/base_of_programming/subroutine",
-    "Programming/old/base_of_programming/data_type",
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Pasted image 20230907194244.png",
     "Programming/Pasted image 20230907192719.png",
