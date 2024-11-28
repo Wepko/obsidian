@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volume 14.md",
+                "file": "daily/2024-11-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "volume 14"
+              "title": "2024-11-28"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/volume 14.md",
+                "file": "daily/2024-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for volume 14"
+              "title": "Backlinks for 2024-11-28"
             }
           },
           {
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +175,9 @@
   },
   "active": "5d77a8fda1131e8b",
   "lastOpenFiles": [
-    "Economics/volume 15.md",
     "Economics/volume 14.md",
+    "daily/2024-11-28.md",
+    "Economics/volume 15.md",
     "Economics/volume 13.md",
     "Economics/volume 12.md",
     "Economics/volume 11.md",
@@ -200,7 +202,6 @@
     "Economics/theme/Курс образование для всех.md",
     "daily/2024-11-26.md",
     "daily/2024-11-21.md",
-    "daily/2024-11-24.md",
     "Psychologie/Курс врослого и успешного мужчины",
     "Psychologie",
     "Untitled.canvas",
