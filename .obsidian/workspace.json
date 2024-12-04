@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volume 6/elastic.md",
+                "file": "Economics/volume 11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elastic"
+              "title": "volume 11"
             }
           }
         ],
@@ -265,11 +265,12 @@
   },
   "active": "3aa5e64491fbf76e",
   "lastOpenFiles": [
-    "Economics/volume 6/Эластичность.md",
     "Economics/volume 10.md",
     "Economics/volume 11.md",
-    "Economics/volume 6.md",
+    "Economics/volume 10/Конкуренция рынка.md",
     "Economics/volume 6/elastic.md",
+    "Economics/volume 6/Эластичность.md",
+    "Economics/volume 6.md",
     "Programming/patterns/async_programming/list/Future.md",
     "Programming/patterns/async_programming/list/Асинхронный адаптер.md",
     "daily/2024-12-03.md",
@@ -291,7 +292,6 @@
     "Untitled.md",
     "Economics/volume 15.md",
     "Economics/volume 14.md",
-    "Economics/volume 13.md",
     "Economics/theme/Ситуации/volume 3",
     "Economics/volume 3",
     "Psychologie/Курс врослого и успешного мужчины",
