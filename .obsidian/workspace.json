@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/architecture/Многоуровневая архитектура.md",
-                "mode": "preview",
+                "file": "Courses/Предисловие.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многоуровневая архитектура"
+              "title": "Предисловие"
             }
           }
         ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/architecture/Многоуровневая архитектура.md",
+                "file": "Courses/Предисловие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Многоуровневая архитектура"
+              "title": "Backlinks for Предисловие"
             }
           },
           {
@@ -222,8 +222,11 @@
   },
   "active": "0eee4c0a21fa0b3f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/architecture/Многоуровневая архитектура.md",
+    "Courses/Предисловие.md",
+    "Courses/CRUD",
+    "Courses",
+    "conflict-files-obsidian-git.md",
     "Programming/architecture/SOA v1.md",
     "Programming/architecture/DDD (index).md",
     "Programming/architecture/Clean architicture.md",
@@ -248,7 +251,6 @@
     "Economics/volume 15.md",
     "Economics/volume 13.md",
     "Economics/volume 12.md",
-    "Economics/volume 11.md",
     "Economics/volume 3",
     "Psychologie/Курс врослого и успешного мужчины",
     "Psychologie",
@@ -261,10 +263,8 @@
     "Programming/patterns/async_programming/list",
     "Programming/old/programming_languages/С++",
     "Programming/old/programming_languages/С",
-    "Programming/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/old/data_structure/Pasted image 20220215221220.png",
     "Programming/old/data_structure/Pasted image 20220215221026.png",
-    "Programming/old/base_of_programming/subroutine",
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Pasted image 20230907194244.png",
     "Programming/Pasted image 20230907192719.png",
