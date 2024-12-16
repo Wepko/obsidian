@@ -140,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/architecture/Многоуровневая архитектура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Многоуровневая архитектура"
             }
           },
           {
@@ -206,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "0eee4c0a21fa0b3f",
   "lastOpenFiles": [
-    "Programming/architecture/Многоуровневая архитектура.md",
     "conflict-files-obsidian-git.md",
+    "Programming/architecture/Многоуровневая архитектура.md",
     "Programming/architecture/SOA v1.md",
     "Programming/architecture/DDD (index).md",
     "Programming/architecture/Clean architicture.md",
