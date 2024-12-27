@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/info/Подготовка к crud.md",
+                "file": "daily/2024-12-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Подготовка к crud"
+              "title": "2024-12-27"
             }
           }
         ],
@@ -222,8 +222,9 @@
   },
   "active": "0eee4c0a21fa0b3f",
   "lastOpenFiles": [
-    "Courses/Предисловие.md",
     "Courses/info/Подготовка к crud.md",
+    "daily/2024-12-27.md",
+    "Courses/Предисловие.md",
     "Courses/info/crud",
     "Courses/info",
     "daily/2024-12-24.md",

@@ -10,3 +10,9 @@ https://habr.com/ru/articles/316836/
 [x] https://laravel.io/index.php/forum/06-17-2014-controller-service-repository-architecture
 
 Книга Архитектура Сложных веб приложений
+https://github.com/adelf/acwa_book_ru
+мысли https://5minphp.ru/episode78/
+
+Дополнительные ссылки
+https://pcnews.ru/blogs/[perevod]_lukovaa_arhitektura_cast_1-558527.html#gsc.tab=0
+https://marcus-aurelius.ru/articles/layers.html
