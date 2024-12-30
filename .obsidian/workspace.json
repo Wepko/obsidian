@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volume 6.md",
+                "file": "Economics/analise.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "volume 6"
+              "title": "analise"
             }
           }
         ],
@@ -222,6 +222,8 @@
   },
   "active": "0eee4c0a21fa0b3f",
   "lastOpenFiles": [
+    "Economics/volume 6.md",
+    "Economics/analise.md",
     "daily/2024-12-30.md",
     "Courses/info/Подготовка к crud.md",
     "daily/2024-12-27.md",
@@ -251,8 +253,6 @@
     "Economics/volume 17.md",
     "Economics/volume 16.md",
     "Economics/volume 10/Почему фирма в краткосрочной перспективы принимают рыночную цену как заданую велечену.md",
-    "Economics/volume 10/Максиммизация прибыли в краткосрочной перспективе на основе сравнения совокупного дохода и общих издержек.md",
-    "daily/2024-11-28.md",
     "Economics/volume 3",
     "Psychologie/Курс врослого и успешного мужчины",
     "Psychologie",
