@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/theme/Экономические ресурсы.md",
+                "file": "Economics/theme/Факторы производства.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Экономические ресурсы"
+              "title": "Факторы производства"
             }
           }
         ],
@@ -237,6 +237,8 @@
   },
   "active": "0d0c2b75ccd57454",
   "lastOpenFiles": [
+    "Economics/theme/Экономические ресурсы.md",
+    "Economics/theme/Факторы производства.md",
     "Economics/volume 1.md",
     "Economics/volume 9/Экономические издержки.md",
     "Economics/volume 9/Производственные зависимости краткосрочного периода.md",
@@ -265,8 +267,6 @@
     "daily/2024-12-03.md",
     "daily/2024-12-01.md",
     "daily/2024-11-29.md",
-    "Economics/volume 6/Эластичность.md",
-    "Economics/volume 6/elastic.md",
     "Economics/volume 6",
     "Economics/volume 3",
     "Psychologie/Курс врослого и успешного мужчины",
