@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/theme/Производственные мощности.md",
+                "file": "Economics/theme/Придельная производительность.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Производственные мощности"
+              "title": "Придельная производительность"
             }
           }
         ],
@@ -237,10 +237,15 @@
   },
   "active": "0d0c2b75ccd57454",
   "lastOpenFiles": [
+    "Economics/volumes/volume 9/Untitled.md",
+    "Economics/theme/Придельная производительность.md",
     "Economics/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
-    "Economics/theme/Производственные мощности.md",
-    "Economics/theme/Факторы производства.md",
+    "Economics/volumes/volume 9/Экономические издержки.md",
     "Economics/volumes/volume 9/volume 9.md",
+    "Economics/volumes/volume 9/Предельные издержки.md",
+    "Economics/volumes/volume 9/Краткосрочный период и их издержки.md",
+    "Economics/theme/Факторы производства.md",
+    "Economics/theme/Производственные мощности.md",
     "Economics/volumes/volume 2/volume 2.md",
     "Economics/volumes/volume 2",
     "Economics/volumes/Новая папка",
@@ -253,9 +258,6 @@
     "Economics/volumes/volume 10/Максиммизация прибыли в краткосрочной перспективе на основе сравнения совокупного дохода и общих издержек.md",
     "Economics/volumes/volume 10/Конкуренция рынка.md",
     "Economics/volumes/volume 10",
-    "Economics/volumes/volume 9/Экономические издержки.md",
-    "Economics/volumes/volume 9/Предельные издержки.md",
-    "Economics/volumes/volume 9/Краткосрочный период и их издержки.md",
     "Economics/volumes/volume 9",
     "Economics/volumes/volume 7/Термины 3.md",
     "Economics/volumes/volume 7/Термины 2.md",
@@ -269,8 +271,6 @@
     "Economics/volumes/volume 3",
     "Economics/volumes/volume 1/Введения.md",
     "Economics/volumes/volume 1",
-    "Economics/volumes/volume 20.md",
-    "Economics/volumes/volume 19.md",
     "Economics/volume 10/volume 7",
     "Economics/volume 10/volume 6",
     "Untitled.canvas",
