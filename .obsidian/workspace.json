@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/theme/Вопросы/Какие есть экономические теории.md",
+                "file": "Economics/theme/Вопросы/Сравнение/quest1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Какие есть экономические теории"
+              "title": "quest1"
             }
           },
           {
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рынки в экономике.md",
+                "file": "Economics/theme/Рынки в экономике.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "у товаров и у",
+                "query": " По типу товаров и услу",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,8 +164,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,36 +262,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec061cd20b1c0d6f",
+  "active": "e5102369350b88d5",
   "lastOpenFiles": [
+    "Economics/theme/Вопросы/Сравнение/low1.md",
+    "Economics/theme/Вопросы/Сравнение/quest1.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические теории.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические модели.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
+    "Economics/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
+    "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
+    "Economics/theme/Вопросы/Как строиться исследование экономики.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы",
+    "Economics/theme/Затраты и издержки.md",
+    "Economics/theme/Экономическая мысль.md",
+    "Economics/theme/Экономические  и Альтернативные издержки.md",
+    "Economics/theme/Экономические ресурсы.md",
+    "Economics/theme/Рынки в экономике.md",
+    "Economics/theme/Совершенный рынок.md",
+    "Первая заметка.md",
+    "Ещё одна заметка.md",
+    "Psychologie/Курс врослого и успешного мужчины/Семинар 2.md",
+    "Psychologie/Курс врослого и успешного мужчины/Семинар 1.md",
     "daily/2024-12-01.md",
     "Untitled",
-    "Рынки в экономике.md",
     "Санта тест.md",
     "helper Obsidian.md",
     "start.obsidian.md",
-    "Psychologie/Курс врослого и успешного мужчины/Семинар 2.md",
     "Untitled 1.canvas",
-    "Psychologie/Курс врослого и успешного мужчины/Семинар 1.md",
     "Linguistics_Russian/Article_language.md",
     "Linguistics_Russian/Linguistics_Russian.md",
-    "Economics/elastic.md",
-    "Economics/analise.md",
-    "Economics/Список ключевых графиков.md",
-    "Economics/Творческое разрушение.md",
-    "Economics/volumes/volume 10/Конкуренция рынка.md",
-    "Economics/volumes/volume 2/volume 2.md",
-    "Economics/theme/Экономическая мысль.md",
-    "Economics/theme/Поведенческая экономика.md",
-    "Economics/theme/Поведенческая  экономика.md",
-    "Economics/theme/Курс экономической мысли.md",
-    "Economics/theme/Позитивизм и Нормативизм.md",
-    "Economics/volume 9/Краткосрочный период и их издержки.md",
-    "Economics/volume 9/Экономические издержки.md",
-    "Economics/volume 9/Untitled.md",
     "Economics/volume 9",
-    "Economics/volume 9.md",
-    "Economics/volume 8 X.md",
     "Economics/volume 7",
     "Economics/volume 3",
     "Economics/volume 10",
@@ -300,7 +301,6 @@
     "Economics/volumes/volume 9",
     "Economics/volumes/volume 6",
     "Economics/volumes/volume 7",
-    "Economics/volumes/volume 3",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
