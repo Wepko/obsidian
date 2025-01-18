@@ -184,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economics/theme/material/Курс экономической мысли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Курс экономической мысли"
             }
           },
           {
@@ -206,8 +207,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "0fe22d37484c9363",
   "lastOpenFiles": [
     "Economics/theme/material/Курс экономической мысли.md",
     "Economics/analise.md",
