@@ -205,48 +205,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "2c02c89a4a5272c0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "daily/new.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "82cffaa1f0c5819d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6db9c66cf4149288",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily/new.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -262,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6db9c66cf4149288",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "Economics/theme/material/Курс экономической мысли.md",
     "Economics/analise.md",
