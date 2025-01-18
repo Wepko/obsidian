@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/analise.md",
+                "file": "Economics/theme/material/Курс экономической мысли.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analise"
+              "title": "Курс экономической мысли"
             }
           },
           {
@@ -246,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -262,8 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5102369350b88d5",
+  "active": "6db9c66cf4149288",
   "lastOpenFiles": [
+    "Economics/theme/material/Курс экономической мысли.md",
+    "Economics/analise.md",
     "Economics/Список ключевых графиков.md",
     "Economics/theme/material/Затраты и издержки.md",
     "Economics/theme/Ситуации/Рассмотрим следующие ситуации.md",
@@ -291,8 +293,6 @@
     "daily/2024-12-01.md",
     "Untitled",
     "Санта тест.md",
-    "helper Obsidian.md",
-    "start.obsidian.md",
     "Untitled 1.canvas",
     "Economics/volume 9",
     "Economics/volume 7",
