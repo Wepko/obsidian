@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "f13b5b9eabce704a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Economics/theme/material/Лекционный курс совершенной экономике.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Лекционный курс совершенной экономике)"
+            }
+          },
+          {
             "id": "1062c9aef33ab452",
             "type": "leaf",
             "state": {
@@ -112,7 +125,8 @@
               "title": "Рынки в экономике"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +238,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5102369350b88d5",
+  "active": "f13b5b9eabce704a",
   "lastOpenFiles": [
-    "Economics/elastic.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-01-19.md",
+    "Projects/Courses/info/Подготовка к заказная работа.md",
+    "Projects/Courses/info/Подготовка к crud.md",
+    "Projects/Plan/Бизнес план.md",
+    "Projects/Courses/Предисловие.md",
+    "Projects/Courses/info",
+    "Projects/Blog/note 1.md",
+    "Projects/Plan",
+    "Projects/Courses",
+    "Projects/Blog",
+    "Projects",
+    "Economics/theme/material/Лекционный курс совершенной экономике.md",
+    "Economics/elastic.md",
     "Economics/analise.md",
     "Economics/theme/material/Творческое разрушение.md",
     "Economics/volumes/volume 12.md",
@@ -246,23 +272,11 @@
     "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
     "Economics/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
     "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
-    "Economics/theme/Вопросы/Как строиться исследование экономики.md",
     "Economics/theme/Вопросы/Глобально экономические вопросы",
-    "Economics/theme/material/Экономическая мысль.md",
-    "Economics/theme/material/Экономические  и Альтернативные издержки.md",
-    "Economics/theme/material/Экономические ресурсы.md",
-    "Economics/theme/material/Рынки в экономике.md",
-    "Economics/theme/material/Совершенный рынок.md",
-    "Первая заметка.md",
     "Untitled",
     "Untitled 1.canvas",
     "Economics/volume 9",
     "Economics/volume 7",
-    "Economics/volume 3",
-    "Economics/volume 10",
-    "Economics/volume 1",
-    "Economics/volumes/volume 9",
-    "Economics/volumes/volume 6",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
