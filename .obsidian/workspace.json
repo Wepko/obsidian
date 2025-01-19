@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/elastic.md",
+                "file": "daily/2025-01-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elastic"
+              "title": "2025-01-19"
             }
           },
           {
@@ -207,7 +207,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,6 +226,8 @@
   },
   "active": "e5102369350b88d5",
   "lastOpenFiles": [
+    "Economics/elastic.md",
+    "daily/2025-01-19.md",
     "Economics/analise.md",
     "Economics/theme/material/Творческое разрушение.md",
     "Economics/volumes/volume 12.md",
@@ -251,8 +254,6 @@
     "Economics/theme/material/Рынки в экономике.md",
     "Economics/theme/material/Совершенный рынок.md",
     "Первая заметка.md",
-    "Ещё одна заметка.md",
-    "Psychologie/Курс врослого и успешного мужчины/Семинар 2.md",
     "Untitled",
     "Untitled 1.canvas",
     "Economics/volume 9",
