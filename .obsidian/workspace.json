@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/theme/material/Лекционный курс совершенной экономике.md",
+                "file": "Projects/Plan/Бизнес план.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекционный курс совершенной экономике"
+              "title": "Бизнес план"
             }
           }
         ],
@@ -236,8 +236,12 @@
   },
   "active": "0d0c2b75ccd57454",
   "lastOpenFiles": [
-    "daily/2025-01-19.md",
     "Economics/theme/material/Лекционный курс совершенной экономике.md",
+    "Projects/Plan/Бизнес план.md",
+    "Projects/Plan",
+    "Projects/Untitled.md",
+    "Projects",
+    "daily/2025-01-19.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-01-18.md",
     "daily/2025-01-08.md",
@@ -261,8 +265,6 @@
     "Economics/theme/material/Факторы производства.md",
     "Economics/theme/material/Совершенный рынок.md",
     "Economics/theme/material/Курс Основы экономической теории.md",
-    "Economics/theme/material/Программа специализации Экономист-финонсист.md",
-    "Economics/theme/material/Позитивизм и Нормативизм.md",
     "Economics/theme/material",
     "Courses/Подготовка",
     "Economics/volumes/volume 2",
@@ -270,8 +272,6 @@
     "Economics/volumes/volume 10",
     "Economics/volumes/volume 9",
     "Economics/volumes/volume 7",
-    "Economics/volumes/volume 6",
-    "Economics/volumes/volume 3",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
