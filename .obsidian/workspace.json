@@ -26,13 +26,15 @@
             "id": "f13b5b9eabce704a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Economics/theme/material/Лекционный курс совершенной экономике.md",
-                "staged": true
+                "file": "Projects/Blog/note 1.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Лекционный курс совершенной экономике)"
+              "icon": "lucide-file",
+              "title": "note 1"
             }
           },
           {
