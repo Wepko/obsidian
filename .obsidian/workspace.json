@@ -4,86 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "c025b65a164671b0",
+        "id": "30c5b326b6cb8ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "5d77a8fda1131e8b",
+            "id": "e5102369350b88d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-12-16.md",
+                "file": "daily/2025-01-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-16"
+              "title": "2025-01-19"
             }
           },
           {
-            "id": "64170d76de677a17",
+            "id": "f13b5b9eabce704a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/architecture/Clean architicture.md",
+                "file": "daily/2025-01-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-18"
+            }
+          },
+          {
+            "id": "1062c9aef33ab452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/volume 3.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean architicture"
+              "title": "volume 3"
             }
           },
           {
-            "id": "5b456bbe92ebc90b",
+            "id": "96ca7029b8720bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/architecture/SOA v1.md",
+                "file": "Economics/volume 3.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOA v1"
+              "title": "volume 3"
             }
           },
           {
-            "id": "0eee4c0a21fa0b3f",
+            "id": "b1d269a522b666e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/analise.md",
+                "file": "Economics/volume 3.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "volume 3"
+            }
+          },
+          {
+            "id": "3e74a1883f3ab261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/volume 6/Эластичность.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analise"
+              "title": "Эластичность"
             }
           },
           {
-            "id": "0d0c2b75ccd57454",
+            "id": "8cf27799ab1011de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Plan/Бизнес план.md",
+                "file": "Economics/volume 6/Эластичность.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эластичность"
+            }
+          },
+          {
+            "id": "3aa5e64491fbf76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/theme/material/Рынки в экономике.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бизнес план"
+              "title": "Рынки в экономике"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рынк",
+                "query": "Список ключевых графиков",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 351.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -155,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Предисловие.md",
+                "file": "Economics/elastic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Предисловие"
+              "title": "Backlinks for elastic"
             }
           },
           {
@@ -177,52 +222,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "2c02c89a4a5272c0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "daily/new.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "82cffaa1f0c5819d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6db9c66cf4149288",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily/new.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,46 +240,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d0c2b75ccd57454",
+  "active": "f13b5b9eabce704a",
   "lastOpenFiles": [
-    "Economics/theme/material/Лекционный курс совершенной экономике.md",
-    "Projects/Plan/Бизнес план.md",
-    "Projects/Plan",
-    "Projects/Untitled.md",
-    "Projects",
     "daily/2025-01-19.md",
+    "Projects/Blog/note 1.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-01-18.md",
-    "daily/2025-01-08.md",
-    "Psychologie/Курс врослого и успешного мужчины/Семинар 2.md",
-    "Psychologie/Курс врослого и успешного мужчины/Семинар 1.md",
+    "Projects/Courses/info/Подготовка к заказная работа.md",
+    "Projects/Courses/info/Подготовка к crud.md",
+    "Projects/Plan/Бизнес план.md",
+    "Projects/Courses/Предисловие.md",
+    "Projects/Courses/info",
+    "Projects/Plan",
+    "Projects/Courses",
+    "Projects/Blog",
+    "Projects",
+    "Economics/theme/material/Лекционный курс совершенной экономике.md",
+    "Economics/elastic.md",
+    "Economics/analise.md",
+    "Economics/theme/material/Творческое разрушение.md",
+    "Economics/volumes/volume 12.md",
+    "Economics/volumes/volume 11.md",
+    "Economics/theme/material/Курс экономической мысли.md",
+    "Economics/Список ключевых графиков.md",
+    "Economics/theme/material/Затраты и издержки.md",
+    "Economics/theme/Ситуации/Рассмотрим следующие ситуации.md",
+    "Economics/theme/material",
+    "Economics/theme/Вопросы/Сравнение/quest1.md",
+    "Economics/theme/Вопросы/Сравнение/low1.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические теории.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические модели.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
     "Economics/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
     "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические теории.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические модели.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы полезности.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
     "Economics/theme/Вопросы/Глобально экономические вопросы",
-    "Economics/theme/material/Производственные мощности.md",
-    "Economics/theme/material/Экономические ресурсы.md",
-    "Economics/theme/material/Экономические  и Альтернативные издержки.md",
-    "Economics/theme/material/Экономическая мысль.md",
-    "Economics/theme/material/Рынки в экономике.md",
-    "Economics/theme/material/Творческое разрушение.md",
-    "Economics/theme/material/Факторы производства.md",
-    "Economics/theme/material/Совершенный рынок.md",
-    "Economics/theme/material/Курс Основы экономической теории.md",
-    "Economics/theme/material",
-    "Courses/Подготовка",
-    "Economics/volumes/volume 2",
-    "Economics/volumes/Новая папка",
-    "Economics/volumes/volume 10",
-    "Economics/volumes/volume 9",
-    "Economics/volumes/volume 7",
-    "Untitled.canvas",
+    "Untitled",
     "Untitled 1.canvas",
+    "Economics/volume 9",
+    "Economics/volume 7",
+    "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
     "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
