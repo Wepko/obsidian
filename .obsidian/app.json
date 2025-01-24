@@ -13,5 +13,6 @@
   },
   "promptDelete": false,
   "attachmentFolderPath": "delay",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }

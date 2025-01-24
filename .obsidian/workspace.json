@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-01-19.md",
+                "file": "lk.samgtu/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-19"
-            }
-          },
-          {
-            "id": "f13b5b9eabce704a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Plan/Бизнес план.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бизнес план"
+              "title": "Untitled"
             }
           },
           {
@@ -127,8 +112,7 @@
               "title": "Рынки в экономике"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,13 +224,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f13b5b9eabce704a",
+  "active": "e5102369350b88d5",
   "lastOpenFiles": [
-    "Projects/Plan/постеры.md",
+    "daily/2025-01-19.md",
+    "lk.samgtu/Untitled.md",
+    "Projects/Linguistics_Russian/Article_language.md",
+    "lk.samgtu",
+    "Projects/Linguistics_Russian/Linguistics_Russian.md",
     "Projects/Plan/Бизнес план.md",
+    "Projects/Plan/постеры.md",
     "daily/2025-01-23.md",
     "daily/2025-01-18.md",
-    "daily/2025-01-19.md",
     "Projects/Blog/note 1.md",
     "conflict-files-obsidian-git.md",
     "Projects/Courses/info/Подготовка к заказная работа.md",
@@ -271,14 +259,10 @@
     "Economics/theme/Вопросы/Сравнение/quest1.md",
     "Economics/theme/Вопросы/Сравнение/low1.md",
     "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические теории.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические модели.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
     "Economics/theme/Вопросы/Глобально экономические вопросы",
     "Untitled",
     "Untitled 1.canvas",
     "Economics/volume 9",
-    "Economics/volume 7",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
