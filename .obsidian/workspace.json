@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-01-30.md",
+                "file": "Economics/volumes/volume 12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-30"
+              "title": "volume 12"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "718f3222f9c48f68",
   "lastOpenFiles": [
-    "Projects/Courses/CRUD/ТЗ.md",
     "daily/2025-01-30.md",
+    "Projects/Courses/CRUD/ТЗ.md",
     "Projects/Courses/info/Подготовка к crud.md",
     "Projects/Courses/info/Подготовка к заказная работа.md",
     "start.obsidian.md",
