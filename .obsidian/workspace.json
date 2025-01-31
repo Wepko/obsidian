@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-01-31.md",
+                "file": "Projects/Courses/CRUD/Этапы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-01-31"
+              "title": "Этапы"
             }
           }
         ],
@@ -210,6 +210,8 @@
   },
   "active": "da5e0133cd351532",
   "lastOpenFiles": [
+    "Projects/Courses/CRUD/ТЗ.md",
+    "Projects/Courses/CRUD/Этапы.md",
     "daily/2025-01-31.md",
     "Economics/volumes/volume 13/volume 13.md",
     "Projects/Mincraft Server/Основная идея.md",
@@ -233,13 +235,11 @@
     "Economics/volumes/volume 11.md",
     "Economics/volumes/volume 12",
     "daily/2025-01-30.md",
-    "Projects/Courses/CRUD/ТЗ.md",
     "Projects/Courses/info/Подготовка к crud.md",
     "Projects/Courses/info/Подготовка к заказная работа.md",
     "start.obsidian.md",
     "helper Obsidian.md",
     "Санта тест.md",
-    "Первая заметка.md",
     "lk.samgtu",
     "Projects/Linguistics_Russian",
     "Projects/Plan",
