@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/theme/material/Econimica sovershi/Lection 1.md",
+                "file": "Economics/volumes/volume 12/(1) Характеристики монополии.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lection 1"
+              "title": "(1) Характеристики монополии"
             }
           }
         ],
@@ -210,8 +210,10 @@
   },
   "active": "da5e0133cd351532",
   "lastOpenFiles": [
-    "Economics/theme/material/Econimica sovershi/Лекционный курс совершенной экономике.md",
+    "Economics/theme/material/Творческое разрушение.md",
+    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/theme/material/Econimica sovershi/Lection 1.md",
+    "Economics/theme/material/Econimica sovershi/Лекционный курс совершенной экономике.md",
     "Economics/theme/material/Econimica sovershi/Совершенная экономека.md",
     "Projects/Courses/CRUD/Этапы.md",
     "Economics/theme/material/Econimica sovershi",
@@ -225,7 +227,6 @@
     "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
     "Economics/volumes/volume 13",
     "Economics/volumes/volume 12/volume 12.md",
-    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/volumes/volume 12/(6) Ценовая дискриминация.md",
     "Economics/volumes/volume 12/(4) Определение обьем производства и цены.md",
     "Economics/volumes/volume 12/(3) Монопольный спрос.md",
@@ -240,7 +241,6 @@
     "Economics/volumes/volume 12",
     "daily/2025-01-30.md",
     "Projects/Courses/info/Подготовка к crud.md",
-    "Projects/Courses/info/Подготовка к заказная работа.md",
     "lk.samgtu",
     "Projects/Linguistics_Russian",
     "Projects/Plan",
