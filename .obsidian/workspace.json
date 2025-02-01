@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Mincraft Server/Основная идея.md",
+                "file": "Economics/volumes/volume 13/volume 13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основная идея"
-            }
-          },
-          {
-            "id": "da5e0133cd351532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "(2) Барьеры для вхождения в отрасль"
+              "title": "volume 13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +183,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da5e0133cd351532",
+  "active": "718f3222f9c48f68",
   "lastOpenFiles": [
+    "Economics/volumes/volume 14/volume 14.md",
+    "Economics/volumes/volume 13/volume 13.md",
+    "Economics/volumes/volume 10/volume 10.md",
+    "Economics/volumes/volume 12/volume 12.md",
+    "Projects/Mincraft Server/Основная идея.md",
+    "Economics/volumes/volume 13/Untitled.md",
+    "Economics/volumes/volume 12/(3) Монопольный спрос.md",
+    "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
+    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/volumes/volume 12/(1) Характеристики монополии.md",
     "Economics/theme/material/Творческое разрушение.md",
-    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/theme/material/Econimica sovershi/Lection 1.md",
     "Economics/theme/material/Econimica sovershi/Лекционный курс совершенной экономике.md",
     "Economics/theme/material/Econimica sovershi/Совершенная экономека.md",
@@ -220,27 +203,19 @@
     "Economics/theme/material/Econimica sovershi",
     "Projects/Courses/CRUD/ТЗ.md",
     "daily/2025-01-31.md",
-    "Economics/volumes/volume 13/volume 13.md",
-    "Projects/Mincraft Server/Основная идея.md",
     "Projects/Mincraft Server",
-    "Economics/volumes/volume 14/volume 14.md",
     "Economics/volumes/volume 14",
     "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
     "Economics/volumes/volume 13",
-    "Economics/volumes/volume 12/volume 12.md",
     "Economics/volumes/volume 12/(6) Ценовая дискриминация.md",
     "Economics/volumes/volume 12/(4) Определение обьем производства и цены.md",
-    "Economics/volumes/volume 12/(3) Монопольный спрос.md",
-    "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
     "Economics/volumes/volume 4.md",
     "Economics/volumes/volume 12/ценовую и неценовую конкуренцию.md",
     "Economics/volumes/volume 10/Максиммизация прибыли в краткосрочной перспективе на основе сравнения совокупного дохода и общих издержек.md",
     "Economics/volumes/volume 10/Конкуренция рынка.md",
-    "Economics/volumes/volume 10/volume 10.md",
     "Economics/volumes/volume 11.md",
     "Economics/volumes/volume 12",
     "daily/2025-01-30.md",
-    "Projects/Courses/info/Подготовка к crud.md",
     "lk.samgtu",
     "Projects/Linguistics_Russian",
     "Projects/Plan",
