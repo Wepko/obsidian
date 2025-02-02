@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-02-02"
             }
+          },
+          {
+            "id": "98b3928fa08985e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,9 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc6f9952a4804a18",
+  "active": "98b3928fa08985e3",
   "lastOpenFiles": [
     "daily/2025-02-02.md",
+    "conflict-files-obsidian-git.md",
     "Economics/volumes/volume 3/Термины спроса их виды формулировки.md",
     "Economics/volumes/volume 2/volume 2.md",
     "Economics/volumes/volume 1/volume 1.md",
@@ -235,7 +260,6 @@
     "Economics/volumes/volume 12/(3) Монопольный спрос.md",
     "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
     "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
-    "Economics/volumes/volume 12/(1) Характеристики монополии.md",
     "Economics/theme/material/Econimica sovershi",
     "Projects/Mincraft Server",
     "Economics/volumes/volume 14",
