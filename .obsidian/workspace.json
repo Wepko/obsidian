@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volumes/volume 14/volume 14.md",
+                "file": "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 14"
+              "title": "Каноническое определение спроса и предложения"
+            }
+          },
+          {
+            "id": "dc6f9952a4804a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-02-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "718f3222f9c48f68",
+  "active": "dc6f9952a4804a18",
   "lastOpenFiles": [
-    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
+    "daily/2025-02-02.md",
+    "Economics/volumes/volume 3/Термины спроса их виды формулировки.md",
+    "Economics/volumes/volume 2/volume 2.md",
+    "Economics/volumes/volume 1/volume 1.md",
+    "Economics/theme/material/Затраты и издержки.md",
+    "Economics/theme/material/Модель производственных возможностей (МПВ).md",
+    "Economics/theme/material/Поведенческая экономика.md",
     "Economics/volumes/volume 14/volume 14.md",
+    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
     "Economics/volumes/volume 14/(5) Олигополия и эффективность.md",
     "Economics/volumes/volume 14/(4) Олигополия и реклама.md",
     "Economics/volumes/volume 14/(3) Три моделии олигополии.md",
@@ -204,14 +236,7 @@
     "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
     "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/volumes/volume 12/(1) Характеристики монополии.md",
-    "Economics/theme/material/Творческое разрушение.md",
-    "Economics/theme/material/Econimica sovershi/Lection 1.md",
-    "Economics/theme/material/Econimica sovershi/Лекционный курс совершенной экономике.md",
-    "Economics/theme/material/Econimica sovershi/Совершенная экономека.md",
-    "Projects/Courses/CRUD/Этапы.md",
     "Economics/theme/material/Econimica sovershi",
-    "Projects/Courses/CRUD/ТЗ.md",
-    "daily/2025-01-31.md",
     "Projects/Mincraft Server",
     "Economics/volumes/volume 14",
     "Economics/volumes/volume 13",
