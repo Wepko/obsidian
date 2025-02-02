@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "2025-02-02"
             }
-          },
-          {
-            "id": "98b3928fa08985e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98b3928fa08985e3",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "daily/2025-02-02.md",
     "conflict-files-obsidian-git.md",
