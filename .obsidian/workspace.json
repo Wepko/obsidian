@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
+                "file": "inbox/late.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Какая математика нужна экономисту"
+              "title": "late"
             }
           }
         ],
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,32 +210,32 @@
   },
   "active": "dc6f9952a4804a18",
   "lastOpenFiles": [
-    "start.obsidian.md",
-    "helper Obsidian.md",
-    "Санта тест.md",
-    "Первая заметка.md",
-    "Ещё одна заметка.md",
     "inbox/tasks.md",
     "inbox/late.md",
     "inbox/inbox.md",
     "inbox/Вопрос.md",
+    "Economics/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
+    "Economics/theme/Вопросы/Как строиться исследование экономики.md",
+    "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
+    "daily/2022-02-19.md",
+    "daily/2022-02-14.md",
+    "daily/2024-11-21.md",
+    "daily/2024-11-28.md",
+    "daily/2024-12-24.md",
+    "daily/daily.md",
+    "daily/new.md",
+    "daily/2025-02-04.md",
+    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
+    "Programming/old/base_of_programming/operator-statement/operator_academic.md",
+    "helper Obsidian.md",
+    "Economics/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
+    "start.obsidian.md",
+    "Санта тест.md",
+    "Первая заметка.md",
+    "Ещё одна заметка.md",
     "Economics/elastic.md",
     "Economics/analise.md",
-    "daily/2025-02-02.md",
-    "conflict-files-obsidian-git.md",
-    "Economics/volumes/volume 3/Термины спроса их виды формулировки.md",
-    "Economics/volumes/volume 2/volume 2.md",
-    "Economics/volumes/volume 1/volume 1.md",
-    "Economics/theme/material/Затраты и издержки.md",
-    "Economics/theme/material/Модель производственных возможностей (МПВ).md",
-    "Economics/theme/material/Поведенческая экономика.md",
-    "Economics/volumes/volume 14/volume 14.md",
-    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
-    "Economics/volumes/volume 14/(5) Олигополия и эффективность.md",
-    "Economics/volumes/volume 14/(4) Олигополия и реклама.md",
-    "Economics/volumes/volume 14/(3) Три моделии олигополии.md",
-    "Economics/volumes/volume 14/(2) Поведение участников олигополии его анализ с точки зрения теории игр.md",
-    "Economics/volumes/volume 14/(1) Олигополия.md",
     "Economics/theme/material/Econimica sovershi",
     "Projects/Mincraft Server",
     "Economics/volumes/volume 14",
