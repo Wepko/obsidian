@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-02.md",
+                "file": "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-02"
+              "title": "Какая математика нужна экономисту"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рынк",
+                "query": "Матема",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,8 +209,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "dc6f9952a4804a18",
   "lastOpenFiles": [
+    "start.obsidian.md",
+    "helper Obsidian.md",
+    "Санта тест.md",
+    "Первая заметка.md",
+    "Ещё одна заметка.md",
+    "inbox/tasks.md",
+    "inbox/late.md",
+    "inbox/inbox.md",
+    "inbox/Вопрос.md",
+    "Economics/elastic.md",
+    "Economics/analise.md",
     "daily/2025-02-02.md",
     "conflict-files-obsidian-git.md",
     "Economics/volumes/volume 3/Термины спроса их виды формулировки.md",
@@ -225,17 +237,6 @@
     "Economics/volumes/volume 14/(3) Три моделии олигополии.md",
     "Economics/volumes/volume 14/(2) Поведение участников олигополии его анализ с точки зрения теории игр.md",
     "Economics/volumes/volume 14/(1) Олигополия.md",
-    "Economics/volumes/volume 13/volume 13.md",
-    "Economics/volumes/volume 13/(4) Разнообразие продукции.md",
-    "Economics/volumes/volume 13/(3) Монополистическая конкуренция и эффективность.md",
-    "Economics/volumes/volume 13/(2) Цена и объем продукции при монополистической конкуренции.md",
-    "Economics/volumes/volume 13/(1) Монополистическая конкуренция.md",
-    "Economics/volumes/volume 10/volume 10.md",
-    "Economics/volumes/volume 12/volume 12.md",
-    "Projects/Mincraft Server/Основная идея.md",
-    "Economics/volumes/volume 12/(3) Монопольный спрос.md",
-    "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
-    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/theme/material/Econimica sovershi",
     "Projects/Mincraft Server",
     "Economics/volumes/volume 14",
