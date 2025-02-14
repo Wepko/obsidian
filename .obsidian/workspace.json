@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "daily/2025-02-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-02-15"
             }
           }
         ],
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -234,10 +235,11 @@
   },
   "active": "7aca8af2a5bc6535",
   "lastOpenFiles": [
+    "Untitled.md",
+    "daily/2025-02-15.md",
     "delay/Pasted image 20250206124311.png",
     "delay",
     "start.obsidian.md",
-    "Untitled.md",
     "inbox/late.md",
     "inbox/tasks.md",
     "inbox/inbox.md",
@@ -280,7 +282,6 @@
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Pasted image 20230907194244.png",
     "Programming/Pasted image 20230907192719.png",
-    "Programming/Pasted image 20230907113832.png",
-    "Programming/Pasted image 20230903135254.png"
+    "Programming/Pasted image 20230907113832.png"
   ]
 }
