@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-15.md",
+                "file": "daily/2025-02-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-15"
+              "title": "2025-02-04"
             }
           }
         ],
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -235,8 +234,14 @@
   },
   "active": "7aca8af2a5bc6535",
   "lastOpenFiles": [
-    "Untitled.md",
+    "daily/2024-12-15.md",
+    "daily/2024-12-16.md",
+    "daily/2025-01-08.md",
+    "daily/2024-12-03.md",
+    "daily/2024-12-01.md",
+    "daily/2024-11-26.md",
     "daily/2025-02-15.md",
+    "Untitled.md",
     "delay/Pasted image 20250206124311.png",
     "delay",
     "start.obsidian.md",
@@ -257,12 +262,6 @@
     "daily/new.md",
     "daily/2025-02-04.md",
     "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
-    "Programming/old/base_of_programming/operator-statement/operator_academic.md",
-    "helper Obsidian.md",
-    "Economics/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
-    "Санта тест.md",
-    "Первая заметка.md",
-    "Ещё одна заметка.md",
     "Economics/theme/material/Econimica sovershi",
     "Projects/Mincraft Server",
     "Economics/volumes/volume 14",
