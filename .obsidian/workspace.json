@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-04.md",
+                "file": "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-04"
+              "title": "Какие есть виды экономических систем"
             }
           }
         ],
@@ -234,6 +234,9 @@
   },
   "active": "7aca8af2a5bc6535",
   "lastOpenFiles": [
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
+    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы полезности.md",
+    "daily/2025-02-04.md",
     "daily/2024-12-15.md",
     "daily/2024-12-16.md",
     "daily/2025-01-08.md",
@@ -259,9 +262,6 @@
     "daily/2024-11-28.md",
     "daily/2024-12-24.md",
     "daily/daily.md",
-    "daily/new.md",
-    "daily/2025-02-04.md",
-    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
     "Economics/theme/material/Econimica sovershi",
     "Projects/Mincraft Server",
     "Economics/volumes/volume 14",
