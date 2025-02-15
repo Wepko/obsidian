@@ -71,6 +71,30 @@
             }
           },
           {
+            "id": "74ff1c191be57f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "1062c9aef33ab452",
             "type": "leaf",
             "state": {
@@ -161,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,9 +298,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5bcc862efeb9a12",
+  "active": "74ff1c191be57f7a",
   "lastOpenFiles": [
     "daily/2025-02-15.md",
+    "conflict-files-obsidian-git.md",
+    "delay/Pasted image 20250206124311.png",
+    "delay",
+    "daily/2025-02-04.md",
+    "Untitled.md",
     "Economics/volumes/volume 12/(1) Характеристики монополии.md",
     "Economics/volumes/volume 13/(1) Монополистическая конкуренция.md",
     "Economics/volumes/volume 13/(4) Разнообразие продукции.md",
@@ -299,9 +328,6 @@
     "Economics/volumes/volume 12/(3) Монопольный спрос.md",
     "Economics/volumes/volume 6/elastic.md",
     "Economics/volumes/volume 6/Эластичность.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2025-02-02.md",
-    "Projects/Mincraft Server/Основная идея.md",
     "Projects/Mincraft Server",
     "Projects/Courses/CRUD",
     "Economics/volumes/volume 14",
@@ -311,7 +337,6 @@
     "lk.samgtu",
     "Projects/Courses/info",
     "Projects/Plan",
-    "Projects/Courses",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
@@ -322,7 +347,6 @@
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Pasted image 20230907194244.png",
     "Programming/Pasted image 20230907192719.png",
-    "Programming/Pasted image 20230907113832.png",
-    "Programming/Pasted image 20230903135254.png"
+    "Programming/Pasted image 20230907113832.png"
   ]
 }
