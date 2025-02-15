@@ -28,13 +28,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volumes/volume 12/(3) Монопольный спрос.md",
+                "file": "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
                 "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "(3) Монопольный спрос"
+              "title": "(7) Регулируемая монополия"
+            }
+          },
+          {
+            "id": "d5bcc862efeb9a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-02-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-15"
             }
           },
           {
@@ -128,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +180,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -240,38 +274,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4886c63cef28c3a3",
+  "active": "d5bcc862efeb9a12",
   "lastOpenFiles": [
+    "daily/2025-02-15.md",
+    "Economics/volumes/volume 12/(1) Характеристики монополии.md",
+    "Economics/volumes/volume 13/(1) Монополистическая конкуренция.md",
+    "Economics/volumes/volume 13/(4) Разнообразие продукции.md",
+    "Economics/volumes/volume 13/volume 13.md",
+    "Economics/volumes/volume 13/(3) Монополистическая конкуренция и эффективность.md",
+    "Economics/volumes/volume 9/Экономические издержки.md",
+    "Economics/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
+    "Economics/volumes/volume 9/Предельные издержки.md",
+    "Economics/volumes/volume 9/Краткосрочный период и их издержки.md",
+    "Economics/volumes/volume 10/мысль.md",
+    "Economics/volumes/volume 10/Максиммизация прибыли в краткосрочной перспективе на основе сравнения совокупного дохода и общих издержек.md",
+    "Economics/volumes/volume 10/Конкуренция рынка.md",
+    "Economics/volumes/volume 11.md",
+    "Economics/volumes/volume 10/volume 10.md",
+    "Economics/volumes/volume 13/(2) Цена и объем продукции при монополистической конкуренции.md",
+    "Economics/volumes/volume 12/ценовую и неценовую конкуренцию.md",
+    "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
+    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
+    "Economics/volumes/volume 12/(4) Определение обьем производства и цены.md",
+    "Economics/volumes/volume 12/(3) Монопольный спрос.md",
+    "Economics/volumes/volume 6/elastic.md",
+    "Economics/volumes/volume 6/Эластичность.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-02-02.md",
     "Projects/Mincraft Server/Основная идея.md",
     "Projects/Mincraft Server",
-    "Projects/Courses/CRUD/Этапы.md",
-    "Projects/Courses/CRUD/ТЗ.md",
     "Projects/Courses/CRUD",
-    "Economics/volumes/volume 14/volume 14.md",
-    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
-    "Economics/volumes/volume 14/(5) Олигополия и эффективность.md",
-    "Economics/volumes/volume 14/(4) Олигополия и реклама.md",
-    "Economics/volumes/volume 14/(3) Три моделии олигополии.md",
-    "Economics/volumes/volume 14/(2) Поведение участников олигополии его анализ с точки зрения теории игр.md",
-    "Economics/volumes/volume 14/(1) Олигополия.md",
     "Economics/volumes/volume 14",
-    "Economics/volumes/volume 13/volume 13.md",
-    "Economics/volumes/volume 13/(4) Разнообразие продукции.md",
-    "Economics/volumes/volume 13/(3) Монополистическая конкуренция и эффективность.md",
-    "Economics/volumes/volume 13/(2) Цена и объем продукции при монополистической конкуренции.md",
-    "Economics/volumes/volume 13/(1) Монополистическая конкуренция.md",
     "Economics/volumes/volume 13",
-    "Economics/volumes/volume 12/ценовую и неценовую конкуренцию.md",
-    "Economics/volumes/volume 12/volume 12.md",
-    "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
-    "Economics/volumes/volume 12/(6) Ценовая дискриминация.md",
-    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
-    "Economics/volumes/volume 12/(4) Определение обьем производства и цены.md",
-    "Economics/volumes/volume 12/(3) Монопольный спрос.md",
-    "Economics/volumes/volume 12/(2) Барьеры для вхождения в отрасль.md",
-    "Economics/volumes/volume 12/(1) Характеристики монополии.md",
     "Economics/volumes/volume 12",
     "Economics/theme/material/Econimica sovershi",
     "lk.samgtu",
