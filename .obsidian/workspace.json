@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2118a2a01ae21009",
+        "id": "465e00ddfbece56f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec8f5765e6b311b",
+            "id": "82f61f3370f13299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Docker/предварительная работа.md",
-                "mode": "source",
+                "file": "Economics/volumes/volume 8 X.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "предварительная работа"
-            }
-          },
-          {
-            "id": "15d3571fe970246e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Docker/thems/tty.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "tty"
+              "title": "volume 8 X"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,13 +183,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "82f61f3370f13299",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Programming/Docker/thems/tty.md",
-    "Programming/Docker/thems",
+    "Economics/volume 15.md",
     "Programming/Docker/предварительная работа.md",
+    "Economics/volume 12.md",
+    "Economics/volume 13.md",
+    "Economics/volume 14.md",
     "Programming/Docker/docker.md",
+    "Programming/Docker/thems/tty.md",
+    "conflict-files-obsidian-git.md",
+    "Programming/Docker/thems",
     "Programming/Course/Middle developer.md",
     "Programming/Docker",
     "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
@@ -238,9 +217,6 @@
     "Economics/volume 9/Untitled.md",
     "Economics/volume 9",
     "Economics/volume 9.md",
-    "Economics/volume 8 X.md",
-    "Economics/volume 7/Термины 3.md",
-    "Economics/volume 7/Термины 1.md",
     "Economics/volume 7",
     "Economics/volume 3",
     "Economics/volume 10",
