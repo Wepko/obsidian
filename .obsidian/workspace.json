@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c025b65a164671b0",
+        "id": "2118a2a01ae21009",
         "type": "tabs",
         "children": [
           {
-            "id": "718f3222f9c48f68",
+            "id": "2ec8f5765e6b311b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
+                "file": "Programming/Docker/предварительная работа.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Каноническое определение спроса и предложения"
+              "title": "предварительная работа"
             }
           },
           {
-            "id": "dc6f9952a4804a18",
+            "id": "15d3571fe970246e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start.obsidian.md",
+                "file": "Programming/Docker/thems/tty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "start.obsidian"
+              "title": "tty"
             }
           },
           {
-            "id": "7aca8af2a5bc6535",
+            "id": "0e083d4f99699e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-21.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-21"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -232,47 +232,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aca8af2a5bc6535",
+  "active": "0e083d4f99699e02",
   "lastOpenFiles": [
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
-    "daily/2025-02-21.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы полезности.md",
-    "daily/2025-02-04.md",
-    "daily/2024-12-15.md",
-    "daily/2024-12-16.md",
-    "daily/2025-01-08.md",
-    "daily/2024-12-03.md",
-    "daily/2024-12-01.md",
-    "daily/2024-11-26.md",
-    "daily/2025-02-15.md",
-    "Untitled.md",
-    "delay/Pasted image 20250206124311.png",
-    "delay",
+    "conflict-files-obsidian-git.md",
+    "Programming/Docker/thems/tty.md",
+    "Programming/Docker/thems",
+    "Programming/Docker/предварительная работа.md",
+    "Programming/Docker/docker.md",
+    "Programming/Course/Middle developer.md",
+    "Programming/Docker",
+    "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
     "start.obsidian.md",
-    "inbox/late.md",
-    "inbox/tasks.md",
-    "inbox/inbox.md",
-    "inbox/Вопрос.md",
-    "Economics/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
-    "Economics/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
-    "Economics/theme/Вопросы/Как строиться исследование экономики.md",
-    "Economics/theme/Вопросы/Какая математика нужна экономисту.md",
-    "daily/2022-02-19.md",
-    "daily/2022-02-14.md",
-    "daily/2024-11-21.md",
-    "daily/2024-11-28.md",
-    "Economics/theme/material/Econimica sovershi",
-    "Projects/Mincraft Server",
-    "Economics/volumes/volume 14",
-    "Economics/volumes/volume 13",
-    "Economics/volumes/volume 12",
-    "lk.samgtu",
-    "Projects/Linguistics_Russian",
-    "Projects/Plan",
-    "Projects",
+    "Семинар 2.md",
+    "Семинар 1.md",
+    "Рынки в экономике.md",
+    "daily/2025-02-16.md",
+    "daily/2025-01-22.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
+    "Linguistics_Russian/Linguistics_Russian.md",
+    "Linguistics_Russian/Article_language.md",
+    "Linguistics_Russian",
+    "Economics/Творческое разрушение.md",
+    "Economics/volumes/volume 14.md",
+    "Economics/volumes/volume 13.md",
+    "Economics/volumes/volume 12.md",
+    "Economics/volume 9/Экономические издержки.md",
+    "Economics/volume 9/Краткосрочный период и их издержки.md",
+    "Economics/volume 9/Untitled.md",
+    "Economics/volume 9",
+    "Economics/volume 9.md",
+    "Economics/volume 8 X.md",
+    "Economics/volume 7/Термины 3.md",
+    "Economics/volume 7/Термины 1.md",
+    "Economics/volume 7",
+    "Economics/volume 3",
+    "Economics/volume 10",
+    "Economics/volume 1",
+    "Courses/info",
+    "Courses",
+    "delay/Pasted image 20250206124311.png",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
     "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
