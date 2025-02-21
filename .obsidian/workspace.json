@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Docker/docker.md",
-                "mode": "preview",
+                "file": "Programming/Docker/предварительная работа.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "предварительная работа"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "0bb022acb8984001",
   "lastOpenFiles": [
+    "Programming/Docker/docker.md",
     "Programming/Docker/предварительная работа.md",
     "Economics/Список ключевых графиков.md",
     "Economics/volumes/volume 8 X.md",
@@ -192,7 +193,6 @@
     "Economics/volume 12.md",
     "Economics/volume 13.md",
     "Economics/volume 14.md",
-    "Programming/Docker/docker.md",
     "Programming/Docker/thems/tty.md",
     "conflict-files-obsidian-git.md",
     "Programming/Docker/thems",
