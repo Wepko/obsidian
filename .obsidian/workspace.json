@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "465e00ddfbece56f",
+        "id": "a4f45a28c97494e0",
         "type": "tabs",
         "children": [
           {
-            "id": "82f61f3370f13299",
+            "id": "0bb022acb8984001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volumes/volume 8 X.md",
+                "file": "Programming/Docker/docker.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 8 X"
+              "title": "docker"
             }
           }
         ]
@@ -183,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82f61f3370f13299",
+  "active": "0bb022acb8984001",
   "lastOpenFiles": [
-    "Economics/volume 15.md",
     "Programming/Docker/предварительная работа.md",
+    "Economics/Список ключевых графиков.md",
+    "Economics/volumes/volume 8 X.md",
+    "Economics/volume 15.md",
     "Economics/volume 12.md",
     "Economics/volume 13.md",
     "Economics/volume 14.md",
@@ -214,9 +216,7 @@
     "Economics/volumes/volume 12.md",
     "Economics/volume 9/Экономические издержки.md",
     "Economics/volume 9/Краткосрочный период и их издержки.md",
-    "Economics/volume 9/Untitled.md",
     "Economics/volume 9",
-    "Economics/volume 9.md",
     "Economics/volume 7",
     "Economics/volume 3",
     "Economics/volume 10",
