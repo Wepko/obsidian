@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Docker/предварительная работа.md",
+                "file": "Projects/Courses/CRUD/Этапы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "предварительная работа"
-            }
-          },
-          {
-            "id": "b4e9858ed60f84d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-03-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-01"
+              "title": "Этапы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +183,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4e9858ed60f84d6",
+  "active": "0bb022acb8984001",
   "lastOpenFiles": [
+    "Projects/Courses/CRUD/ТЗ.md",
+    "Projects/Courses/info/Подготовка к заказная работа.md",
+    "Projects/Courses/info/Подготовка к crud.md",
+    "Courses/Предисловие.md",
+    "Courses/info/Подготовка к crud.md",
+    "Courses/info/Подготовка к заказная работа.md",
+    "Programming/Docker/предварительная работа.md",
+    "Projects/Courses/CRUD/Этапы.md",
+    "Projects/Courses/Предисловие.md",
+    "Programming/Course/Middle developer.md",
     "daily/2025-03-01.md",
     "Programming/Docker/docker.md",
-    "Programming/Docker/предварительная работа.md",
     "Economics/Список ключевых графиков.md",
     "Economics/volumes/volume 8 X.md",
     "Economics/volume 15.md",
@@ -222,7 +206,6 @@
     "Programming/Docker/thems/tty.md",
     "conflict-files-obsidian-git.md",
     "Programming/Docker/thems",
-    "Programming/Course/Middle developer.md",
     "Programming/Docker",
     "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
     "start.obsidian.md",
@@ -230,17 +213,9 @@
     "Семинар 1.md",
     "Рынки в экономике.md",
     "daily/2025-02-16.md",
-    "daily/2025-01-22.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Linguistics_Russian/Linguistics_Russian.md",
-    "Linguistics_Russian/Article_language.md",
     "Linguistics_Russian",
-    "Economics/Творческое разрушение.md",
-    "Economics/volumes/volume 14.md",
-    "Economics/volumes/volume 13.md",
-    "Economics/volumes/volume 12.md",
-    "Economics/volume 9/Экономические издержки.md",
     "Economics/volume 9",
     "Economics/volume 7",
     "Economics/volume 3",
