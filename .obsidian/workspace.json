@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-03-02.md",
+                "file": "Economics/volumes/volume 14/(2) Поведение участников олигополии его анализ с точки зрения теории игр.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,7 +67,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-02"
+              "title": "(2) Поведение участников олигополии его анализ с точки зрения теории игр"
             }
           },
           {
@@ -274,7 +274,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "d5bcc862efeb9a12",
   "lastOpenFiles": [
     "daily/2025-03-02.md",
     "conflict-files-obsidian-git.md",
