@@ -71,6 +71,30 @@
             }
           },
           {
+            "id": "18a347636067d089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "1062c9aef33ab452",
             "type": "leaf",
             "state": {
@@ -161,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,45 +298,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5bcc862efeb9a12",
+  "active": "18a347636067d089",
   "lastOpenFiles": [
-    "Economics/volumes/volume 14/(1) Олигополия.md",
     "daily/2025-03-02.md",
-    "daily/2025-02-15.md",
     "conflict-files-obsidian-git.md",
+    "Projects/Clover/Index.md",
+    "Projects/Clover",
+    "Programming/Docker/thems/tty.md",
+    "Programming/Docker/предварительная работа.md",
+    "Programming/Docker/thems",
+    "Programming/Docker/docker.md",
+    "Programming/Docker",
+    "Linguistics_Russian/Linguistics_Russian.md",
+    "Linguistics_Russian/Article_language.md",
+    "Linguistics_Russian",
+    "Семинар 2.md",
+    "Семинар 1.md",
+    "Economics/theme/Какая математика нужна экономисту.md",
+    "Economics/theme/Затраты и издержки.md",
+    "Economics/theme/Вопросы/Сравнение/low1.md",
+    "Economics/theme/Вопросы/Какие есть экономические эффекты.md",
+    "Economics/theme/Вопросы/Какие есть экономические теории.md",
+    "Economics/theme/Вопросы/Какие есть экономические модели.md",
+    "Economics/theme/Вопросы/Какие есть экономические законы.md",
+    "Economics/theme/Вопросы/Какие есть экономические законы полезности.md",
+    "Economics/theme/Вопросы/Какие есть виды экономических систем.md",
+    "Courses/info/Подготовка к заказная работа.md",
+    "Courses/info/Подготовка к crud.md",
+    "Courses/Предисловие.md",
+    "Courses/info",
+    "Courses",
+    "Blog/note 1.md",
+    "Blog",
+    "Economics/volumes/volume 14/(1) Олигополия.md",
+    "daily/2025-02-15.md",
     "delay/Pasted image 20250206124311.png",
     "delay",
     "daily/2025-02-04.md",
-    "Untitled.md",
-    "Economics/volumes/volume 12/(1) Характеристики монополии.md",
-    "Economics/volumes/volume 13/(1) Монополистическая конкуренция.md",
-    "Economics/volumes/volume 13/(4) Разнообразие продукции.md",
-    "Economics/volumes/volume 13/volume 13.md",
-    "Economics/volumes/volume 13/(3) Монополистическая конкуренция и эффективность.md",
-    "Economics/volumes/volume 9/Экономические издержки.md",
-    "Economics/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
-    "Economics/volumes/volume 9/Предельные издержки.md",
-    "Economics/volumes/volume 9/Краткосрочный период и их издержки.md",
-    "Economics/volumes/volume 10/мысль.md",
-    "Economics/volumes/volume 10/Максиммизация прибыли в краткосрочной перспективе на основе сравнения совокупного дохода и общих издержек.md",
-    "Economics/volumes/volume 10/Конкуренция рынка.md",
-    "Economics/volumes/volume 11.md",
-    "Economics/volumes/volume 10/volume 10.md",
-    "Economics/volumes/volume 13/(2) Цена и объем продукции при монополистической конкуренции.md",
-    "Economics/volumes/volume 12/ценовую и неценовую конкуренцию.md",
-    "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
-    "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
-    "Economics/volumes/volume 12/(4) Определение обьем производства и цены.md",
-    "Economics/volumes/volume 12/(3) Монопольный спрос.md",
     "Projects/Mincraft Server",
     "Projects/Courses/CRUD",
-    "Economics/volumes/volume 14",
-    "Economics/volumes/volume 13",
-    "Economics/volumes/volume 12",
-    "Economics/theme/material/Econimica sovershi",
-    "lk.samgtu",
-    "Projects/Courses/info",
-    "Projects/Plan",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
