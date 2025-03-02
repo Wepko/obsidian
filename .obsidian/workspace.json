@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/volumes/volume 14/(1) Олигополия.md",
+                "file": "daily/2025-03-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,7 +67,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(1) Олигополия"
+              "title": "2025-03-02"
             }
           },
           {
@@ -276,6 +276,8 @@
   },
   "active": "d5bcc862efeb9a12",
   "lastOpenFiles": [
+    "Economics/volumes/volume 14/(1) Олигополия.md",
+    "daily/2025-03-02.md",
     "daily/2025-02-15.md",
     "conflict-files-obsidian-git.md",
     "delay/Pasted image 20250206124311.png",
@@ -302,8 +304,6 @@
     "Economics/volumes/volume 12/(5) Экономических эффекты монополии.md",
     "Economics/volumes/volume 12/(4) Определение обьем производства и цены.md",
     "Economics/volumes/volume 12/(3) Монопольный спрос.md",
-    "Economics/volumes/volume 6/elastic.md",
-    "Economics/volumes/volume 6/Эластичность.md",
     "Projects/Mincraft Server",
     "Projects/Courses/CRUD",
     "Economics/volumes/volume 14",
