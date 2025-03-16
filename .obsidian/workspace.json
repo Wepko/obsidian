@@ -71,6 +71,30 @@
             }
           },
           {
+            "id": "c677f8a08ccd87bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-03-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-16"
+            }
+          },
+          {
             "id": "1062c9aef33ab452",
             "type": "leaf",
             "state": {
@@ -161,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,8 +298,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5bcc862efeb9a12",
+  "active": "c677f8a08ccd87bc",
   "lastOpenFiles": [
+    "daily/2025-03-16.md",
     "daily/2025-03-02.md",
     "conflict-files-obsidian-git.md",
     "Projects/Clover/Index.md",
@@ -310,7 +335,6 @@
     "daily/2025-02-15.md",
     "delay/Pasted image 20250206124311.png",
     "delay",
-    "daily/2025-02-04.md",
     "Projects/Mincraft Server",
     "Projects/Courses/CRUD",
     "Untitled 1.canvas",
