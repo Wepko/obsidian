@@ -342,7 +342,7 @@ function fancyAlert(arg) {
     Абзацев может быть сколько угодно.
 ```
 
-Пример простой сноски[[1]](https://publish.obsidian.md/#fn-1-fd5704db39ba385f) и пример сноски подлиннее[[Programming/old/programming_languages/С++/2]](https://publish.obsidian.md/#fn-2-fd5704db39ba385f).
+Пример простой сноски[[1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице]](https://publish.obsidian.md/#fn-1-fd5704db39ba385f) и пример сноски подлиннее[[Programming/old/programming_languages/С++/2]](https://publish.obsidian.md/#fn-2-fd5704db39ba385f).
 
 ```md
 Сноски также можно оставлять прямо в тексте.^[обратите внимание, что карет `^` при этом выносится за скобки.]
