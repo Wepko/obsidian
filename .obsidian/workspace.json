@@ -95,6 +95,30 @@
             }
           },
           {
+            "id": "7acdb7cb86bc19d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-03-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-23"
+            }
+          },
+          {
             "id": "1062c9aef33ab452",
             "type": "leaf",
             "state": {
@@ -185,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -298,8 +322,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c677f8a08ccd87bc",
+  "active": "7acdb7cb86bc19d2",
   "lastOpenFiles": [
+    "daily/2025-03-23.md",
     "Economics/volumes/volume 26/3 Понимать почему сбережение и инвестиции являються ключевым фактором роста стандартов жизни.md",
     "Economics/volumes/volume 26/2 Участвовать  в дискусии о том , почему устойчивое повышение стандартов жизни являеться феноменом появления исторически относительно недавно.md",
     "Economics/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
@@ -331,7 +356,6 @@
     "Семинар 1.md",
     "Economics/theme/Какая математика нужна экономисту.md",
     "Economics/theme/Затраты и издержки.md",
-    "Economics/theme/Вопросы/Сравнение/low1.md",
     "Courses/info",
     "Courses",
     "Blog",
