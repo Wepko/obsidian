@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30c5b326b6cb8ec7",
+        "id": "6941a4e1381726c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e5102369350b88d5",
+            "id": "3b918b8423435ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-02-02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-02"
-            }
-          },
-          {
-            "id": "4886c63cef28c3a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volumes/volume 12/(7) Регулируемая монополия.md",
+                "file": "Economics/История экономической мысли/Cистема Кантильона.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -43,173 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(7) Регулируемая монополия"
-            }
-          },
-          {
-            "id": "d5bcc862efeb9a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volumes/volume 14/(2) Поведение участников олигополии его анализ с точки зрения теории игр.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "(2) Поведение участников олигополии его анализ с точки зрения теории игр"
-            }
-          },
-          {
-            "id": "c677f8a08ccd87bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 26/4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены"
-            }
-          },
-          {
-            "id": "7acdb7cb86bc19d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/История экономической мысли/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "1062c9aef33ab452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volume 3.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "volume 3"
-            }
-          },
-          {
-            "id": "96ca7029b8720bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volume 3.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "volume 3"
-            }
-          },
-          {
-            "id": "b1d269a522b666e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volume 3.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "volume 3"
-            }
-          },
-          {
-            "id": "3e74a1883f3ab261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volume 6/Эластичность.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эластичность"
-            }
-          },
-          {
-            "id": "8cf27799ab1011de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volume 6/Эластичность.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эластичность"
-            }
-          },
-          {
-            "id": "3aa5e64491fbf76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/theme/material/Рынки в экономике.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Рынки в экономике"
+              "title": "Cистема Кантильона"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,10 +144,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7acdb7cb86bc19d2",
+  "active": "3b918b8423435ad6",
   "lastOpenFiles": [
+    "Economics/История экономической мысли/Cистема Кантильона.md",
+    "Economics/Экономическая теория/volumes/volume 26/4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены.md",
+    "daily/2025-02-02.md",
     "daily/2025-03-23.md",
-    "Economics/История экономической мысли/Untitled.md",
     "Economics/История экономической мысли",
     "Economics/Экономическая теория",
     "Economics/Экономическая теория/volumes/volume 26/3 Понимать почему сбережение и инвестиции являються ключевым фактором роста стандартов жизни.md",
@@ -339,7 +163,6 @@
     "Economics/Экономическая теория/volumes/volume 4.md",
     "Economics/Экономическая теория/volumes/volume 26/6.md",
     "Economics/Экономическая теория/volumes/volume 26/5.md",
-    "Economics/Экономическая теория/volumes/volume 26/4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены.md",
     "daily/2025-03-16.md",
     "Economics/Экономическая теория/volumes/volume 27",
     "Economics/Экономическая теория/volumes/volume 26",
@@ -357,7 +180,6 @@
     "Linguistics_Russian",
     "Семинар 2.md",
     "Семинар 1.md",
-    "Economics/Экономическая теория/theme/Какая математика нужна экономисту.md",
     "Courses/info",
     "Courses",
     "delay/Pasted image 20250206124311.png",
