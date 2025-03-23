@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-03-23.md",
+                "file": "Economics/История экономической мысли/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-23"
+              "title": "Untitled"
             }
           },
           {
@@ -322,10 +322,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "7acdb7cb86bc19d2",
   "lastOpenFiles": [
-    "Economics/Экономическая теория",
     "daily/2025-03-23.md",
+    "Economics/История экономической мысли/Untitled.md",
+    "Economics/История экономической мысли",
+    "Economics/Экономическая теория",
     "Economics/Экономическая теория/volumes/volume 26/3 Понимать почему сбережение и инвестиции являються ключевым фактором роста стандартов жизни.md",
     "Economics/Экономическая теория/volumes/volume 26/2 Участвовать  в дискусии о том , почему устойчивое повышение стандартов жизни являеться феноменом появления исторически относительно недавно.md",
     "Economics/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
@@ -358,9 +360,7 @@
     "Economics/Экономическая теория/theme/Какая математика нужна экономисту.md",
     "Courses/info",
     "Courses",
-    "Blog",
     "delay/Pasted image 20250206124311.png",
-    "delay",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
