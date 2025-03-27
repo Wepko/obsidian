@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/История экономической мысли/Детерминизм и неопределенность в системе кантилиона.md",
+                "file": "daily/2025-03-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Детерминизм и неопределенность в системе кантилиона"
+              "title": "2025-03-27"
             }
           }
         ]
@@ -146,9 +146,10 @@
   },
   "active": "3b918b8423435ad6",
   "lastOpenFiles": [
+    "Economics/История экономической мысли/Детерминизм и неопределенность в системе кантилиона.md",
+    "daily/2025-03-27.md",
     "delay/Pasted image 20250324001823.png",
     "Economics/История экономической мысли/Cистема Кантильона.md",
-    "Economics/История экономической мысли/Детерминизм и неопределенность в системе кантилиона.md",
     "Economics/Экономическая теория/volumes/volume 26/4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены.md",
     "daily/2025-02-02.md",
     "daily/2025-03-23.md",
@@ -192,7 +193,6 @@
     "Programming/old/data_structure/Pasted image 20220215221026.png",
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Pasted image 20230907194244.png",
-    "Programming/Pasted image 20230907192719.png",
-    "Programming/Pasted image 20230907113832.png"
+    "Programming/Pasted image 20230907192719.png"
   ]
 }
