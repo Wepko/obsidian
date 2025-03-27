@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/История экономической мысли/Экономические системы Кантильона и Джона Ло сравнение и критика.md",
+                "file": "Economics/История экономической мысли/Основные идеи меркантилизма и физиократов.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Экономические системы Кантильона и Джона Ло сравнение и критика"
+              "title": "Основные идеи меркантилизма и физиократов"
             }
           }
         ]
@@ -146,8 +146,9 @@
   },
   "active": "3b918b8423435ad6",
   "lastOpenFiles": [
-    "Economics/История экономической мысли/Cистема Кантильона.md",
     "Economics/История экономической мысли/Экономические системы Кантильона и Джона Ло сравнение и критика.md",
+    "Economics/История экономической мысли/Основные идеи меркантилизма и физиократов.md",
+    "Economics/История экономической мысли/Cистема Кантильона.md",
     "Economics/История экономической мысли/Детерминизм и неопределенность в системе кантилиона.md",
     "daily/2025-03-27.md",
     "delay/Pasted image 20250324001823.png",
@@ -179,7 +180,6 @@
     "Programming/Docker/thems",
     "Programming/Docker/docker.md",
     "Programming/Docker",
-    "Linguistics_Russian/Linguistics_Russian.md",
     "Linguistics_Russian",
     "Courses/info",
     "Courses",
