@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-03-29.md",
+                "file": "Economics/История экономической мысли/Факторы успеха странны выделяет Смитт.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-29"
+              "title": "Факторы успеха странны выделяет Смитт"
             }
           }
         ]
@@ -146,8 +146,9 @@
   },
   "active": "3b918b8423435ad6",
   "lastOpenFiles": [
-    "Economics/История экономической мысли/Основные идеи меркантилизма и физиократов.md",
     "daily/2025-03-29.md",
+    "Economics/История экономической мысли/Факторы успеха странны выделяет Смитт.md",
+    "Economics/История экономической мысли/Основные идеи меркантилизма и физиократов.md",
     "Economics/История экономической мысли/Экономические системы Кантильона и Джона Ло сравнение и критика.md",
     "Economics/История экономической мысли/Cистема Кантильона.md",
     "Economics/История экономической мысли/Детерминизм и неопределенность в системе кантилиона.md",
@@ -177,7 +178,6 @@
     "Projects/Clover/Index.md",
     "Projects/Clover",
     "Programming/Docker/thems/tty.md",
-    "Programming/Docker/предварительная работа.md",
     "Programming/Docker/thems",
     "Programming/Docker",
     "Linguistics_Russian",
