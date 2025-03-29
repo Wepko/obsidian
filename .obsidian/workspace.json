@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/История экономической мысли/Факторы успеха странны выделяет Смитт.md",
+                "file": "Economics/История экономической мысли/Заработная плата По мальтутсу и по Смиту.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Факторы успеха странны выделяет Смитт"
+              "title": "Заработная плата По мальтутсу и по Смиту"
             }
           }
         ]
@@ -146,8 +146,9 @@
   },
   "active": "3b918b8423435ad6",
   "lastOpenFiles": [
-    "daily/2025-03-29.md",
     "Economics/История экономической мысли/Факторы успеха странны выделяет Смитт.md",
+    "Economics/История экономической мысли/Заработная плата По мальтутсу и по Смиту.md",
+    "daily/2025-03-29.md",
     "Economics/История экономической мысли/Основные идеи меркантилизма и физиократов.md",
     "Economics/История экономической мысли/Экономические системы Кантильона и Джона Ло сравнение и критика.md",
     "Economics/История экономической мысли/Cистема Кантильона.md",
@@ -177,7 +178,6 @@
     "conflict-files-obsidian-git.md",
     "Projects/Clover/Index.md",
     "Projects/Clover",
-    "Programming/Docker/thems/tty.md",
     "Programming/Docker/thems",
     "Programming/Docker",
     "Linguistics_Russian",
