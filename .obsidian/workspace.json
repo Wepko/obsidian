@@ -11,12 +11,24 @@
             "id": "0ac39e53601ad901",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Economics/Формализованая экономика/chapter 1/Схема экономической науки.png"
+                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Схема экономической науки"
+              "icon": "lucide-file",
+              "title": "Глава 1. Роль экономики в жизни общества ."
             }
           }
         ]
@@ -171,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ac39e53601ad901",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Economics/Формализованая экономика/chapter 1/Сферы экономических исследований.md",
+    "delay/Pasted image 20250403183924.png",
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
     "Economics/Формализованая экономика/chapter 1/Схема экономической науки.png",
     "Economics/Формализованая экономика/index.md",
@@ -201,7 +215,6 @@
     "Economics/Экономическая теория/volumes/volume 9/Экономические издержки.md",
     "Economics/Экономическая теория/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
     "Economics/Экономическая теория/volumes/volume 9/Предельные издержки.md",
-    "Economics/Экономическая теория/volumes/volume 9/Краткосрочный период и их издержки.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы",
@@ -218,7 +231,6 @@
     "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
     "Programming/old/data_structure/Pasted image 20220215221220.png",
     "Programming/old/data_structure/Pasted image 20220215221026.png",
-    "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
-    "Programming/Pasted image 20230907194244.png"
+    "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png"
   ]
 }
