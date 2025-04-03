@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bb022acb8984001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/volumes/volume 14/(2) Поведение участников олигополии его анализ с точки зрения теории игр.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "(2) Поведение участников олигополии его анализ с точки зрения теории игр"
-            }
-          },
-          {
             "id": "0ac39e53601ad901",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "2025-04-03"
+            }
+          },
+          {
+            "id": "d0316598ba0dc68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -208,46 +208,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ac39e53601ad901",
+  "active": "d0316598ba0dc68a",
   "lastOpenFiles": [
-    "daily/2025-04-03.md",
-    "Economics/volumes/volume 14/(3) Три моделии олигополии.md",
-    "Projects/Courses/CRUD/Этапы.md",
-    "Projects/Blog/note 1.md",
-    "Projects/Clover/Index.md",
-    "Projects/Plan/Бизнес план.md",
-    "Projects/Clover",
-    "Projects/Courses/CRUD/ТЗ.md",
-    "Projects/Courses/info/Подготовка к заказная работа.md",
-    "Projects/Courses/info/Подготовка к crud.md",
-    "Courses/Предисловие.md",
-    "Courses/info/Подготовка к crud.md",
-    "Courses/info/Подготовка к заказная работа.md",
-    "Programming/Docker/предварительная работа.md",
-    "Projects/Courses/Предисловие.md",
-    "Programming/Course/Middle developer.md",
-    "daily/2025-03-01.md",
-    "Programming/Docker/docker.md",
-    "Economics/Список ключевых графиков.md",
-    "Economics/volumes/volume 8 X.md",
-    "Economics/volume 15.md",
-    "Economics/volume 12.md",
-    "Economics/volume 13.md",
-    "Economics/volume 14.md",
-    "Programming/Docker/thems/tty.md",
     "conflict-files-obsidian-git.md",
-    "Programming/Docker/thems",
-    "Programming/Docker",
-    "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
+    "daily/2025-04-03.md",
+    "delay/Pasted image 20250324001823.png",
+    "daily/2025-03-29.md",
+    "daily/2025-03-27.md",
+    "daily/2025-03-23.md",
+    "daily/2025-03-16.md",
+    "daily/2025-03-02.md",
+    "Economics/Экономическая теория/theme/material/Econimica sovershi/Лекционный курс совершенной экономике.md",
+    "Economics/Экономическая теория/theme/material/Econimica sovershi/Совершенная экономека.md",
+    "Economics/Экономическая теория/theme/material/Econimica sovershi/Lection 1.md",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические теории.md",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические модели.md",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы полезности.md",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
+    "Economics/Экономическая теория/volumes/volume 9/Экономические издержки.md",
+    "Economics/Экономическая теория/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
+    "Economics/Экономическая теория/volumes/volume 9/Предельные издержки.md",
+    "Economics/Экономическая теория/volumes/volume 9/Краткосрочный период и их издержки.md",
+    "Economics/Экономическая теория/volumes/volume 9/volume 9.md",
+    "Economics/Экономическая теория/volumes/volume 7/Термины 2.md",
+    "Economics/Экономическая теория/volumes/volume 7/Термины 3.md",
+    "Economics/Экономическая теория/theme/material/Econimica sovershi",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение",
+    "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы",
+    "Economics/Экономическая теория/volumes/volume 9",
+    "Economics/Экономическая теория/volumes/volume 7",
+    "Economics/Экономическая теория/volumes/volume 6",
+    "Economics/Экономическая теория/volumes/volume 3",
+    "Economics/Экономическая теория/volumes/volume 26",
+    "Economics/Экономическая теория/volumes/volume 2",
+    "Economics/Экономическая теория/volumes/volume 14",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Linguistics_Russian",
-    "Economics/volume 9",
-    "Economics/volume 7",
-    "Economics/volume 3",
-    "Economics/volume 10",
-    "Economics/volume 1",
-    "Courses/info",
     "delay/Pasted image 20250206124311.png",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
@@ -256,7 +257,6 @@
     "Programming/old/data_structure/Pasted image 20220215221026.png",
     "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/Pasted image 20230907194244.png",
-    "Programming/Pasted image 20230907192719.png",
-    "Programming/Pasted image 20230907113832.png"
+    "Programming/Pasted image 20230907192719.png"
   ]
 }
