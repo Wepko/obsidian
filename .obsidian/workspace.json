@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
-                "mode": "preview",
+                "file": "Economics/Экономическая теория/theme/Вопросы/Что такое Рентабельность.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Роль экономики в жизни общества ."
+              "title": "Что такое Рентабельность"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "0ac39e53601ad901",
   "lastOpenFiles": [
-    "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое Рентабельность.md",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+    "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 2",
     "Economics/Формализованая экономика/chapter 1/asset/Система экономических наук.md",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
@@ -213,9 +217,6 @@
     "Economics/Экономическая теория/theme/material/Econimica sovershi/Лекционный курс совершенной экономике.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi/Совершенная экономека.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi/Lection 1.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические теории.md",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические модели.md",
