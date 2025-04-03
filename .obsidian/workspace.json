@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-04-03.md",
+                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-03"
-            }
-          },
-          {
-            "id": "d0316598ba0dc68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Глава 1. Роль экономики в жизни общества ."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0316598ba0dc68a",
+  "active": "0ac39e53601ad901",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Economics/Формализованая экономика/index.md",
+    "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+    "Economics/Формализованая экономика/chapter 1",
     "daily/2025-04-03.md",
+    "Economics/Формализованая экономика",
+    "conflict-files-obsidian-git.md",
     "delay/Pasted image 20250324001823.png",
     "daily/2025-03-29.md",
     "daily/2025-03-27.md",
@@ -235,8 +214,6 @@
     "Economics/Экономическая теория/volumes/volume 9/Предельные издержки.md",
     "Economics/Экономическая теория/volumes/volume 9/Краткосрочный период и их издержки.md",
     "Economics/Экономическая теория/volumes/volume 9/volume 9.md",
-    "Economics/Экономическая теория/volumes/volume 7/Термины 2.md",
-    "Economics/Экономическая теория/volumes/volume 7/Термины 3.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы",
@@ -245,8 +222,6 @@
     "Economics/Экономическая теория/volumes/volume 6",
     "Economics/Экономическая теория/volumes/volume 3",
     "Economics/Экономическая теория/volumes/volume 26",
-    "Economics/Экономическая теория/volumes/volume 2",
-    "Economics/Экономическая теория/volumes/volume 14",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "delay/Pasted image 20250206124311.png",
