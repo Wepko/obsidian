@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
-                "mode": "source",
+                "file": "Economics/Формализованая экономика/chapter 1/2. Функции исследования экономики.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Роль экономики в жизни общества ."
+              "title": "2. Функции исследования экономики"
             }
           }
         ]
@@ -183,12 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "0ac39e53601ad901",
   "lastOpenFiles": [
-    "Economics/Формализованая экономика/chapter 1/Сферы экономических исследований.md",
-    "delay/Pasted image 20250403183924.png",
+    "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
+    "Economics/Формализованая экономика/chapter 1/2. Функции исследования экономики.md",
+    "Economics/Формализованая экономика/chapter 1/asset",
+    "Economics/Формализованая экономика/chapter 1/1. Экономика определение понятия. От этимологии слова к современному значению.md",
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
-    "Economics/Формализованая экономика/chapter 1/Схема экономической науки.png",
+    "Economics/Формализованая экономика/chapter 1/asset/Сферы экономических исследований.md",
+    "delay/Pasted image 20250403183924.png",
     "Economics/Формализованая экономика/index.md",
     "Economics/Формализованая экономика/chapter 1",
     "daily/2025-04-03.md",
@@ -213,8 +216,6 @@
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы полезности.md",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
     "Economics/Экономическая теория/volumes/volume 9/Экономические издержки.md",
-    "Economics/Экономическая теория/volumes/volume 9/Производственные зависимости краткосрочного периода.md",
-    "Economics/Экономическая теория/volumes/volume 9/Предельные издержки.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы",
@@ -222,7 +223,6 @@
     "Economics/Экономическая теория/volumes/volume 7",
     "Economics/Экономическая теория/volumes/volume 6",
     "Economics/Экономическая теория/volumes/volume 3",
-    "Economics/Экономическая теория/volumes/volume 26",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "delay/Pasted image 20250206124311.png",
