@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Формализованая экономика/chapter 1/2. Функции исследования экономики.md",
-                "mode": "preview",
+                "file": "Economics/Формализованая экономика/chapter 1/asset/Функции экономической науки.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Функции исследования экономики"
+              "title": "Функции экономической науки"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "0ac39e53601ad901",
   "lastOpenFiles": [
-    "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
+    "delay/Pasted image 20250403184850.png",
+    "Economics/Формализованая экономика/chapter 1/asset/Функции экономической науки.md",
     "Economics/Формализованая экономика/chapter 1/2. Функции исследования экономики.md",
+    "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
     "Economics/Формализованая экономика/chapter 1/asset",
     "Economics/Формализованая экономика/chapter 1/1. Экономика определение понятия. От этимологии слова к современному значению.md",
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
@@ -215,7 +217,6 @@
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы.md",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические законы полезности.md",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть виды экономических систем.md",
-    "Economics/Экономическая теория/volumes/volume 9/Экономические издержки.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение",
     "Economics/Экономическая теория/theme/Вопросы/Глобально экономические вопросы",
@@ -230,7 +231,6 @@
     "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
     "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
     "Programming/old/data_structure/Pasted image 20220215221220.png",
-    "Programming/old/data_structure/Pasted image 20220215221026.png",
-    "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png"
+    "Programming/old/data_structure/Pasted image 20220215221026.png"
   ]
 }
