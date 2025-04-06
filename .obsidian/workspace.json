@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 27.md",
+                "file": "daily/2025-04-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 27"
+              "title": "2025-04-06"
             }
           }
         ]
@@ -146,8 +146,9 @@
   },
   "active": "3b918b8423435ad6",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/volumes/volume 26.md",
     "Economics/Экономическая теория/volumes/volume 27.md",
+    "daily/2025-04-06.md",
+    "Economics/Экономическая теория/volumes/volume 26.md",
     "Economics/История экономической мысли/Заработная плата По мальтутсу и по Смиту.md",
     "Economics/История экономической мысли/Факторы успеха странны выделяет Смитт.md",
     "daily/2025-03-29.md",
@@ -176,7 +177,6 @@
     "Economics/Экономическая теория/volumes/volume 27",
     "Economics/Экономическая теория/volumes/volume 26",
     "daily/2025-03-02.md",
-    "conflict-files-obsidian-git.md",
     "Projects/Clover",
     "Programming/Docker/thems",
     "Programming/Docker",
