@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Глава 1. Роль экономики в жизни общества ."
             }
-          },
-          {
-            "id": "ffd9e7414b8c2bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +144,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffd9e7414b8c2bb1",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
