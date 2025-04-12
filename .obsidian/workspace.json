@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Конституционное право"
             }
-          },
-          {
-            "id": "64725a6d65e2b5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64725a6d65e2b5b2",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "Jurisprudence/trash/Конституционное право.md",
     "conflict-files-obsidian-git.md",
