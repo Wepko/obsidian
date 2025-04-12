@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6941a4e1381726c4",
+        "id": "8587c5154c4436f8",
         "type": "tabs",
         "children": [
           {
-            "id": "3b918b8423435ad6",
+            "id": "35b158f11e1fa615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-04-06.md",
-                "mode": "source",
+                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-06"
+              "title": "Глава 1. Роль экономики в жизни общества ."
+            }
+          },
+          {
+            "id": "ffd9e7414b8c2bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,11 +169,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b918b8423435ad6",
+  "active": "ffd9e7414b8c2bb1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+    "Economics/Формализованая экономика/chapter 1/2. Функции исследования экономики.md",
     "Economics/Экономическая теория/volumes/volume 27.md",
-    "daily/2025-04-06.md",
     "Economics/Экономическая теория/volumes/volume 26.md",
+    "daily/2025-04-12.md",
+    "daily/2025-04-06.md",
+    "delay/Pasted image 20250403185047.png",
+    "delay/Pasted image 20250403184850.png",
+    "delay/Pasted image 20250403183924.png",
+    "daily/2025-04-03.md",
+    "Jurisprudence/trash/Структура всего ТГП.md",
+    "Jurisprudence/trash",
+    "Jurisprudence",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое Рентабельность.md",
+    "Economics/Формализованая экономика/chapter 1/asset/Функции экономической науки.md",
+    "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
+    "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
+    "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
+    "Economics/Формализованая экономика/chapter 1/asset/Сферы экономических исследований.md",
+    "Economics/Формализованая экономика/chapter 1/asset/Система экономических наук.md",
+    "Economics/Формализованая экономика/chapter 3/Глава 3. Система экономических отношений.md",
+    "Economics/Формализованая экономика/chapter 2/Глава 2. Закономерности развития экономики.md",
+    "Economics/Формализованая экономика/chapter 1/asset",
+    "Economics/Формализованая экономика/chapter 1/1. Экономика определение понятия. От этимологии слова к современному значению.md",
+    "Economics/Формализованая экономика/index.md",
+    "Economics/Формализованая экономика/chapter 3",
+    "Economics/Формализованая экономика/chapter 2",
+    "Economics/Формализованая экономика/chapter 1",
+    "Economics/Формализованая экономика",
     "Economics/История экономической мысли/Заработная плата По мальтутсу и по Смиту.md",
     "Economics/История экономической мысли/Факторы успеха странны выделяет Смитт.md",
     "daily/2025-03-29.md",
@@ -159,40 +211,13 @@
     "daily/2025-03-27.md",
     "delay/Pasted image 20250324001823.png",
     "Economics/Экономическая теория/volumes/volume 26/4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены.md",
-    "daily/2025-02-02.md",
-    "daily/2025-03-23.md",
     "Economics/История экономической мысли",
     "Economics/Экономическая теория",
-    "Economics/Экономическая теория/volumes/volume 26/3 Понимать почему сбережение и инвестиции являються ключевым фактором роста стандартов жизни.md",
-    "Economics/Экономическая теория/volumes/volume 26/2 Участвовать  в дискусии о том , почему устойчивое повышение стандартов жизни являеться феноменом появления исторически относительно недавно.md",
-    "Economics/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
-    "Economics/Экономическая теория/volumes/volume 26/docs.md",
-    "Economics/Экономическая теория/volumes/volume 11.md",
-    "Economics/Экономическая теория/volumes/volume 8 X.md",
-    "Economics/Экономическая теория/volumes/volume 20.md",
-    "Economics/Экономическая теория/volumes/volume 4.md",
-    "Economics/Экономическая теория/volumes/volume 26/6.md",
-    "Economics/Экономическая теория/volumes/volume 26/5.md",
-    "daily/2025-03-16.md",
     "Economics/Экономическая теория/volumes/volume 27",
-    "Economics/Экономическая теория/volumes/volume 26",
-    "daily/2025-03-02.md",
-    "Projects/Clover",
-    "Programming/Docker/thems",
-    "Programming/Docker",
-    "Linguistics_Russian",
-    "Courses/info",
-    "Courses",
     "delay/Pasted image 20250206124311.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
-    "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
-    "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
-    "Programming/old/data_structure/Pasted image 20220215221220.png",
-    "Programming/old/data_structure/Pasted image 20220215221026.png",
-    "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
-    "Programming/Pasted image 20230907194244.png",
-    "Programming/Pasted image 20230907192719.png"
+    "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png"
   ]
 }
