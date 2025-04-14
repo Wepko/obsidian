@@ -229,8 +229,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "preview",
+                "file": "lk.samgtu/Untitled 1.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -400,9 +400,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "7b6ef50269691223",
   "lastOpenFiles": [
     "lk.samgtu/Untitled.md",
+    "lk.samgtu/Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-04-12.md",
     "daily/2025-04-06.md",
@@ -437,7 +438,6 @@
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 2",
-    "Economics/Формализованая экономика/chapter 1/asset/Система экономических наук.md",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
