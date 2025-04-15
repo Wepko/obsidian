@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/Untitled.md",
+                "file": "Economics/Экономическая теория/Список всех тем volumes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,35 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "7b6ef50269691223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-04-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-15"
+              "title": "Список всех тем volumes"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -400,12 +376,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b6ef50269691223",
+  "active": "3efe1126b331be95",
   "lastOpenFiles": [
-    "lk.samgtu/Untitled 2.md",
-    "daily/2025-04-15.md",
-    "lk.samgtu/Untitled 1.md",
+    "Economics/Экономическая теория/Список ключевых графиков.md",
+    "Economics/Экономическая теория/Список всех тем volumes.md",
     "lk.samgtu/Untitled.md",
+    "Economics/Экономическая теория/Творческое разрушение.md",
+    "Economics/Экономическая теория/elastic.md",
+    "Economics/Экономическая теория/analise.md",
+    "Economics/Экономическая теория/Untitled",
+    "daily/2025-04-15.md",
+    "lk.samgtu/Untitled 2.md",
+    "lk.samgtu/Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-04-12.md",
     "daily/2025-04-06.md",
@@ -428,21 +410,15 @@
     "Economics/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
     "daily/2025-04-08.md",
     "Jurisprudence/trash/Структура всего ТГП.md",
-    "Economics/Формализованая экономика/chapter 3/Глава 3. Система экономических отношений.md",
     "Jurisprudence/trash",
     "Jurisprudence",
-    "Economics/Формализованая экономика/chapter 2/Глава 2. Закономерности развития экономики.md",
     "Economics/Формализованая экономика/chapter 3",
-    "Economics/Экономическая теория/theme/Вопросы/Что такое Рентабельность.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 2",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
     "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
-    "Economics/Формализованая экономика/chapter 1/asset",
     "delay/Pasted image 20250403183924.png",
     "delay/Pasted image 20250324001823.png",
     "Untitled.canvas",
