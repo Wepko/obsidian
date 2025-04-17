@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "Что такое счета национального дохода"
             }
-          },
-          {
-            "id": "040c5411ca15c917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "040c5411ca15c917",
+  "active": "af3da4ef3619d2c5",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/theme/Вопросы/Что такое счета национального дохода.md",
     "conflict-files-obsidian-git.md",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое счета национального дохода.md",
     "daily/2025-04-17.md",
     "lk.samgtu/Untitled.md",
     "lk.samgtu/Untitled 2.md",
