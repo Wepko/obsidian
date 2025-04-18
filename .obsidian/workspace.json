@@ -222,9 +222,57 @@
               "icon": "lucide-file",
               "title": "2025-04-18"
             }
+          },
+          {
+            "id": "5fb40a2baf18d10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/theme/rezume/part 8.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "part 8"
+            }
+          },
+          {
+            "id": "4e373506fd0db21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -376,10 +424,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3efe1126b331be95",
+  "active": "4e373506fd0db21a",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/Список всех тем volumes.md",
+    "Economics/Экономическая теория/theme/rezume/part 8.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-04-18.md",
+    "daily/2025-04-17.md",
+    "Economics/Экономическая теория/volumes/volume 33/volume 33.md",
+    "Economics/Экономическая теория/volumes/volume 33",
+    "Economics/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/Экономическая теория/volumes/volume 32",
+    "Economics/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/Экономическая теория/volumes/volume 31",
+    "Economics/Экономическая теория/volumes/volume 30/volume 30.md",
+    "Economics/Экономическая теория/volumes/volume 30",
+    "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
+    "Economics/Экономическая теория/volumes/volume 29",
+    "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
+    "Economics/Экономическая теория/volumes/volume 28",
+    "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
+    "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
+    "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
+    "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое счета национального дохода.md",
+    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
+    "Economics/Экономическая теория/theme/rezume/part 7.md",
+    "Economics/Экономическая теория/theme/rezume",
+    "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/Список ключевых графиков.md",
     "lk.samgtu/Untitled.md",
     "Economics/Экономическая теория/Творческое разрушение.md",
@@ -389,32 +460,9 @@
     "daily/2025-04-15.md",
     "lk.samgtu/Untitled 2.md",
     "lk.samgtu/Untitled 1.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2025-04-12.md",
-    "daily/2025-04-06.md",
-    "Jurisprudence/trash/Функции КП.md",
-    "Jurisprudence/trash/Конституционное право.md",
-    "Economics/Формализованая экономика/themes/Вопрос  1.md",
     "Economics/Формализованая экономика/themes",
-    "Economics/История экономической мысли/Словарь.md",
-    "daily/2025-04-14.md",
-    "Economics/Экономическая теория/volumes/volume 18.md",
     "Economics/Научно-публитистичкеская экономика/Узкий коредор",
-    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные",
-    "Economics/Научно-публитистичкеская экономика",
-    "Economics/Экономическая теория/volumes/volume 15 X.md",
-    "Economics/Экономическая теория/volumes/volume 27.md",
-    "Economics/Экономическая теория/volumes/volume 27",
-    "Economics/Экономическая теория/volumes/volume 26/4 Описывать почему экономисты уверены что причиной краткосрочной клебаний обьемов выпуска и занятости явяляються так называемые шоки и твердые цены.md",
-    "Economics/Экономическая теория/volumes/volume 26/3 Понимать почему сбережение и инвестиции являються ключевым фактором роста стандартов жизни.md",
-    "Economics/Экономическая теория/volumes/volume 26/2 Участвовать  в дискусии о том , почему устойчивое повышение стандартов жизни являеться феноменом появления исторически относительно недавно.md",
-    "Economics/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
-    "daily/2025-04-08.md",
-    "Jurisprudence/trash",
-    "Jurisprudence",
-    "Economics/Формализованая экономика/chapter 3",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
-    "Economics/Формализованая экономика/chapter 2",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
