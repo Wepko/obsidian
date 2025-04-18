@@ -229,8 +229,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/theme/rezume/part 8.md",
-                "mode": "preview",
+                "file": "Economics/Экономическая теория/theme/rezume/part 9.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "part 8"
+              "title": "part 9"
             }
           }
         ],
@@ -400,10 +400,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "5fb40a2baf18d10c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Economics/Экономическая теория/theme/rezume/part 8.md",
+    "Economics/Экономическая теория/theme/rezume/part 9.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-04-18.md",
     "daily/2025-04-17.md",
     "Economics/Экономическая теория/volumes/volume 33/volume 33.md",
@@ -435,7 +436,6 @@
     "Economics/Экономическая теория/Untitled",
     "daily/2025-04-15.md",
     "lk.samgtu/Untitled 2.md",
-    "lk.samgtu/Untitled 1.md",
     "Economics/Формализованая экономика/themes",
     "Economics/Научно-публитистичкеская экономика/Узкий коредор",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
