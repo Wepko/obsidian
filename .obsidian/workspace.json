@@ -8,228 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ac39e53601ad901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "8e6227ec23f08c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "897da3e7bd1d89c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "409b44829b5ae3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "e7d46e1319db0258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "c7d7d3b8268c6d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "dc9d0bed37d38be1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "80908bc2a527aa42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/Untitled.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "3efe1126b331be95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-04-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-18"
-            }
-          },
-          {
             "id": "5fb40a2baf18d10c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/theme/rezume/part 7.md",
+                "file": "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "part 7"
+              "title": "Что такое эконометрика"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -402,7 +185,11 @@
   },
   "active": "5fb40a2baf18d10c",
   "lastOpenFiles": [
+    "daily/2025-04-18.md",
+    "lk.samgtu/Untitled.md",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
     "Economics/Экономическая теория/theme/rezume/part 9.md",
+    "Economics/Экономическая теория/theme/rezume/part 7.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 37/volume 37.md",
     "Economics/Экономическая теория/volumes/volume 36/volume 36.md",
@@ -418,7 +205,6 @@
     "Economics/Экономическая теория/volumes/volume 34",
     "Economics/Экономическая теория/theme/rezume/part 8.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-04-18.md",
     "daily/2025-04-17.md",
     "Economics/Экономическая теория/volumes/volume 33",
     "Economics/Экономическая теория/volumes/volume 32/volume 32.md",
@@ -435,9 +221,6 @@
     "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
     "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
     "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
-    "Economics/Экономическая теория/theme/Вопросы/Что такое счета национального дохода.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
-    "Economics/Экономическая теория/theme/rezume/part 7.md",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
