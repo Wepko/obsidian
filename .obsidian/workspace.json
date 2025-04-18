@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/Список всех тем volumes.md",
+                "file": "Economics/Экономическая теория/theme/rezume/part 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Список всех тем volumes"
+              "title": "part 8"
             }
           }
         ],
@@ -243,8 +243,9 @@
   },
   "active": "af3da4ef3619d2c5",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
+    "Economics/Экономическая теория/theme/rezume/part 8.md",
+    "Economics/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/Экономическая теория/Список ключевых графиков.md",
     "Economics/Экономическая теория/volumes/volume 32/volume 32.md",
     "Economics/Экономическая теория/volumes/volume 31/volume 31.md",
@@ -275,7 +276,6 @@
     "lk.samgtu/Untitled 1.md",
     "daily/2025-04-15.md",
     "daily/2025-04-14.md",
-    "Economics/История экономической мысли/Словарь.md",
     "Economics/Формализованая экономика/themes",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
