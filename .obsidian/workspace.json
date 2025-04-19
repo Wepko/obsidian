@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "2025-04-19"
             }
+          },
+          {
+            "id": "08d2a1b039580a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,10 +265,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af3da4ef3619d2c5",
+  "active": "08d2a1b039580a02",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/theme/rezume/part 8.md",
     "daily/2025-04-19.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2025-04-18.md",
+    "Economics/Экономическая теория/volumes/volume 37/volume 37.md",
+    "Economics/Экономическая теория/volumes/volume 37",
+    "Economics/Экономическая теория/volumes/volume 36/volume 36.md",
+    "Economics/Экономическая теория/volumes/volume 36",
+    "Economics/Экономическая теория/volumes/volume 35/volume 35.md",
+    "Economics/Экономическая теория/volumes/volume 35",
+    "Economics/Экономическая теория/volumes/volume 34/volume 34.md",
+    "Economics/Экономическая теория/volumes/volume 34",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое леквидность.md",
+    "Economics/Экономическая теория/theme/rezume/part 9.md",
+    "Economics/Экономическая теория/theme/rezume/part 10.md",
+    "Economics/Экономическая теория/theme/rezume/part 8.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/Экономическая теория/Список ключевых графиков.md",
@@ -263,25 +301,11 @@
     "Economics/Экономическая теория/volumes/volume 29",
     "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
     "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
-    "Economics/Экономическая теория/volumes/volume 28",
     "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
     "Economics/Экономическая теория/theme/Вопросы/Что такое счета национального дохода.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2025-04-17.md",
-    "lk.samgtu/Untitled.md",
-    "lk.samgtu/Untitled 2.md",
-    "lk.samgtu/Untitled 1.md",
-    "daily/2025-04-15.md",
-    "Economics/Формализованая экономика/themes",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
     "delay/Pasted image 20250403183924.png",
-    "Jurisprudence/trash",
-    "Jurisprudence",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
