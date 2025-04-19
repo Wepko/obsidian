@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "2025-04-19"
             }
+          },
+          {
+            "id": "518de7069f4a3c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6amart/user-app/Checkout controller.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Checkout controller"
+            }
+          },
+          {
+            "id": "22c5b4e1ce56ace1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6amart/user-app/Checkout controller.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Checkout controller"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +232,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fb40a2baf18d10c",
+  "active": "22c5b4e1ce56ace1",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
+    "conflict-files-obsidian-git.md",
+    "6amart/user-app/Checkout controller.md",
+    "6amart/user-app",
+    "6amart",
     "daily/2025-04-19.md",
+    "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
     "daily/2025-04-18.md",
     "lk.samgtu/Untitled.md",
     "Economics/Экономическая теория/theme/rezume/part 9.md",
@@ -205,7 +258,6 @@
     "Economics/Экономическая теория/volumes/volume 35",
     "Economics/Экономическая теория/volumes/volume 34",
     "Economics/Экономическая теория/theme/rezume/part 8.md",
-    "conflict-files-obsidian-git.md",
     "daily/2025-04-17.md",
     "Economics/Экономическая теория/volumes/volume 33",
     "Economics/Экономическая теория/volumes/volume 32/volume 32.md",
@@ -215,12 +267,8 @@
     "Economics/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/Экономическая теория/volumes/volume 30",
     "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
-    "Economics/Экономическая теория/volumes/volume 29",
     "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/Экономическая теория/volumes/volume 28",
     "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
-    "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
-    "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
