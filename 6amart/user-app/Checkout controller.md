@@ -2,6 +2,39 @@
 
 Этот код представляет собой обработчик нажатия кнопки, который выполняется при условии, что `checkoutController.acceptTerms` равно `true`. Давайте разберем его по частям:
 
+```dart
+onPressed: checkoutController.acceptTerms ? () {
+            bool isAvailable = true;
+            DateTime scheduleStartDate = DateTime.now();
+            DateTime scheduleEndDate = DateTime.now();
+            bool isGuestLogIn = AuthHelper.isGuestLoggedIn();
+            
+            if (checkoutController.timeSlots == null || checkoutController.timeSlots!.isEmpty) {
+              isAvailable = false;
+            } else {
+              DateTime date = checkoutController.selectedDateSlot == 0 ? DateTime.now() : DateTime.now().add(const Duration(days: 1));
+              DateTime startTime = checkoutController.timeSlots![checkoutController.selectedTimeSlot].startTime!;
+              DateTime endTime = checkoutController.timeSlots![checkoutController.selectedTimeSlot].endTime!;
+              scheduleStartDate = DateTime(date.year, date.month, date.day, startTime.hour, startTime.minute+1);
+              scheduleEndDate = DateTime(date.year, date.month, date.day, endTime.hour, endTime.minute+1);
+              if(_cartList != null){
+                for (CartModel? cart in _cartList!) {
+                  if (!DateConverter.isAvailable(
+                    cart!.item!.availableTimeStarts, cart.item!.availableTimeEnds,
+                    time: checkoutController.store!.scheduleOrder! ? scheduleStartDate : null,
+                  ) && !DateConverter.isAvailable(
+                    cart.item!.availableTimeStarts, cart.item!.availableTimeEnds,
+                    time: checkoutController.store!.scheduleOrder! ? scheduleEndDate : null,
+                  )) {
+                    isAvailable = false;
+                    break;
+                  }
+                }
+              }
+            }
+обьясни мне этот код
+```
+
 ## Основная логика
 1. Сначала проверяется, приняты ли условия (`checkoutController.acceptTerms`). Если да, выполняется анонимная функция.
 
