@@ -126,9 +126,105 @@
               "icon": "lucide-file",
               "title": "2025-04-20"
             }
+          },
+          {
+            "id": "56334ce368619e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Показатели СНС"
+            }
+          },
+          {
+            "id": "0165b0cba22de724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Показатели СНС"
+            }
+          },
+          {
+            "id": "d98aafe7a96ac26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "volume 28"
+            }
+          },
+          {
+            "id": "84e41eb56549e8d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -241,13 +337,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af3da4ef3619d2c5",
+  "active": "84e41eb56549e8d5",
   "lastOpenFiles": [
+    "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
+    "conflict-files-obsidian-git.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 3.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 2.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 1.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled.md",
+    "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
     "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
+    "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
     "daily/2025-04-20.md",
+    "6amart/user-app/Checkout controller.md",
+    "6amart/user-app",
+    "6amart",
     "Economics/Экономическая теория/theme/rezume/part 7.md",
     "daily/2025-04-19.md",
-    "conflict-files-obsidian-git.md",
     "daily/2025-04-18.md",
     "Economics/Экономическая теория/volumes/volume 37/volume 37.md",
     "Economics/Экономическая теория/volumes/volume 37",
@@ -263,22 +371,10 @@
     "Economics/Экономическая теория/theme/rezume/part 10.md",
     "Economics/Экономическая теория/theme/rezume/part 8.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
-    "Economics/Экономическая теория/volumes/volume 33/volume 33.md",
-    "Economics/Экономическая теория/Список ключевых графиков.md",
-    "Economics/Экономическая теория/volumes/volume 32/volume 32.md",
-    "Economics/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/Экономическая теория/volumes/volume 30/volume 30.md",
-    "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
     "Economics/Экономическая теория/volumes/volume 33",
     "Economics/Экономическая теория/volumes/volume 32",
     "Economics/Экономическая теория/volumes/volume 31",
     "Economics/Экономическая теория/volumes/volume 30",
-    "Economics/Экономическая теория/theme/rezume",
-    "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/Экономическая теория/volumes/volume 4.md",
-    "Economics/Экономическая теория/volumes/volume 29",
-    "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
-    "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
     "delay/Pasted image 20250403183924.png",
