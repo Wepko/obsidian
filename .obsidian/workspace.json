@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Заметки"
             }
-          },
-          {
-            "id": "c7d860bc06441700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,10 +256,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7d860bc06441700",
+  "active": "cd418abb65d5252f",
   "lastOpenFiles": [
-    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
     "conflict-files-obsidian-git.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
     "daily/2025-04-23.md",
     "daily/2025-04-20.md",
     "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
