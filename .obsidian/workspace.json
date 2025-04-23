@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Научно-публитистичкеская экономика/Институты.md",
+                "file": "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Почему в экстрактивных системах невыгодно развивать переработку и технологии.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Институты"
+              "title": "Почему в экстрактивных системах невыгодно развивать переработку и технологии"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Матема",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 324.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -256,10 +256,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd418abb65d5252f",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Экстрактивные и инклюзивные.md",
     "Economics/Научно-публитистичкеская экономика/Институты.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Почему в экстрактивных системах невыгодно развивать переработку и технологии.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Экстрактивные и инклюзивные.md",
     "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-04-23.md",
@@ -285,7 +286,6 @@
     "Economics/Экономическая теория/volumes/volume 35/volume 35.md",
     "Economics/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/Экономическая теория/theme/Вопросы/Что такое леквидность.md",
-    "Economics/Экономическая теория/theme/rezume/part 10.md",
     "Economics/Экономическая теория/volumes/volume 37",
     "Economics/Экономическая теория/volumes/volume 36",
     "Economics/Экономическая теория/volumes/volume 35",
