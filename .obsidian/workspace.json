@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/user-app/Checkout controller.md",
+                "file": "daily/2025-04-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Checkout controller"
+              "title": "2025-04-23"
             }
           }
         ],
@@ -234,8 +234,9 @@
   },
   "active": "22c5b4e1ce56ace1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "6amart/user-app/Checkout controller.md",
+    "daily/2025-04-23.md",
+    "conflict-files-obsidian-git.md",
     "6amart/user-app",
     "6amart",
     "daily/2025-04-19.md",
