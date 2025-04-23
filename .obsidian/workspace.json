@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "2025-04-23"
             }
+          },
+          {
+            "id": "cd418abb65d5252f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Заметки"
+            }
+          },
+          {
+            "id": "c7d860bc06441700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,11 +280,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22c5b4e1ce56ace1",
+  "active": "c7d860bc06441700",
   "lastOpenFiles": [
-    "6amart/user-app/Checkout controller.md",
-    "daily/2025-04-23.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
     "conflict-files-obsidian-git.md",
+    "daily/2025-04-23.md",
+    "daily/2025-04-20.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
+    "Economics/Экономическая теория/volumes/volume 28/4.md",
+    "Economics/Экономическая теория/volumes/volume 28/3.md",
+    "Economics/Экономическая теория/volumes/volume 28/2.md",
+    "Economics/Экономическая теория/volumes/volume 28/1.md",
+    "6amart/user-app/Checkout controller.md",
     "6amart/user-app",
     "6amart",
     "daily/2025-04-19.md",
@@ -258,18 +314,10 @@
     "Economics/Экономическая теория/volumes/volume 36",
     "Economics/Экономическая теория/volumes/volume 35",
     "Economics/Экономическая теория/volumes/volume 34",
-    "Economics/Экономическая теория/theme/rezume/part 8.md",
-    "daily/2025-04-17.md",
     "Economics/Экономическая теория/volumes/volume 33",
-    "Economics/Экономическая теория/volumes/volume 32/volume 32.md",
     "Economics/Экономическая теория/volumes/volume 32",
-    "Economics/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/Экономическая теория/volumes/volume 31",
-    "Economics/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/Экономическая теория/volumes/volume 30",
-    "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
-    "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
