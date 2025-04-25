@@ -198,9 +198,33 @@
               "icon": "lucide-file",
               "title": "2025-04-25"
             }
+          },
+          {
+            "id": "ad46d25a2fd8dc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/theme/rezume/part 7.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "part 7"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -313,17 +337,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d98aafe7a96ac26c",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
+    "conflict-files-obsidian-git.md",
+    "Economics/Экономическая теория/theme/rezume/part 7.md",
+    "Economics/Экономическая теория/theme/rezume/part 8.md",
     "daily/2025-04-25.md",
+    "daily/2025-04-23.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Экстрактивные и инклюзивные.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Почему в экстрактивных системах невыгодно развивать переработку и технологии.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
+    "Economics/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные",
+    "Economics/Научно-публитистичкеская экономика/Институты.md",
+    "Economics/Научно-публитистичкеская экономика",
+    "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
     "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
     "Economics/Экономическая теория/volumes/volume 28/4.md",
     "Economics/Экономическая теория/volumes/volume 28/3.md",
     "Economics/Экономическая теория/volumes/volume 28/2.md",
     "Economics/Экономическая теория/volumes/volume 28/1.md",
     "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
-    "conflict-files-obsidian-git.md",
     "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
     "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
     "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
@@ -331,7 +364,6 @@
     "6amart/user-app/Checkout controller.md",
     "6amart/user-app",
     "6amart",
-    "Economics/Экономическая теория/theme/rezume/part 7.md",
     "daily/2025-04-19.md",
     "daily/2025-04-18.md",
     "Economics/Экономическая теория/volumes/volume 37/volume 37.md",
@@ -340,17 +372,9 @@
     "Economics/Экономическая теория/volumes/volume 36",
     "Economics/Экономическая теория/volumes/volume 35/volume 35.md",
     "Economics/Экономическая теория/volumes/volume 35",
-    "Economics/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/Экономическая теория/volumes/volume 34",
-    "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
-    "Economics/Экономическая теория/theme/Вопросы/Что такое леквидность.md",
-    "Economics/Экономическая теория/theme/rezume/part 9.md",
-    "Economics/Экономическая теория/theme/rezume/part 10.md",
-    "Economics/Экономическая теория/theme/rezume/part 8.md",
     "Economics/Экономическая теория/volumes/volume 33",
     "Economics/Экономическая теория/volumes/volume 32",
-    "Economics/Экономическая теория/volumes/volume 31",
-    "Economics/Экономическая теория/volumes/volume 30",
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
     "delay/Pasted image 20250403183924.png",
