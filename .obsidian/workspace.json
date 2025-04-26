@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/Список всех тем volumes.md",
+                "file": "Economics/Экономическая теория/rezume/part 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Список всех тем volumes"
-            }
-          },
-          {
-            "id": "5b4b27bc41c62519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "part 1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,10 +256,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b4b27bc41c62519",
+  "active": "cd418abb65d5252f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-04-25.md",
     "Economics/Экономическая теория/volumes/volume 2/volume 2.md",
     "Economics/Экономическая теория/volumes/volume 1/volume 1.md",
