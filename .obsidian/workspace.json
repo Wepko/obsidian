@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 5/volume  5.md",
+                "file": "Economics/Экономическая теория/Список всех тем volumes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume  5"
+              "title": "Список всех тем volumes"
             }
           }
         ],
@@ -258,8 +258,8 @@
   },
   "active": "cd418abb65d5252f",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/volumes/volume 4/volume 4.md",
     "Economics/Экономическая теория/volumes/volume 5/volume  5.md",
+    "Economics/Экономическая теория/volumes/volume 4/volume 4.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 3/volume 3.md",
     "Economics/Экономическая теория/volumes/volume 15/volume 15.md",
