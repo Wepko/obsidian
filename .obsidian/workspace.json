@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/Список всех тем volumes.md",
+                "file": "Economics/Экономическая теория/rezume/part 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Список всех тем volumes"
+              "title": "part 3"
             }
           }
         ],
@@ -256,26 +256,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd418abb65d5252f",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Economics/Экономическая теория/rezume/part 2.md",
+    "Economics/Экономическая теория/rezume/part 3.md",
+    "Economics/Экономическая теория/rezume/part 1.md",
+    "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 5/volume  5.md",
     "Economics/Экономическая теория/volumes/volume 4/volume 4.md",
-    "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 3/volume 3.md",
     "Economics/Экономическая теория/volumes/volume 15/volume 15.md",
     "Economics/Экономическая теория/volumes/volume 11/volume 11.md",
     "Economics/Экономическая теория/volumes/volume 15",
-    "Economics/Экономическая теория/volumes/volume 8/volume 8.md",
+    "Economics/Экономическая теория/volumes/volume 8 X/volume 8.md",
     "Economics/Экономическая теория/volumes/volume 11",
-    "Economics/Экономическая теория/volumes/volume 8",
+    "Economics/Экономическая теория/volumes/volume 8 X",
     "Economics/Экономическая теория/volumes/volume 5",
-    "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/volumes/volume 4",
     "daily/2025-04-26.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Экономическая теория/volumes/volume 2/volume 2.md",
-    "Economics/Экономическая теория/rezume/part 1.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-04-25.md",
     "Economics/Экономическая теория/volumes/volume 1/volume 1.md",
@@ -290,7 +291,6 @@
     "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
     "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
     "Economics/Экономическая теория/volumes/volume 28/4.md",
-    "Economics/Экономическая теория/volumes/volume 28/3.md",
     "6amart/user-app",
     "6amart",
     "Economics/Экономическая теория/volumes/volume 37",
