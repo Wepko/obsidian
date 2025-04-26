@@ -83,10 +83,24 @@
             "id": "cd418abb65d5252f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/volumes/volume 4/volume 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "volume 4"
             }
           }
         ],
@@ -122,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volume 4",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,10 +258,15 @@
   },
   "active": "cd418abb65d5252f",
   "lastOpenFiles": [
+    "Economics/Экономическая теория/rezume/part 2.md",
+    "Economics/Экономическая теория/volumes/volume 4/volume 4.md",
+    "Economics/Экономическая теория/volumes/volume 4",
+    "daily/2025-04-26.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 3/volume 3.md",
     "Economics/Экономическая теория/volumes/volume 2/volume 2.md",
-    "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/rezume/part 1.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-04-25.md",
@@ -271,8 +289,6 @@
     "6amart/user-app",
     "6amart",
     "daily/2025-04-19.md",
-    "Economics/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
-    "daily/2025-04-18.md",
     "Economics/Экономическая теория/volumes/volume 37",
     "Economics/Экономическая теория/volumes/volume 36",
     "Economics/Экономическая теория/volumes/volume 35",
@@ -280,7 +296,6 @@
     "Economics/Экономическая теория/volumes/volume 33",
     "Economics/Экономическая теория/volumes/volume 32",
     "Economics/Экономическая теория/volumes/volume 31",
-    "Economics/Экономическая теория/volumes/volume 30",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
