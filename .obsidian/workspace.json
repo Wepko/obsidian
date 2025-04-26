@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/rezume/part 3.md",
+                "file": "Economics/Экономическая теория/volumes/volume 7/volume 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "part 3"
+              "title": "volume 7"
             }
           }
         ],
@@ -256,15 +256,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "cd418abb65d5252f",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/rezume/part 2.md",
+    "Economics/Экономическая теория/volumes/volume 6/volume 6.md",
+    "Economics/Экономическая теория/volumes/volume 3/volume 3.md",
     "Economics/Экономическая теория/rezume/part 3.md",
+    "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/rezume/part 1.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 5/volume  5.md",
     "Economics/Экономическая теория/volumes/volume 4/volume 4.md",
-    "Economics/Экономическая теория/volumes/volume 3/volume 3.md",
     "Economics/Экономическая теория/volumes/volume 15/volume 15.md",
     "Economics/Экономическая теория/volumes/volume 11/volume 11.md",
     "Economics/Экономическая теория/volumes/volume 15",
@@ -290,7 +291,6 @@
     "daily/2025-04-20.md",
     "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
     "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
-    "Economics/Экономическая теория/volumes/volume 28/4.md",
     "6amart/user-app",
     "6amart",
     "Economics/Экономическая теория/volumes/volume 37",
