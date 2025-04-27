@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/theme/rezume/part 7.md",
+                "file": "Economics/Экономическая теория/volumes/volume 28/2.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +220,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "part 7"
+              "title": "2"
+            }
+          },
+          {
+            "id": "a681e26006ca42c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-04-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-27"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -337,10 +361,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "a681e26006ca42c1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "daily/2025-04-27.md",
+    "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
+    "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
+    "Economics/Экономическая теория/volumes/volume 28/2.md",
+    "Economics/Экономическая теория/volumes/volume 28/1.md",
     "Economics/Экономическая теория/theme/rezume/part 7.md",
+    "conflict-files-obsidian-git.md",
     "Economics/Экономическая теория/theme/rezume/part 8.md",
     "daily/2025-04-25.md",
     "daily/2025-04-23.md",
@@ -354,11 +384,6 @@
     "Economics/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
     "Economics/Экономическая теория/volumes/volume 28/4.md",
     "Economics/Экономическая теория/volumes/volume 28/3.md",
-    "Economics/Экономическая теория/volumes/volume 28/2.md",
-    "Economics/Экономическая теория/volumes/volume 28/1.md",
-    "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/Экономическая теория/volumes/volume 28/Untitled 5.md",
-    "Economics/Экономическая теория/volumes/volume 28/Untitled 4.md",
     "Economics/Экономическая теория/volumes/volume 27/volume 27.md",
     "daily/2025-04-20.md",
     "6amart/user-app/Checkout controller.md",
@@ -370,7 +395,6 @@
     "Economics/Экономическая теория/volumes/volume 37",
     "Economics/Экономическая теория/volumes/volume 36/volume 36.md",
     "Economics/Экономическая теория/volumes/volume 36",
-    "Economics/Экономическая теория/volumes/volume 35/volume 35.md",
     "Economics/Экономическая теория/volumes/volume 35",
     "Economics/Экономическая теория/volumes/volume 34",
     "Economics/Экономическая теория/volumes/volume 33",
