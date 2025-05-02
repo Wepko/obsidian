@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Разбор событий/Событие 1/Почему так происходит.md",
+                "file": "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Почему так происходит"
+              "title": "Что нужно сделать"
             }
           }
         ],
@@ -280,9 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "0d5a269b6127d782",
   "lastOpenFiles": [
     "Economics/Разбор событий/Событие 1/Почему так происходит.md",
+    "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "conflict-files-obsidian-git.md",
     "Economics/Разбор событий/Событие 1/сельхозпроизводство.md",
     "daily/2025-04-27.md",
@@ -309,7 +310,6 @@
     "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 15/volume 15.md",
-    "Economics/Экономическая теория/volumes/volume 11/volume 11.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
