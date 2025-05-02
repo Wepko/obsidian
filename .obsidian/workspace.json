@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "Почему так происходит"
             }
-          },
-          {
-            "id": "30b95e026ef08686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -304,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30b95e026ef08686",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "Economics/Разбор событий/Событие 1/Почему так происходит.md",
     "conflict-files-obsidian-git.md",
