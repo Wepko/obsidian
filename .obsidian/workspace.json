@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
+                "file": "Economics/Разбор событий/Событие 1/сельхозпроизводство.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Что нужно сделать"
+              "title": "сельхозпроизводство"
             }
           }
         ],
@@ -282,8 +282,8 @@
   },
   "active": "0d5a269b6127d782",
   "lastOpenFiles": [
-    "Economics/Разбор событий/Событие 1/Почему так происходит.md",
     "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
+    "Economics/Разбор событий/Событие 1/Почему так происходит.md",
     "conflict-files-obsidian-git.md",
     "Economics/Разбор событий/Событие 1/сельхозпроизводство.md",
     "daily/2025-04-27.md",
