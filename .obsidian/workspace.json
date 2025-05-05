@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "сельхозпроизводство"
             }
+          },
+          {
+            "id": "bdfdafb9c7398656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-05-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-05"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -280,8 +304,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d5a269b6127d782",
+  "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "daily/2025-05-05.md",
     "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "Economics/Разбор событий/Событие 1/Почему так происходит.md",
     "conflict-files-obsidian-git.md",
@@ -309,7 +334,6 @@
     "Economics/Экономическая теория/rezume/part 6.md",
     "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
-    "Economics/Экономическая теория/volumes/volume 15/volume 15.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
