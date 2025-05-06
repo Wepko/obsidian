@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mateline/Задачи.md",
+                "file": "mateline/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Untitled"
             }
           }
         ],
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "daily/2025-05-05.md",
     "mateline/Задачи.md",
+    "mateline/Untitled.md",
+    "daily/2025-05-05.md",
     "mateline",
     "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "Economics/Разбор событий/Событие 1/Почему так происходит.md",
@@ -334,7 +335,6 @@
     "Economics/Экономическая теория/rezume/part 10.md",
     "Economics/Экономическая теория/rezume/part 9.md",
     "Economics/Экономическая теория/rezume/part 6.md",
-    "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
