@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/user-app/refact/Untitled.md",
+                "file": "6amart/user-app/refact/Описпание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Описпание"
             }
           }
         ],
@@ -304,10 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "daily/2025-05-07.md",
     "6amart/user-app/refact/Untitled.md",
+    "6amart/user-app/refact/Описпание.md",
+    "daily/2025-05-07.md",
     "6amart/user-app/refact",
     "mateline/Задачи.md",
     "mateline/Untitled.md",
@@ -335,7 +336,6 @@
     "Economics/Экономическая теория/theme/Вопросы/Что такое Ростовщичество.md",
     "Economics/Экономическая теория/theme/Вопросы/Что такое Рынок.md",
     "Economics/Экономическая теория/theme/Вопросы/Что такое Рентабельность.md",
-    "Economics/Экономическая теория/rezume/part 11.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
