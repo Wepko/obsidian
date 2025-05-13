@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/user-app/refact/Описпание.md",
+                "file": "6amart/VKR/План.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Описпание"
+              "title": "План"
             }
           }
         ],
@@ -306,8 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "6amart/user-app/refact/Untitled.md",
     "6amart/user-app/refact/Описпание.md",
+    "6amart/VKR/План.md",
+    "6amart/VKR",
+    "6amart/user-app/refact/Untitled.md",
     "daily/2025-05-07.md",
     "6amart/user-app/refact",
     "mateline/Задачи.md",
@@ -335,7 +337,6 @@
     "Economics/Экономическая теория/theme/material/Рынки в экономике.md",
     "Economics/Экономическая теория/theme/Вопросы/Что такое Ростовщичество.md",
     "Economics/Экономическая теория/theme/Вопросы/Что такое Рынок.md",
-    "Economics/Экономическая теория/theme/Вопросы/Что такое Рентабельность.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
@@ -343,7 +344,6 @@
     "Economics/Экономическая теория/volumes/volume 4",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "6amart/user-app",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "delay/Pasted image 20250403185047.png",
