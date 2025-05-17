@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/Акценты.md",
+                "file": "lk.samgtu/VKR/Пояснительная записка.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Акценты"
+              "title": "Пояснительная записка"
             }
           }
         ],
@@ -306,10 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/Легенда 1.md",
-    "lk.samgtu/VKR/Пояснительная записка.md",
-    "lk.samgtu/VKR/Акценты.md",
     "lk.samgtu/VKR/План.md",
+    "lk.samgtu/VKR/Легенда 1.md",
+    "lk.samgtu/VKR/Акценты.md",
+    "lk.samgtu/VKR/Пояснительная записка.md",
     "daily/2025-05-16.md",
     "6amart/user-app/refact/Описпание.md",
     "lk.samgtu/VKR",
