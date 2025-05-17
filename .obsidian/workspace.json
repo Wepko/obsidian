@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/Примерное содержание.md",
+                "file": "lk.samgtu/VKR/notes/3 Введение.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Примерное содержание"
+              "title": "3 Введение"
             }
           }
         ],
@@ -306,12 +306,13 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/Акценты.md",
-    "lk.samgtu/VKR/notes/Примерное содержание.md",
-    "lk.samgtu/VKR/notes",
-    "lk.samgtu/VKR/Легенда 1.md",
-    "lk.samgtu/VKR/План.md",
+    "lk.samgtu/VKR/notes/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/3 Введение.md",
+    "lk.samgtu/VKR/notes/1 Акценты.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
+    "lk.samgtu/VKR/План.md",
+    "lk.samgtu/VKR/Легенда 1.md",
+    "lk.samgtu/VKR/notes",
     "daily/2025-05-16.md",
     "6amart/user-app/refact/Описпание.md",
     "lk.samgtu/VKR",
@@ -337,7 +338,6 @@
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
