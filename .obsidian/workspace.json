@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-05-17.md",
+                "file": "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-17"
+              "title": "Отслеживание ошибок"
             }
           }
         ],
@@ -306,8 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "daily/2025-05-17.md",
+    "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
+    "lk.samgtu/VKR/notes/restore",
+    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 2/1 Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 2",
@@ -339,9 +341,7 @@
     "Economics/Экономическая теория/rezume/part 1.md",
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
-    "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/volumes/volume 15",
-    "Economics/Экономическая теория/volumes/volume 11",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
