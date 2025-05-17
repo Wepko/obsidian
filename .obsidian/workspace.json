@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/6 Формирование требований к системе.md",
+                "file": "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6 Формирование требований к системе"
+              "title": "1 Акценты"
             }
           }
         ],
@@ -304,17 +304,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdfdafb9c7398656",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/2 Примерное содержание.md",
-    "lk.samgtu/VKR/notes/6 Формирование требований к системе.md",
-    "lk.samgtu/VKR/notes/5 Обзор существующих ИТ-решений.md",
-    "lk.samgtu/VKR/notes/4  Описание предметной области.md",
-    "lk.samgtu/VKR/notes/3 Введение.md",
-    "lk.samgtu/VKR/notes/1 Акценты.md",
+    "lk.samgtu/VKR/notes/step 2/1 Архитектура системы.md",
+    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/step 2",
+    "lk.samgtu/VKR/notes/step 1",
+    "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
-    "lk.samgtu/VKR/План.md",
+    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/Легенда 1.md",
+    "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
+    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
+    "lk.samgtu/VKR/notes/step 1/3 Введение.md",
+    "lk.samgtu/VKR/План.md",
     "lk.samgtu/VKR/notes",
     "daily/2025-05-16.md",
     "6amart/user-app/refact/Описпание.md",
@@ -337,11 +340,8 @@
     "Economics/Разбор событий",
     "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/rezume/part 4.md",
-    "Economics/Экономическая теория/rezume/part 3.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
-    "Economics/Экономическая теория/volumes/volume 8 X",
-    "Economics/Экономическая теория/volumes/volume 5",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
