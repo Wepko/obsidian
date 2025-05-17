@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/3 Введение.md",
+                "file": "lk.samgtu/VKR/notes/2 Примерное содержание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 Введение"
+              "title": "2 Примерное содержание"
             }
           }
         ],
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 417.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/4  Описание предметной области.md",
     "lk.samgtu/VKR/notes/3 Введение.md",
+    "lk.samgtu/VKR/notes/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/1 Акценты.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
     "lk.samgtu/VKR/План.md",
@@ -337,7 +338,6 @@
     "Economics/Экономическая теория/rezume/part 3.md",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
