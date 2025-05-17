@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
+                "file": "lk.samgtu/VKR/notes/restore/Билдинг apk файлов.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Отслеживание ошибок"
+              "title": "Билдинг apk файлов"
             }
           }
         ],
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "daily/2025-05-17.md",
     "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
+    "lk.samgtu/VKR/notes/restore/Билдинг apk файлов.md",
+    "daily/2025-05-17.md",
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 2/1 Архитектура системы.md",
@@ -338,7 +339,6 @@
     "conflict-files-obsidian-git.md",
     "Economics/Разбор событий/Событие 1/сельхозпроизводство.md",
     "daily/2025-04-27.md",
-    "Economics/Экономическая теория/rezume/part 1.md",
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
     "Economics/Экономическая теория/volumes/volume 15",
