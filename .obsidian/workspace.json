@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/Пояснительная записка.md",
+                "file": "lk.samgtu/VKR/notes/Примерное содержание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Пояснительная записка"
+              "title": "Примерное содержание"
             }
           }
         ],
@@ -306,7 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/Акценты.md",
+    "lk.samgtu/VKR/notes/Акценты.md",
+    "lk.samgtu/VKR/notes/Примерное содержание.md",
+    "lk.samgtu/VKR/notes",
     "lk.samgtu/VKR/Легенда 1.md",
     "lk.samgtu/VKR/План.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
@@ -336,12 +338,10 @@
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Economics/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
-    "Economics/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Economics/Экономическая теория/volumes/volume 8 X",
     "Economics/Экономическая теория/volumes/volume 5",
-    "Economics/Экономическая теория/volumes/volume 4",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
