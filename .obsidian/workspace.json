@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
+                "file": "daily/2025-05-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Акценты"
+              "title": "2025-05-17"
             }
           }
         ],
@@ -304,15 +304,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
+    "daily/2025-05-17.md",
     "lk.samgtu/VKR/notes/step 2/1 Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
-    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/Легенда 1.md",
     "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
     "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
@@ -339,7 +340,6 @@
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
     "Economics/Экономическая теория/rezume/part 2.md",
-    "Economics/Экономическая теория/rezume/part 4.md",
     "Economics/Экономическая теория/volumes/volume 15",
     "Economics/Экономическая теория/volumes/volume 11",
     "Untitled 3.canvas",
