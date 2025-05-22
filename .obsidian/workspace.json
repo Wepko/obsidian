@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
+                "file": "6amart/project/Платежи/Анализ таблицы addon_settings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 Обзор существующих ИТ-решений"
+              "title": "Анализ таблицы addon_settings"
             }
           }
         ],
@@ -304,14 +304,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdfdafb9c7398656",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "6amart/project/микросервисы/От монолитной к микросервисной.md",
+    "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
+    "6amart/project/Платежи/Анализ таблицы addon_settings.md",
+    "6amart/project/Платежи",
+    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
+    "6amart/project/микросервисы",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
-    "6amart/project/Основные микросервисы.md",
-    "6amart/project/Начните с двух сервисов (Auth + Store).md",
-    "6amart/project/Инструкция по настройке Docker для Auth Service.md",
-    "6amart/project/От монолитной к микросервисной.md",
+    "6amart/project/микросервисы/Основные микросервисы.md",
+    "6amart/project/микросервисы/Начните с двух сервисов (Auth + Store).md",
     "6amart/project/routes.md",
     "6amart/Untitled.md",
     "6amart/project",
@@ -331,17 +335,12 @@
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
     "lk.samgtu/VKR/Легенда 1.md",
-    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "lk.samgtu/VKR/notes/step 1/3 Введение.md",
     "lk.samgtu/VKR/План.md",
     "lk.samgtu/VKR/notes",
-    "daily/2025-05-16.md",
     "lk.samgtu/VKR",
-    "daily/2025-05-07.md",
     "6amart/user-app/refact",
     "mateline",
-    "Economics/Разбор событий/Событие 1",
-    "Economics/Разбор событий",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
