@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/project/От монолитной к микросервисной.md",
+                "file": "6amart/project/Инструкция по настройке Docker для Auth Service.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "От монолитной к микросервисной"
+              "title": "Инструкция по настройке Docker для Auth Service"
             }
           }
         ],
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "6amart/project/routes.md",
     "6amart/project/От монолитной к микросервисной.md",
+    "6amart/project/Инструкция по настройке Docker для Auth Service.md",
+    "6amart/project/routes.md",
     "6amart/Untitled.md",
     "6amart/project",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
@@ -338,7 +339,6 @@
     "6amart/user-app/refact",
     "mateline/Задачи.md",
     "mateline/Untitled.md",
-    "daily/2025-05-06.md",
     "mateline",
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
