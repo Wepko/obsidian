@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/project/Трэк номер.md",
+                "file": "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Трэк номер"
+              "title": "5 Обзор существующих ИТ-решений"
             }
           }
         ],
@@ -304,10 +304,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdfdafb9c7398656",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
+    "lk.samgtu/VKR/notes/step 3",
+    "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
+    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "6amart/project/Трэк номер.md",
+    "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "6amart/project/микросервисы/От монолитной к микросервисной.md",
     "6amart/project/микросервисы/Основные микросервисы.md",
@@ -316,7 +319,6 @@
     "6amart/project/Платежи/Анализ таблицы addon_settings.md",
     "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
     "6amart/project/Платежи",
-    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "6amart/project/микросервисы",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
@@ -335,9 +337,7 @@
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
-    "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
-    "lk.samgtu/VKR/Легенда 1.md",
     "lk.samgtu/VKR/notes",
     "lk.samgtu/VKR",
     "6amart/user-app/refact",
