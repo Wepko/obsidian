@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/project/Платежи/Анализ таблицы addon_settings.md",
+                "file": "6amart/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Анализ таблицы addon_settings"
+              "title": "Untitled"
             }
           }
         ],
@@ -304,11 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "6amart/project/Платежи/Анализ таблицы addon_settings.md",
     "6amart/project/микросервисы/От монолитной к микросервисной.md",
     "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
-    "6amart/project/Платежи/Анализ таблицы addon_settings.md",
     "6amart/project/Платежи",
     "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "6amart/project/микросервисы",
