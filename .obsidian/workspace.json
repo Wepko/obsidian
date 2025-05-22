@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/project/Инструкция по настройке Docker для Auth Service.md",
+                "file": "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Инструкция по настройке Docker для Auth Service"
+              "title": "5 Обзор существующих ИТ-решений"
             }
           }
         ],
@@ -306,17 +306,18 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "6amart/project/Начните с двух сервисов (Auth + Store).md",
+    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "6amart/project/Основные микросервисы.md",
-    "6amart/project/От монолитной к микросервисной.md",
+    "6amart/project/Начните с двух сервисов (Auth + Store).md",
     "6amart/project/Инструкция по настройке Docker для Auth Service.md",
+    "6amart/project/От монолитной к микросервисной.md",
     "6amart/project/routes.md",
     "6amart/Untitled.md",
     "6amart/project",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
     "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
-    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
     "6amart/user-app/Checkout controller.md",
     "6amart/user-app/refact/Untitled.md",
@@ -325,7 +326,6 @@
     "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
     "daily/2025-05-17.md",
     "lk.samgtu/VKR/notes/restore",
-    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
