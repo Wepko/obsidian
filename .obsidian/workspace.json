@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/1 Архитектура системы.md",
+                "file": "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Архитектура системы"
+              "title": "2.1. Архитектура системы"
             }
           }
         ],
@@ -306,6 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
+    "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
+    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
     "6amart/user-app/Checkout controller.md",
@@ -316,7 +319,6 @@
     "daily/2025-05-17.md",
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
-    "lk.samgtu/VKR/notes/step 2/1 Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
@@ -337,8 +339,6 @@
     "mateline",
     "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "Economics/Разбор событий/Событие 1/Почему так происходит.md",
-    "conflict-files-obsidian-git.md",
-    "Economics/Разбор событий/Событие 1/сельхозпроизводство.md",
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
     "Economics/Экономическая теория/volumes/volume 15",
