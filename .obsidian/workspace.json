@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/project/Основные микросервисы.md",
+                "file": "6amart/project/Инструкция по настройке Docker для Auth Service.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основные микросервисы"
+              "title": "Инструкция по настройке Docker для Auth Service"
             }
           }
         ],
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 519.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -306,9 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "6amart/project/Инструкция по настройке Docker для Auth Service.md",
+    "6amart/project/Начните с двух сервисов (Auth + Store).md",
     "6amart/project/Основные микросервисы.md",
     "6amart/project/От монолитной к микросервисной.md",
+    "6amart/project/Инструкция по настройке Docker для Auth Service.md",
     "6amart/project/routes.md",
     "6amart/Untitled.md",
     "6amart/project",
@@ -338,7 +339,6 @@
     "lk.samgtu/VKR",
     "daily/2025-05-07.md",
     "6amart/user-app/refact",
-    "mateline/Задачи.md",
     "mateline",
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
