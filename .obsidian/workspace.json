@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
+                "file": "6amart/project/routes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.1. Архитектура системы"
+              "title": "routes"
             }
           }
         ],
@@ -306,8 +306,11 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
+    "6amart/Untitled.md",
+    "6amart/project/routes.md",
+    "6amart/project",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
+    "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
     "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
@@ -337,11 +340,8 @@
     "daily/2025-05-06.md",
     "daily/2025-05-05.md",
     "mateline",
-    "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
-    "Economics/Разбор событий/Событие 1/Почему так происходит.md",
     "Economics/Разбор событий/Событие 1",
     "Economics/Разбор событий",
-    "Economics/Экономическая теория/volumes/volume 15",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
