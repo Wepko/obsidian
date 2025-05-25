@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+                "file": "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 Примерное содержание"
+              "title": "2.2. Модульная структура"
             }
           }
         ],
@@ -306,10 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 1/3 Введение.md",
     "6amart/Основа.md",
-    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
