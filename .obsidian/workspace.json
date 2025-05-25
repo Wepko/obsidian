@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 Примерное содержание"
+              "title": "Основные сущности системы базы данных"
             }
           }
         ],
@@ -306,8 +306,11 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
+    "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/Диаграммы.md",
     "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
     "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
@@ -334,14 +337,11 @@
     "6amart/project",
     "6amart/user-app/Checkout controller.md",
     "6amart/user-app/refact/Untitled.md",
-    "6amart/user-app/refact/Описпание.md",
-    "lk.samgtu/VKR/notes/restore/Билдинг apk файлов.md",
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
     "lk.samgtu/VKR/notes",
     "lk.samgtu/VKR",
-    "6amart/user-app/refact",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
