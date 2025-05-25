@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
+                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/инфологическая диаграмма.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основные сущности системы базы данных"
+              "title": "инфологическая диаграмма"
             }
           }
         ],
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/инфологическая диаграмма.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
     "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
@@ -336,7 +337,6 @@
     "6amart/project/routes.md",
     "6amart/project",
     "6amart/user-app/Checkout controller.md",
-    "6amart/user-app/refact/Untitled.md",
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
