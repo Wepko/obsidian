@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
+                "file": "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.5 Построение модели доходов и расходов"
+              "title": "4.6 Расчет показателей экономической эффективности"
             }
           }
         ],
@@ -307,6 +307,7 @@
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
     "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
     "lk.samgtu/VKR/notes/step 4/4.4 Оценка рыночного потенциала и продаж.md",
     "lk.samgtu/VKR/notes/step 4/4.3 Определение источников финансирования инвестиционных затрат.md",
@@ -334,7 +335,6 @@
     "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "6amart/Основа.md",
-    "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 3",
     "6amart/project/Платежи",
     "6amart/project/микросервисы",
