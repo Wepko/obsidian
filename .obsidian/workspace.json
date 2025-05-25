@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 4/4.2.md",
+                "file": "lk.samgtu/VKR/notes/step 4/4.3.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.2"
+              "title": "4.3"
             }
           }
         ],
@@ -306,10 +306,11 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 4/4.2.md",
+    "lk.samgtu/VKR/notes/step 4/4.3.md",
     "lk.samgtu/VKR/notes/Диаграммы.md",
     "lk.samgtu/VKR/notes/step 4/Untitled.md",
     "lk.samgtu/VKR/notes/step 4/4.1 Анализ создания единой платформы доставки для малых городов.md",
-    "lk.samgtu/VKR/notes/step 4/4.2.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
@@ -335,7 +336,6 @@
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 3",
     "6amart/project/Трэк номер.md",
-    "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "6amart/project/Платежи",
     "6amart/project/микросервисы",
     "6amart/project",
