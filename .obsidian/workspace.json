@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/Основа.md",
+                "file": "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основа"
+              "title": "2 Примерное содержание"
             }
           }
         ],
@@ -306,6 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
+    "lk.samgtu/VKR/notes/step 1/3 Введение.md",
+    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
@@ -313,19 +316,16 @@
     "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
     "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
-    "lk.samgtu/VKR/notes/step 1/3 Введение.md",
     "lk.samgtu/VKR/notes/step 3",
     "6amart/project/Трэк номер.md",
     "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "6amart/project/микросервисы/От монолитной к микросервисной.md",
     "6amart/project/микросервисы/Основные микросервисы.md",
     "6amart/project/Платежи/Таблицы для интеграции платежных систем.md",
-    "6amart/Основа.md",
     "6amart/project/Платежи/Анализ таблицы addon_settings.md",
     "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
     "6amart/project/Платежи",
     "6amart/project/микросервисы",
-    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "6amart/project/микросервисы/Начните с двух сервисов (Auth + Store).md",
     "6amart/project/routes.md",
     "6amart/project",
