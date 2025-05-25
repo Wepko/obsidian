@@ -1,1 +1,0 @@
-https://gitlab.com/chaten1/multi-food-service
