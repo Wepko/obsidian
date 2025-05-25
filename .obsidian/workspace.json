@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
+                "file": "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.2. Модульная структура"
+              "title": "Анализ к предметной области"
             }
           }
         ],
@@ -306,6 +306,8 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
+    "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 1/3 Введение.md",
@@ -313,7 +315,6 @@
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
-    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
     "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "lk.samgtu/VKR/notes/step 3",
@@ -338,7 +339,6 @@
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
-    "lk.samgtu/VKR/Пояснительная записка.md",
     "lk.samgtu/VKR/notes",
     "lk.samgtu/VKR",
     "6amart/user-app/refact",
