@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
+                "file": "lk.samgtu/VKR/notes/Диаграммы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Анализ к предметной области"
+              "title": "Диаграммы"
             }
           }
         ],
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
+    "lk.samgtu/VKR/notes/Диаграммы.md",
+    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 1/3 Введение.md",
@@ -335,7 +336,6 @@
     "6amart/user-app/refact/Описпание.md",
     "lk.samgtu/VKR/notes/restore/Билдинг apk файлов.md",
     "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
-    "daily/2025-05-17.md",
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
