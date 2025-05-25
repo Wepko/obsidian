@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/инфологическая диаграмма.md",
+                "file": "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "инфологическая диаграмма"
+              "title": "2.3. Бизнес-процессы"
             }
           }
         ],
@@ -306,10 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/инфологическая диаграмма.md",
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/инфологическая диаграмма.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
     "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/Диаграммы.md",
