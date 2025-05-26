@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
+                "file": "lk.samgtu/VKR/notes/step 5/5.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.5 Построение модели доходов и расходов"
+              "title": "5.1"
             }
           }
         ],
@@ -306,13 +306,14 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
+    "lk.samgtu/VKR/notes/step 5/5.1.md",
+    "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
     "delay/Pasted image 20250526082757.png",
     "lk.samgtu/VKR/notes/step 4/4.4 Оценка рыночного потенциала и продаж.md",
-    "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
     "lk.samgtu/VKR/notes/step 4/4.3 Определение источников финансирования инвестиционных затрат.md",
     "lk.samgtu/VKR/notes/step 4/4.2.md",
     "lk.samgtu/VKR/notes/step 4/4.1 Анализ создания единой платформы доставки для малых городов.md",
-    "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/Диаграммы.md",
     "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
@@ -354,7 +355,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "delay/Pasted image 20250206124311.png",
-    "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
-    "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png"
+    "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg"
   ]
 }
