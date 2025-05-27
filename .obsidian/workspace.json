@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
+                "file": "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Детализация бизнес-процессов платформы доставки"
+              "title": "Untitled"
             }
           }
         ],
@@ -306,6 +306,8 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
@@ -334,8 +336,6 @@
     "lk.samgtu/VKR/notes/step 5",
     "lk.samgtu/VKR/notes/step 4",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/инфологическая диаграмма.md",
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
     "lk.samgtu/VKR/notes/step 3",
     "6amart/project/Платежи",
