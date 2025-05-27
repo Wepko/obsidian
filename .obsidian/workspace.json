@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
-                "mode": "source",
+                "file": "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.3. Бизнес-процессы"
+              "title": "Детализация бизнес-процессов платформы доставки"
             }
           }
         ],
@@ -306,8 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы",
+    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
     "lk.samgtu/VKR/notes/step 5/5.1.md",
     "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
@@ -335,14 +337,12 @@
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
-    "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 3",
     "6amart/project/Платежи",
     "6amart/project/микросервисы",
     "6amart/project",
     "lk.samgtu/VKR/notes/restore",
     "lk.samgtu/VKR/notes/step 2",
-    "lk.samgtu/VKR/notes/step 1",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
