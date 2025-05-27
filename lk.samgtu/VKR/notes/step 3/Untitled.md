@@ -25,8 +25,8 @@
 ### **1.2. Установка Laravel**  
 ```bash
 composer global require laravel/installer
-laravel new myproject
-cd myproject
+laravel new clover
+cd clover
 ```  
 
 ### **1.3. Настройка окружения**  
