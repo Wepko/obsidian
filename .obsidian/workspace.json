@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Таблицы.md",
+                "file": "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Таблицы"
+              "title": "2.2 Проектирование базы данных"
             }
           }
         ],
@@ -306,8 +306,8 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Таблицы.md",
+    "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
