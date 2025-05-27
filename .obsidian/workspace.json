@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/Основа.md",
+                "file": "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основа"
+              "title": "2.3. Бизнес-процессы"
             }
           }
         ],
@@ -306,6 +306,7 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
     "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
     "lk.samgtu/VKR/notes/step 5/5.1.md",
@@ -335,7 +336,6 @@
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
     "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
-    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 3",
     "6amart/project/Платежи",
     "6amart/project/микросервисы",
