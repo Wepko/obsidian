@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
-                "mode": "preview",
+                "file": "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.2 Проектирование базы данных"
+              "title": "2 Примерное содержание"
             }
           }
         ],
@@ -306,11 +306,15 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
+    "lk.samgtu/VKR/notes/step 3/Untitled.md",
+    "lk.samgtu/VKR/notes/step 2/2.3 Проектирование базы данных.md",
+    "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
+    "lk.samgtu/VKR/notes/step 2/2.2. Бизнес-процессы.md",
+    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Таблицы.md",
-    "lk.samgtu/VKR/notes/step 2/2.2 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
-    "lk.samgtu/VKR/notes/step 2/2.3. Бизнес-процессы.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
     "6amart/Основа.md",
@@ -330,10 +334,6 @@
     "lk.samgtu/VKR/Легенда 1.md",
     "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
     "lk.samgtu/VKR/notes/restore/Билдинг apk файлов.md",
-    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
-    "lk.samgtu/VKR/notes/step 1/3 Введение.md",
-    "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
-    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "lk.samgtu/VKR/notes/step 5",
     "lk.samgtu/VKR/notes/step 4",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
