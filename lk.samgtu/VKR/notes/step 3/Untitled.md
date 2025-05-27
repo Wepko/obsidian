@@ -47,7 +47,7 @@ sudo mysql_secure_installation
 ### **2.2. Создание базы данных**  
 ```bash
 sudo mysql -u root -p
-CREATE DATABASE laravel_db;
+CREATE DATABASE clover_db;
 CREATE USER 'laravel_user'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON laravel_db.* TO 'laravel_user'@'localhost';
 FLUSH PRIVILEGES;
