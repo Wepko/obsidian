@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+                "file": "lk.samgtu/VKR/notes/step 1/2 Итоговое примеорное содержание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 Примерное содержание"
+              "title": "2 Итоговое примеорное содержание"
             }
           }
         ],
@@ -306,10 +306,12 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
+    "lk.samgtu/VKR/notes/step 1/2 Итоговое примеорное содержание.md",
     "lk.samgtu/VKR/notes/step 3/3.2.md",
     "lk.samgtu/VKR/notes/step 3/3.1 настройке и развертыванию.md",
     "lk.samgtu/VKR/notes/step 1/3 Введение.md",
-    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
     "lk.samgtu/VKR/notes/step 2/2.3 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
@@ -332,8 +334,6 @@
     "lk.samgtu/VKR/notes/Диаграммы.md",
     "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
     "lk.samgtu/VKR/Пояснительная записка.md",
-    "lk.samgtu/VKR/План.md",
-    "lk.samgtu/VKR/Легенда 1.md",
     "lk.samgtu/VKR/notes/step 5",
     "lk.samgtu/VKR/notes/step 4",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
