@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-05-30.md",
-                "mode": "source",
+                "file": "lk.samgtu/VKR/notes/step 3/3.2.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-30"
+              "title": "3.2"
             }
           }
         ],
@@ -306,9 +306,10 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 1/Обращени.md",
-    "daily/2025-05-30.md",
+    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/step 1/2 Итоговое примеорное содержание.md",
+    "daily/2025-05-30.md",
+    "lk.samgtu/VKR/notes/step 1/Обращени.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "lk.samgtu/VKR/notes/step 3/3.2.md",
@@ -324,7 +325,6 @@
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
-    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
     "lk.samgtu/VKR/notes/step 5/5.1.md",
     "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
