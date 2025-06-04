@@ -133,8 +133,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/list litres.md",
-                "mode": "preview",
+                "file": "6amart/project/new/Рефакторинг БД.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "list litres"
+              "title": "Рефакторинг БД"
             }
           }
         ],
@@ -306,8 +306,12 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/step 3/3.3.md",
+    "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
+    "6amart/project/new/Рефакторинг БД.md",
+    "6amart/project/new",
+    "6amart/Основа.md",
     "lk.samgtu/VKR/notes/list litres.md",
+    "lk.samgtu/VKR/notes/step 3/3.3.md",
     "lk.samgtu/VKR/План.md",
     "lk.samgtu/VKR/Легенда 1.md",
     "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
@@ -318,7 +322,6 @@
     "lk.samgtu/VKR/notes/step 1/Обращени.md",
     "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
     "lk.samgtu/VKR/notes/step 3/3.2.md",
-    "6amart/Основа.md",
     "daily/2025-05-30.md",
     "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
     "lk.samgtu/VKR/notes/step 3/3.1 настройке и развертыванию.md",
@@ -331,8 +334,6 @@
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
-    "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
-    "lk.samgtu/VKR/notes/step 5/5.1.md",
     "delay/Pasted image 20250526082757.png",
     "lk.samgtu/VKR/notes/step 5",
     "lk.samgtu/VKR/notes/step 4",
@@ -342,7 +343,6 @@
     "6amart/project/микросервисы",
     "6amart/project",
     "lk.samgtu/VKR/notes/restore",
-    "lk.samgtu/VKR/notes/step 2",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
