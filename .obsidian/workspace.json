@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/project/new/Рефакторинг БД.md",
+                "file": "6amart/project/new/Рефакторинга регистрации и авторизации.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Рефакторинг БД"
+              "title": "Рефакторинга регистрации и авторизации"
             }
           }
         ],
@@ -306,8 +306,9 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
-    "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
     "6amart/project/new/Рефакторинг БД.md",
+    "6amart/project/new/Рефакторинга регистрации и авторизации.md",
+    "6amart/project/микросервисы/Инструкция по настройке Docker для Auth Service.md",
     "6amart/project/new",
     "6amart/Основа.md",
     "lk.samgtu/VKR/notes/list litres.md",
@@ -332,7 +333,6 @@
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Таблицы.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
-    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
     "delay/Pasted image 20250526082757.png",
     "lk.samgtu/VKR/notes/step 5",
