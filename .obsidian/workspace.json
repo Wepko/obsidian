@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Courses/CRUD/Этапы.md",
+                "file": "Projects/Courses/CRUD/ТЗ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Этапы"
+              "title": "ТЗ"
             }
           }
         ],
@@ -306,6 +306,8 @@
   },
   "active": "bdfdafb9c7398656",
   "lastOpenFiles": [
+    "delay/Pasted image 20250606140023.png",
+    "Projects/Courses/CRUD/Этапы.md",
     "Projects/Courses/CRUD/ТЗ.md",
     "6amart/project/new/Рефакторинга регистрации и авторизации.md",
     "6amart/project/new/Рефакторинг БД.md",
@@ -331,8 +333,6 @@
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/notes/step 2/2.2. Бизнес-процессы.md",
     "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Таблицы.md",
-    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
     "delay/Pasted image 20250526082757.png",
     "lk.samgtu/VKR/notes/step 5",
