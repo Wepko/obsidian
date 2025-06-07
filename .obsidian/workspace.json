@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/rezume/part 1.md",
+                "file": "Economics/Экономическая теория/rezume/part 2.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "part 1"
+              "title": "part 2"
             }
           }
         ],
@@ -339,8 +339,8 @@
   },
   "active": "ad46d25a2fd8dc8b",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/rezume/part 1.md",
+    "Economics/Экономическая теория/rezume/part 2.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/rezume/part 4.md",
