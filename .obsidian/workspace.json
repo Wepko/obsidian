@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
+                "file": "Economics/История экономической мысли/классификации экономических теорий.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Что нужно сделать"
+              "title": "классификации экономических теорий"
             }
           }
         ],
@@ -305,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 559.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -363,6 +363,16 @@
   },
   "active": "a681e26006ca42c1",
   "lastOpenFiles": [
+    "Economics/История экономической мысли/Анализ систем/Основные идеи меркантилизма и физиократов.md",
+    "Economics/История экономической мысли/классификации экономических теорий.md",
+    "Economics/История экономической мысли/Анализ систем/Cистема Кантильона.md",
+    "Economics/История экономической мысли/Анализ систем/Детерминизм и неопределенность в системе кантилиона.md",
+    "Economics/История экономической мысли/Анализ систем",
+    "Economics/История экономической мысли/Словарь.md",
+    "Economics/История экономической мысли/Анализ систем/Факторы успеха странны выделяет Смитт.md",
+    "Economics/История экономической мысли/Анализ систем/Экономические системы Кантильона и Джона Ло сравнение и критика.md",
+    "Economics/История экономической мысли/Анализ систем/Заработная плата По мальтутсу и по Смиту.md",
+    "Economics/Разбор событий/Событие 1/Что нужно сделать.md",
     "Economics/Разбор событий/Событие 1/сельхозпроизводство.md",
     "Economics/Разбор событий/Событие 1/Почему так происходит.md",
     "lk.samgtu/VKR/Легенда 1.md",
@@ -381,24 +391,14 @@
     "lk.samgtu/VKR/notes/step 4/4.6 Расчет показателей экономической эффективности.md",
     "lk.samgtu/VKR/notes/step 4/4.5 Построение модели доходов и расходов.md",
     "lk.samgtu/VKR/notes/step 4/4.4 Оценка рыночного потенциала и продаж.md",
-    "lk.samgtu/VKR/notes/step 4/4.3 Определение источников финансирования инвестиционных затрат.md",
-    "lk.samgtu/VKR/notes/step 4/4.1 Анализ создания единой платформы доставки для малых городов.md",
-    "lk.samgtu/VKR/notes/step 4/4.2.md",
-    "lk.samgtu/VKR/notes/step 5/5.1.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
     "lk.samgtu/VKR/notes/step 2/проектирование базы данных",
-    "lk.samgtu/VKR/notes/step 2/2.3 Проектирование базы данных.md",
-    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
-    "lk.samgtu/VKR/notes/step 2/2.2. Бизнес-процессы.md",
-    "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
-    "lk.samgtu/VKR/notes/step 1/Обращени.md",
     "lk.samgtu/VKR/notes/step 4",
     "lk.samgtu/VKR/notes/step 5",
     "lk.samgtu/VKR/notes/step 2",
     "lk.samgtu/VKR/notes/step 1",
     "lk.samgtu/VKR/notes/step 3",
     "lk.samgtu/VKR/notes/restore",
-    "lk.samgtu/VKR/notes",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "delay/Pasted image 20250403185047.png",
