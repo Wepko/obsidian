@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 28/2.md",
+                "file": "Economics/Экономическая теория/Список всех тем volumes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -220,21 +220,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2"
-            }
-          },
-          {
-            "id": "a681e26006ca42c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Список всех тем volumes"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -347,8 +337,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a681e26006ca42c1",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Economics/Экономическая теория/rezume/part 1.md",
+    "Economics/Экономическая теория/rezume/part 5.md",
+    "Economics/Экономическая теория/rezume/part 4.md",
+    "Economics/Экономическая теория/rezume/part 11.md",
+    "Economics/Экономическая теория/rezume/part 10.md",
+    "Economics/Экономическая теория/rezume/part 9.md",
+    "Economics/Экономическая теория/rezume/part 8.md",
+    "Economics/Экономическая теория/rezume/part 7.md",
+    "Economics/Экономическая теория/rezume/part 6.md",
+    "Economics/Экономическая теория/rezume/part 3.md",
+    "Economics/Экономическая теория/rezume/part 2.md",
+    "Economics/Экономическая теория/volumes/volume 28/2.md",
+    "Economics/Экономическая теория/volumes/volume 1/volume 1.md",
     "Economics/Экономическая теория/theme/Ситуации/Рассмотрим следующие ситуации.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi/Lection 1.md",
     "Economics/Экономическая теория/theme/material/Econimica sovershi/Совершенная экономека.md",
@@ -362,19 +365,6 @@
     "Economics/Экономическая теория/theme/material/Совершенный рынок.md",
     "Economics/Экономическая теория/theme/material/Рынки в экономике.md",
     "Economics/Экономическая теория/theme/Затраты и издержки.md",
-    "Economics/Экономическая теория/theme/Модель производственных возможностей (МПВ).md",
-    "Economics/Экономическая теория/theme/Поведенческая  экономика.md",
-    "Economics/Экономическая теория/theme/Поведенческая экономика.md",
-    "Economics/Экономическая теория/theme/Придельная производительность.md",
-    "Economics/Экономическая теория/theme/Программа специализации Экономист-финонсист.md",
-    "Economics/Экономическая теория/theme/Позитивизм и Нормативизм.md",
-    "Economics/Экономическая теория/theme/Эволюция экономике.md",
-    "Economics/Экономическая теория/rezume/part 1.md",
-    "Economics/Экономическая теория/Список всех тем volumes.md",
-    "Economics/История экономической мысли/классификации экономических теорий.md",
-    "Economics/История экономической мысли/Анализ систем/Основные идеи меркантилизма и физиократов.md",
-    "Economics/История экономической мысли/Анализ систем/Cистема Кантильона.md",
-    "Economics/История экономической мысли/Анализ систем/Детерминизм и неопределенность в системе кантилиона.md",
     "Economics/История экономической мысли/Анализ систем",
     "mateline",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы",
