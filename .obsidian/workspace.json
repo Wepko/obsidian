@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35b158f11e1fa615",
+            "id": "6af2e92e103ae8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,203 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Роль экономики в жизни общества ."
-            }
-          },
-          {
-            "id": "9e4d470aece2a2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Глава 1. Роль экономики в жизни общества ."
-            }
-          },
-          {
-            "id": "19c2f7c22934ffe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Формализованая экономика/themes/Вопрос  1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Вопрос  1"
-            }
-          },
-          {
-            "id": "337b09943db00f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-04-17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-17"
-            }
-          },
-          {
-            "id": "af3da4ef3619d2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-04-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-20"
-            }
-          },
-          {
-            "id": "56334ce368619e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Показатели СНС"
-            }
-          },
-          {
-            "id": "0165b0cba22de724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 27/Показатели СНС.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Показатели СНС"
-            }
-          },
-          {
-            "id": "d98aafe7a96ac26c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-04-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-25"
-            }
-          },
-          {
-            "id": "ad46d25a2fd8dc8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-06-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-21"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 349.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -337,10 +144,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad46d25a2fd8dc8b",
+  "active": "6af2e92e103ae8ce",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/rezume/part 7.md",
     "daily/2025-06-21.md",
+    "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+    "conflict-files-obsidian-git.md",
+    "lk.samgtu/VKR/notes/step 2/2.1.md",
+    "lk.samgtu/VKR/notes/step 1/5.md",
+    "lk.samgtu/VKR/notes/present/slade 1.md",
+    "lk.samgtu/VKR/notes/present",
+    "daily/2025-06-20.md",
+    "Economics/Экономическая теория/rezume/part 7.md",
     "Economics/Экономическая теория/rezume/part 8.md",
     "Economics/Экономическая теория/rezume/part 11.md",
     "Economics/Экономическая теория/rezume/part 10.md",
@@ -364,17 +178,10 @@
     "Economics/Экономическая теория/volumes/volume 19/volume 19.md",
     "Economics/Экономическая теория/volumes/volume 18/volume 18.md",
     "Economics/Экономическая теория/volumes/volume 17/volume 17.md",
-    "Economics/Экономическая теория/volumes/volume 16/volume 16.md",
     "Economics/Экономическая теория/volumes/volume 20",
     "Economics/Экономическая теория/volumes/volume 19",
     "Economics/Экономическая теория/volumes/volume 18",
     "Economics/Экономическая теория/volumes/volume 17",
-    "Economics/Экономическая теория/volumes/volume 15/volume 15.md",
-    "Economics/Экономическая теория/volumes/volume 16",
-    "Economics/Экономическая теория/rezume/part 3.md",
-    "Economics/Экономическая теория/rezume/part 2.md",
-    "Economics/Экономическая теория/rezume/part 1.md",
-    "Economics/Экономическая теория/volumes/volume 28/2.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "delay/Pasted image 20250403185047.png",
