@@ -16,8 +16,33 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "b762022d3028dc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "volume 29"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 289.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -130,22 +155,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "b762022d3028dc7b",
   "lastOpenFiles": [
+    "Economics/Экономическая теория/volumes/volume 29/questions.md",
+    "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
+    "Economics/Экономическая теория/rezume/part 7.md",
+    "Economics/Экономическая теория/rezume/part 8.md",
+    "Economics/Экономическая теория/rezume/part 6.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-06-21.md",
     "Economics/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
-    "conflict-files-obsidian-git.md",
     "lk.samgtu/VKR/notes/step 2/2.1.md",
     "lk.samgtu/VKR/notes/step 1/5.md",
     "lk.samgtu/VKR/notes/present/slade 1.md",
     "lk.samgtu/VKR/notes/present",
     "daily/2025-06-20.md",
-    "Economics/Экономическая теория/rezume/part 7.md",
-    "Economics/Экономическая теория/rezume/part 8.md",
     "Economics/Экономическая теория/rezume/part 11.md",
     "Economics/Экономическая теория/rezume/part 10.md",
     "Economics/Экономическая теория/rezume/part 9.md",
-    "Economics/Экономическая теория/rezume/part 6.md",
     "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/rezume/part 4.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
@@ -162,8 +189,6 @@
     "Economics/Экономическая теория/volumes/volume 22",
     "Economics/Экономическая теория/volumes/volume 21",
     "Economics/Экономическая теория/volumes/volume 19/volume 19.md",
-    "Economics/Экономическая теория/volumes/volume 18/volume 18.md",
-    "Economics/Экономическая теория/volumes/volume 17/volume 17.md",
     "Economics/Экономическая теория/volumes/volume 20",
     "Economics/Экономическая теория/volumes/volume 19",
     "Economics/Экономическая теория/volumes/volume 18",
