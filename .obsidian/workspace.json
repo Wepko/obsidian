@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f62a04897280d65",
+        "id": "13eda2745d0e0eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "dc38fe0c88a14b09",
+            "id": "d22fb6fe3f0e64ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "volume 29"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "d22fb6fe3f0e64ea",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "daily/2025-06-23.md",
