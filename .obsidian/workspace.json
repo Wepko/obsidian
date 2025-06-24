@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4085ab3a419bf39",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b762022d3028dc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-06-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-23"
-            }
-          },
-          {
             "id": "0da84c0d75ec67e6",
             "type": "leaf",
             "state": {
@@ -65,8 +31,7 @@
               "title": "volume 26"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +82,40 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a4085ab3a419bf39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b762022d3028dc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-06-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-23"
             }
           }
         ]
@@ -181,14 +180,14 @@
   },
   "active": "0da84c0d75ec67e6",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/volumes/volume 26/Адаптация экономики к шоку спроса.md",
+    "daily/2025-06-23.md",
     "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
+    "Economics/Экономическая теория/volumes/volume 26/Адаптация экономики к шоку спроса.md",
     "Economics/Экономическая теория/volumes/volume 26/Банки и другие финансовые институты способствуют инвестициям.md",
     "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
     "Economics/Экономическая теория/Список всех расмотренных ситуаций situation.md",
     "daily/2025-06-24.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-06-23.md",
     "Economics/Экономическая теория/rezume/part 7.md",
     "Economics/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
     "Jurisprudence/trash/Структура всего ТГП.md",
