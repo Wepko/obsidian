@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-06-24.md",
+                "file": "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-24"
+              "title": "volume 26"
             }
           }
         ],
@@ -123,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 368.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -181,9 +181,10 @@
   },
   "active": "0da84c0d75ec67e6",
   "lastOpenFiles": [
-    "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
-    "daily/2025-06-24.md",
     "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
+    "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
+    "Economics/Экономическая теория/Список всех расмотренных ситуаций situation.md",
+    "daily/2025-06-24.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-06-23.md",
     "Economics/Экономическая теория/rezume/part 7.md",
@@ -199,7 +200,6 @@
     "Economics/Экономическая теория/rezume/part 9.md",
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/Экономическая теория/Список всех расмотренных ситуаций situation.md",
     "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/rezume/part 4.md",
     "Economics/Экономическая теория/rezume/part 3.md",
