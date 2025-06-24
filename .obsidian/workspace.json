@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
-                "mode": "preview",
+                "file": "daily/2025-06-24.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 29"
+              "title": "2025-06-24"
             }
           }
         ],
@@ -181,8 +181,10 @@
   },
   "active": "0da84c0d75ec67e6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
+    "daily/2025-06-24.md",
     "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-06-23.md",
     "Economics/Экономическая теория/rezume/part 7.md",
     "Economics/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
@@ -198,7 +200,6 @@
     "Economics/Экономическая теория/Список всех тем volumes.md",
     "Economics/Экономическая теория/volumes/volume 28/volume 28.md",
     "Economics/Экономическая теория/Список всех расмотренных ситуаций situation.md",
-    "Economics/Экономическая теория/volumes/volume 26/volume 26.md",
     "Economics/Экономическая теория/rezume/part 5.md",
     "Economics/Экономическая теория/rezume/part 4.md",
     "Economics/Экономическая теория/rezume/part 3.md",
@@ -207,7 +208,6 @@
     "Economics/Экономическая теория/volumes/volume 28/2.md",
     "Economics/Экономическая теория/situation",
     "Economics/Экономическая теория/volumes/volume 28/1.md",
-    "Economics/Экономическая теория/volumes/volume 28/3.md",
     "lk.samgtu/VKR/notes/present",
     "Economics/Экономическая теория/volumes/volume 25",
     "Economics/Экономическая теория/volumes/volume 24",
