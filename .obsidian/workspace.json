@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89b0e9a3b3b0ca86",
+        "id": "b048a6af05cd7ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "e614d4836f82b343",
+            "id": "dc1fbfc616002b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-06-26.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 28/5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-26"
+              "title": "5"
             }
           }
         ]
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 331.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -178,25 +178,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e614d4836f82b343",
+  "active": "dc1fbfc616002b6e",
   "lastOpenFiles": [
-    "Economics/projects/plan.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/volume 28.md",
+    "Economics/study/Экономическая теория/rezume/part 7.md",
+    "Economics/study/Экономическая теория/rezume/part 8.md",
     "daily/2025-06-26.md",
+    "Economics/projects/plan.md",
     "Economics/study/Экономическая теория/volumes/volume 26/4 Шоки и твердые цены.md",
     "daily/2025-06-24.md",
     "Economics/study",
     "Economics/projects",
     "Economics/study/Экономическая теория/rezume/part 1.md",
-    "Economics/study/Экономическая теория/rezume/part 7.md",
-    "Economics/study/Экономическая теория/rezume/part 8.md",
     "Economics/study/Экономическая теория/rezume/part 6.md",
     "Economics/study/Экономическая теория/rezume/part 5.md",
     "Economics/study/Экономическая теория/rezume/part 4.md",
     "Economics/study/Экономическая теория/rezume/part 3.md",
     "Economics/study/Экономическая теория/rezume/part 2.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/volume 28.md",
     "Economics/study/Экономическая теория/volumes/volume 26/volume 26.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/Untitled 4.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/5.md",
     "Economics/study/Экономическая теория/volumes/volume 28/Untitled 5.md",
     "daily/2025-06-23.md",
     "Economics/study/Экономическая теория/volumes/volume 26/Адаптация экономики к шоку спроса.md",
@@ -204,10 +208,6 @@
     "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
     "Economics/study/Экономическая теория/Список всех расмотренных ситуаций situation.md",
     "conflict-files-obsidian-git.md",
-    "Economics/study/Экономическая теория/volumes/volume 26/1 Обьясни почему экономисты при оценки состояние экономике в целом повышенное внимание удиляют ВВП инфляции и безработице.md",
-    "Jurisprudence/trash/Структура всего ТГП.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
-    "Economics/study/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Экстрактивные и инклюзивные.md",
     "Economics/study/Экономическая теория/situation",
     "lk.samgtu/VKR/notes/present",
     "Economics/study/Экономическая теория/volumes/volume 25",
