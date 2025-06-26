@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+                "file": "Economics/study/Экономическая теория/rezume/part 8.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 31"
+              "title": "part 8"
             }
           }
         ]
@@ -178,9 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "dc1fbfc616002b6e",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 31/Untitled",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
@@ -215,7 +216,6 @@
     "Economics/study/Экономическая теория/volumes/volume 25",
     "Economics/study/Экономическая теория/volumes/volume 24",
     "Economics/study/Экономическая теория/volumes/volume 23",
-    "Economics/study/Экономическая теория/volumes/volume 22",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "delay/Pasted image 20250403185047.png",
