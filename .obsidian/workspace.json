@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 42/volume 42.md",
+                "file": "Economics/study/Экономическая теория/Список всех тем volumes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 42"
+              "title": "Список всех тем volumes"
             }
           }
         ]
@@ -180,9 +180,11 @@
   },
   "active": "dc1fbfc616002b6e",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 40/volume 40.md",
     "Economics/study/Экономическая теория/volumes/volume 42/volume 42.md",
+    "Economics/study/Экономическая теория/Список всех тем volumes.md",
     "Economics/study/Экономическая теория/volumes/volume 41/volume 41.md",
+    "Economics/study/Экономическая теория/volumes/volume 40/volume 40.md",
+    "Economics/study/Экономическая теория/Список ключевых графиков.md",
     "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
     "Economics/study/Экономическая теория/volumes/volume 38/volume 38.md",
     "Economics/study/Экономическая теория/volumes/volume 39/volume 39.md",
@@ -191,7 +193,6 @@
     "Economics/study/Экономическая теория/volumes/volume 41",
     "Economics/study/Экономическая теория/volumes/volume 40",
     "Economics/study/Экономическая теория/rezume/part 9.md",
-    "Economics/study/Экономическая теория/Список всех тем volumes.md",
     "Economics/study/Экономическая теория/volumes/volume 39",
     "Economics/study/Экономическая теория/volumes/volume 38",
     "Economics/study/Экономическая теория/rezume/part 11.md",
@@ -213,7 +214,6 @@
     "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
     "Economics/study/Экономическая теория/volumes/volume 29/Номинальная процентная ставка.md",
     "Economics/study/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/5.md",
     "Economics/study",
     "Economics/projects",
     "Untitled 3.canvas",
