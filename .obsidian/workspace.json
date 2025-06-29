@@ -30,8 +30,225 @@
               "icon": "lucide-file",
               "title": "2025-06-29"
             }
+          },
+          {
+            "id": "66a27fba3394c885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/Текст выступления.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Текст выступления"
+            }
+          },
+          {
+            "id": "d28d67f5b55d82b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/Легенда 1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Легенда 1"
+            }
+          },
+          {
+            "id": "ed7f362075989629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Диаграммы"
+            }
+          },
+          {
+            "id": "8840f128d5e9420d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.1. Архитектура системы"
+            }
+          },
+          {
+            "id": "2593af9b6eac0023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2 Примерное содержание"
+            }
+          },
+          {
+            "id": "64e9727d658f7dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Диаграммы"
+            }
+          },
+          {
+            "id": "825e05ac3cc9e920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Миграции для системы доставки еды (Laravel) 1"
+            }
+          },
+          {
+            "id": "8561def3fe922867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Миграции для системы доставки еды (Laravel) 1"
+            }
+          },
+          {
+            "id": "18e75a44c1ce2a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -63,7 +280,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "model_has",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +301,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,44 +401,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22fb6fe3f0e64ea",
+  "active": "18e75a44c1ce2a51",
   "lastOpenFiles": [
-    "lk.samgtu/VKR/notes/restore/Отслеживание ошибок.md",
-    "daily/2025-06-29.md",
-    "lk.samgtu/VKR/notes/restore/Билдинг apk файлов.md",
-    "lk.samgtu/VKR/notes/restore/Анализ к предметной области.md",
-    "lk.samgtu/VKR/notes/step 3/3.1 настройке и развертыванию.md",
-    "lk.samgtu/VKR/План.md",
-    "lk.samgtu/VKR/Легенда 1.md",
+    "conflict-files-obsidian-git.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Основные сущности системы базы данных.md",
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Таблицы.md",
     "lk.samgtu/VKR/notes/list litres.md",
     "lk.samgtu/VKR/notes/Диаграммы.md",
-    "lk.samgtu/VKR/notes/step 5/5.1.md",
-    "lk.samgtu/VKR/notes/step 4/4.2.md",
-    "lk.samgtu/VKR/notes/step 4/4.3 Определение источников финансирования инвестиционных затрат.md",
-    "lk.samgtu/VKR/notes/step 4/4.1 Анализ создания единой платформы доставки для малых городов.md",
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Untitled.md",
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
+    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Детализация бизнес-процессов платформы доставки.md",
+    "lk.samgtu/VKR/notes/step 3/3.3.md",
     "lk.samgtu/VKR/notes/step 3/3.2.md",
-    "lk.samgtu/VKR/notes/step 2/2.3 Проектирование базы данных.md",
-    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
-    "lk.samgtu/VKR/notes/step 2/2.2. Бизнес-процессы.md",
+    "lk.samgtu/VKR/notes/step 3/3.1 настройке и развертыванию.md",
+    "lk.samgtu/VKR/notes/step 2/2.1.md",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
-    "lk.samgtu/VKR/notes/step 1/3 Введение.md",
-    "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
+    "lk.samgtu/VKR/notes/step 2/2.2. Бизнес-процессы.md",
+    "lk.samgtu/VKR/notes/step 2/2.2. Модульная структура.md",
+    "lk.samgtu/VKR/notes/step 2/2.3 Проектирование базы данных.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 1/2 Итоговое примеорное содержание.md",
+    "lk.samgtu/VKR/notes/step 1/4  Описание предметной области.md",
+    "lk.samgtu/VKR/notes/step 1/3 Введение.md",
     "lk.samgtu/VKR/notes/step 1/5.md",
-    "lk.samgtu/VKR/notes/step 1/1 Акценты.md",
-    "Economics/Экономическая теория/volumes/volume 29/volume 29.md",
-    "conflict-files-obsidian-git.md",
-    "lk.samgtu/VKR/notes/present",
-    "Economics/Экономическая теория/volumes/volume 33/volume 32",
-    "Economics/Экономическая теория/volumes/volume 25",
-    "Economics/Экономическая теория/volumes/volume 24",
-    "Economics/Экономическая теория/volumes/volume 23",
-    "Economics/Экономическая теория/volumes/volume 22",
-    "Economics/Экономическая теория/volumes/volume 21",
-    "Economics/Экономическая теория/volumes/volume 20",
-    "Economics/Экономическая теория/volumes/volume 19",
-    "Economics/Экономическая теория/volumes/volume 18",
+    "lk.samgtu/VKR/notes/step 1/6 Формирование требований к системе.md",
+    "lk.samgtu/VKR/notes/step 1/5 Обзор существующих ИТ-решений.md",
+    "lk.samgtu/VKR/Легенда 1.md",
+    "lk.samgtu/VKR/Текст выступления.md",
+    "Economics/study/Экономическая теория/theme/material/Econimica sovershi",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение",
+    "Economics/study/Экономическая теория/theme/Вопросы/Глобально экономические вопросы",
+    "Economics/study/Экономическая теория/volumes/volume 26/questions",
+    "Economics/study/Экономическая теория/volumes/volume 33/volume 32",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
+    "Economics/study/Экономическая теория/theme/Экономические законы",
+    "Economics/study/Экономическая теория/theme/Ситуации",
+    "Economics/study/Экономическая теория/theme/material",
     "delay/Pasted image 20250606140023.png",
     "delay/Pasted image 20250526082757.png",
     "Untitled 3.canvas",
@@ -230,10 +451,7 @@
     "delay/Pasted image 20250403185047.png",
     "delay/Pasted image 20250403184850.png",
     "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
-    "delay/Pasted image 20250403183924.png",
-    "delay/Pasted image 20250324001823.png",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "delay/Pasted image 20250206124311.png"
+    "Untitled 1.canvas"
   ]
 }
