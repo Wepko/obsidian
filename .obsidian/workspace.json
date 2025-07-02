@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Миграции для системы доставки еды (Laravel) 1"
+              "title": "volume 31"
             }
           }
         ],
@@ -352,8 +352,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "825e05ac3cc9e920",
   "lastOpenFiles": [
+    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
     "Economics/elastic.md",
     "Economics/analise.md",
     "Economics/volume 9.md",
@@ -383,7 +384,6 @@
     "Economics/volumes/volume 6/elastic.md",
     "Economics/volumes/volume 3/Термины спроса их виды формулировки.md",
     "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
-    "Economics/volumes/volume 3/volume 3.md",
     "Economics/volumes/volume 9",
     "Economics/volumes/volume 7",
     "Economics/volumes/volume 6",
