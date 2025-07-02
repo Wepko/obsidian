@@ -198,33 +198,9 @@
               "icon": "lucide-file",
               "title": "Миграции для системы доставки еды (Laravel) 1"
             }
-          },
-          {
-            "id": "8561def3fe922867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lk.samgtu/VKR/ТЕкст выступления итоговый лист.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ТЕкст выступления итоговый лист"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -376,8 +352,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8561def3fe922867",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
+    "Economics/elastic.md",
+    "Economics/analise.md",
+    "Economics/volume 9.md",
+    "lk.samgtu/VKR/ТЕкст выступления итоговый лист.md",
     "Economics/volume 7/Термины 3.md",
     "Economics/volume 7/Термины 2.md",
     "Economics/volume 7/Термины 1.md",
@@ -404,10 +384,6 @@
     "Economics/volumes/volume 3/Термины спроса их виды формулировки.md",
     "Economics/volumes/volume 3/Каноническое определение спроса и предложения.md",
     "Economics/volumes/volume 3/volume 3.md",
-    "Economics/volumes/volume 14/(6) Теория игр и стратегическое поведение.md",
-    "Economics/volumes/volume 2/volume 2.md",
-    "Economics/volumes/volume 14/volume 14.md",
-    "Economics/volumes/volume 14/(5) Олигополия и эффективность.md",
     "Economics/volumes/volume 9",
     "Economics/volumes/volume 7",
     "Economics/volumes/volume 6",
