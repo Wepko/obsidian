@@ -199,8 +199,7 @@
               "title": "volume 31"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 254.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -322,21 +321,9 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
-          },
-          {
-            "id": "6db9c66cf4149288",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily/new.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -352,10 +339,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "825e05ac3cc9e920",
+  "active": "d22fb6fe3f0e64ea",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
