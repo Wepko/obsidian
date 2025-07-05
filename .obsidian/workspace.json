@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
+                "file": "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "Что такое эконометрика"
             }
           }
         ]
@@ -180,13 +180,21 @@
   },
   "active": "dc1fbfc616002b6e",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/Что такое модель совокупных расходов.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
+    "Economics/study/Экономическая теория/rezume/part 8.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
     "conflict-files-obsidian-git.md",
     "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
     "daily/2025-07-05.md",
@@ -198,14 +206,6 @@
     "Economics/Список ключевых графиков.md",
     "Economics/volume 8 X.md",
     "Economics/volume 7.md",
-    "Economics/volume 6.md",
-    "Economics/volume 5.md",
-    "Economics/volume 4.md",
-    "Economics/volume 3.md",
-    "Economics/volume 2.md",
-    "Economics/volume 15.md",
-    "Economics/volume 14.md",
-    "Economics/volume 13.md",
     "Economics/study/Экономическая теория/volumes/volume 32",
     "Economics/study/История экономической мысли/лекции",
     "Economics/study/Экономическая теория/volumes/volume 29/questions",
