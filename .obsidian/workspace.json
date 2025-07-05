@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-05.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-05"
+              "title": "volume 31"
+            }
+          },
+          {
+            "id": "d19aba614b382372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,36 +203,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc1fbfc616002b6e",
+  "active": "d19aba614b382372",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
-    "daily/2025-07-05.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "conflict-files-obsidian-git.md",
     "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/Потенциальный ВВП vs. Фактический ВВП.md",
-    "Economics/study/История экономической мысли/лекции/лекция 3.md",
+    "daily/2025-07-05.md",
+    "lk.samgtu/VKR/Текст выступления.md",
+    "lk.samgtu/VKR/ТЕкст выступления итоговый лист.md",
+    "daily/2025-06-29.md",
+    "daily/2025-05-13.md",
+    "Economics/Творческое разрушение.md",
+    "Economics/Список ключевых графиков.md",
+    "Economics/volume 8 X.md",
+    "Economics/volume 7.md",
+    "Economics/volume 6.md",
+    "Economics/volume 5.md",
+    "Economics/volume 4.md",
+    "Economics/volume 3.md",
+    "Economics/volume 2.md",
+    "Economics/volume 15.md",
+    "Economics/volume 14.md",
+    "Economics/volume 13.md",
+    "Economics/volume 12.md",
+    "Economics/volume 11.md",
+    "Economics/volume 10.md",
+    "Economics/volume 1.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Экономическая теория/volumes/volume 32",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
     "Economics/study/История экономической мысли/лекции",
-    "daily/2025-06-27.md",
-    "Economics/study/Экономическая теория/rezume/part 7.md",
     "Economics/study/Экономическая теория/volumes/volume 29/questions",
-    "Economics/study/Экономическая теория/rezume/part 6.md",
-    "Economics/study/Экономическая теория/rezume/part 5.md",
-    "Economics/study/Экономическая теория/rezume/part 4.md",
-    "Economics/study/Экономическая теория/rezume/part 3.md",
-    "Economics/study/Экономическая теория/rezume/part 2.md",
-    "Economics/study/Экономическая теория/rezume/part 1.md",
-    "Economics/study/Экономическая теория/rezume/part 11.md",
-    "Economics/study/Экономическая теория/Список всех тем volumes.md",
-    "Economics/study/Экономическая теория/volumes/volume 42/volume 42.md",
-    "Economics/study/Экономическая теория/volumes/volume 41/volume 41.md",
-    "Economics/study/Экономическая теория/volumes/volume 40/volume 40.md",
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
-    "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
     "Economics/study/Экономическая теория/volumes/volume 42",
     "Economics/study/Экономическая теория/volumes/volume 41",
     "Economics/study/Экономическая теория/volumes/volume 40",
@@ -215,7 +241,6 @@
     "Economics/study/Экономическая теория/volumes/volume 38",
     "Economics/study/Экономическая теория/volumes/volume 31/questions",
     "Economics/study/Экономическая теория/volumes/volume 26/questions",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "delay/Pasted image 20250403185047.png",
