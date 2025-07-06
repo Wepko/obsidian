@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/laravel/acwa/lesson/12-end.md",
-                "mode": "preview",
+                "file": "6amart/Основа.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12-end"
+              "title": "Основа"
             }
           },
           {
@@ -365,8 +365,10 @@
   },
   "active": "4d485b3fd8539cdb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "6amart/project/routes.md",
+    "6amart/project/Трэк номер.md",
     "Programming/laravel/acwa/lesson/12-end.md",
+    "conflict-files-obsidian-git.md",
     "Programming/laravel/acwa/lesson/11-es.md",
     "Programming/laravel/acwa/lesson/10-cqrs.md",
     "Programming/laravel/acwa/lesson/9-domain-layer.md",
@@ -405,7 +407,6 @@
     "Programming/Как изучать ASP.NET в информационной системах.md",
     "Programming/История ОС UNIX/IMG/Без названия.jfif",
     "Programming/История ОС UNIX/archlinux_setting/archlinux_setting.md",
-    "Programming/История ОС UNIX/Ритчи, Деннис.md",
     "Programming/История ОС UNIX/IMG",
     "Programming/История ОС UNIX/archlinux_setting",
     "Programming/История ОС UNIX",
