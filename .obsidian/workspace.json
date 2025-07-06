@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "7"
             }
           },
           {
@@ -363,8 +363,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d485b3fd8539cdb",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое Равновесный ВВП.md",
@@ -380,12 +392,6 @@
     "Programming/laravel/acwa/lesson/8-unit-test.md",
     "Programming/laravel/acwa/lesson/7-events.md",
     "Programming/laravel/acwa/lesson/6-validation.md",
-    "Programming/laravel/acwa/lesson/5-error-handling.md",
-    "Programming/laravel/acwa/lesson/4-application-layer.md",
-    "Programming/laravel/acwa/lesson/3-painless-refactoring.md",
-    "Programming/laravel/acwa/lesson/2-di.md",
-    "Programming/laravel/acwa/lesson/1-bad-habits.md",
-    "Programming/laravel/acwa/lesson/0-intro.md",
     "Programming/laravel/acwa/Book.txt",
     "Programming/laravel/acwa/images/unit.png",
     "Programming/laravel/acwa/images/typical_product.png",
@@ -401,16 +407,10 @@
     "Programming/laravel/acwa/lesson",
     "Programming/laravel/acwa",
     "Programming/laravel",
-    "daily/2025-07-06.md",
-    "daily/2025-07-05.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
     "Programming/История ОС UNIX/IMG/Без названия.jfif",
     "Programming/История ОС UNIX/IMG",
     "Programming/История ОС UNIX/archlinux_setting",
     "Programming/История ОС UNIX",
-    "Programming/patterns/async_programming/list",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
