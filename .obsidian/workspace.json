@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d22fb6fe3f0e64ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-06-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-29"
-            }
-          },
-          {
             "id": "66a27fba3394c885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lk.samgtu/VKR/Текст выступления.md",
+                "file": "daily/2025-07-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Текст выступления"
+              "title": "2025-07-06"
             }
           },
           {
@@ -272,7 +248,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Предисловие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Предисловие"
+              "title": "Backlinks"
             }
           },
           {
@@ -323,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,56 +314,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22fb6fe3f0e64ea",
+  "active": "66a27fba3394c885",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое вклад и депозит.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
-    "Economics/study/Экономическая теория/rezume/part 8.md",
-    "lk.samgtu/VKR/notes/step 2/проектирование базы данных/Миграции для системы доставки еды (Laravel) 1.md",
-    "Economics/elastic.md",
-    "Economics/analise.md",
-    "Economics/volume 9.md",
-    "lk.samgtu/VKR/ТЕкст выступления итоговый лист.md",
-    "Economics/volume 7/Термины 3.md",
-    "Economics/volume 7/Термины 2.md",
-    "Economics/volume 7/Термины 1.md",
-    "Economics/volume 7",
-    "Economics/volume 3",
-    "Economics/volume 10",
-    "Economics/volume 1",
-    "Economics/volumes/volume 9",
-    "Economics/volumes/volume 7",
-    "Economics/volumes/volume 6",
-    "Economics/volumes/volume 3",
-    "Economics/volumes/volume 2",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
-    "delay/Pasted image 20250606140023.png",
-    "delay/Pasted image 20250526082757.png",
+    "lk.samgtu/VKR/Текст выступления.md",
+    "daily/2025-07-06.md",
+    "Programming/Отчет.md",
+    "Programming/Как изучать ASP.NET в информационной системах.md",
+    "Programming/История ОС UNIX/IMG/Без названия.jfif",
+    "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
+    "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png",
+    "Programming/История ОС UNIX/IMG/930ba80dfbd79c7ac1956897576cf166.jpg",
+    "Programming/История ОС UNIX/archlinux_setting/archlinux_setting.md",
+    "Programming/История ОС UNIX/Ритчи, Деннис.md",
+    "Programming/История ОС UNIX/Обзор UNIX.md",
+    "Programming/История ОС UNIX/Лаборатории Белла - Bell Labs.md",
+    "Programming/История ОС UNIX/Консорциум.md",
+    "Programming/История ОС UNIX/PDP-7.md",
+    "Programming/История ОС UNIX/Кен Томсон.md",
+    "Programming/История ОС UNIX/История ОС UNIX.md",
+    "Programming/История ОС UNIX/IMG",
+    "Programming/История ОС UNIX/archlinux_setting",
+    "Programming/История ОС UNIX",
+    "Programming/patterns/async_programming/list/Асинхронный адаптер.md",
+    "Programming/patterns/async_programming/list/Thenable.md",
+    "Programming/patterns/async_programming/list/Promise.md",
+    "Programming/patterns/async_programming/list/Future.md",
+    "Programming/patterns/async_programming/list/EventEmitter.md",
+    "Programming/patterns/async_programming/list/Deferred.md",
+    "Programming/patterns/async_programming/list/Dataflow programming.md",
+    "Programming/patterns/async_programming/list/DataCollector.md",
+    "Programming/patterns/async_programming/list/Callback.md",
+    "Programming/patterns/Observer/Observer_summary.md",
+    "Programming/patterns/Observer/Observer_part2.md",
+    "Programming/patterns/Observer/Observer_example.md",
+    "Programming/patterns/Observer/Observer_javascript_example.md",
+    "Programming/patterns/async_programming/Конспект асинхроного программирвания Кайл Симпсон №Г3.md",
+    "Programming/patterns/async_programming/list",
+    "Programming/patterns/Observer",
+    "Programming/patterns/async_programming",
+    "Programming/patterns",
+    "Programming/old/programming_languages/С++",
+    "Programming/old/programming_languages/С",
+    "Programming/old/data_structure/Pasted image 20220215221220.png",
+    "Programming/old/data_structure/Pasted image 20220215221026.png",
+    "Programming/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
+    "Programming/base/Pasted image 20230907194244.png",
+    "Programming/base/Pasted image 20230907192719.png",
+    "Programming/base/Pasted image 20230907113832.png",
+    "Programming/base/Pasted image 20230903135254.png",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Economics/Формализованая экономика/chapter 1/asset/Юридические лица.png",
-    "Economics/Формализованая экономика/chapter 1/asset/Общественное производство.png",
-    "delay/Pasted image 20250403185047.png",
-    "delay/Pasted image 20250403184850.png",
-    "Economics/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
