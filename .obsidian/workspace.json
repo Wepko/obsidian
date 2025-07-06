@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6amart/Основа.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Основа"
+              "title": "volume 31"
             }
           },
           {
@@ -365,6 +365,7 @@
   },
   "active": "4d485b3fd8539cdb",
   "lastOpenFiles": [
+    "6amart/Основа.md",
     "6amart/project/routes.md",
     "6amart/project/Трэк номер.md",
     "Programming/laravel/acwa/lesson/12-end.md",
@@ -406,7 +407,6 @@
     "Programming/Отчет.md",
     "Programming/Как изучать ASP.NET в информационной системах.md",
     "Programming/История ОС UNIX/IMG/Без названия.jfif",
-    "Programming/История ОС UNIX/archlinux_setting/archlinux_setting.md",
     "Programming/История ОС UNIX/IMG",
     "Programming/История ОС UNIX/archlinux_setting",
     "Programming/История ОС UNIX",
