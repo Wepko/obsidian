@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структура.md",
+                "file": "Темы для изучения.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Структура"
+              "title": "Темы для изучения"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "dc1fbfc616002b6e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Структура.md",
+    "Темы для изучения.md",
     "daily/2025-07-06.md",
     "Programming/laravel/acwa/lesson/9-domain-layer.md",
     "Programming/laravel/acwa/lesson/8-unit-test.md",
