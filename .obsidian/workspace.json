@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-09.md",
+                "file": "Структура.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-09"
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "16012086153a5690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,57 +203,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc1fbfc616002b6e",
+  "active": "16012086153a5690",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 31/Что такое модель совокупных расходов.md",
+    "conflict-files-obsidian-git.md",
+    "Структура.md",
+    "daily/2025-07-06.md",
+    "Programming/laravel/acwa/lesson/9-domain-layer.md",
+    "Programming/laravel/acwa/lesson/8-unit-test.md",
+    "Programming/laravel/acwa/lesson/7-events.md",
+    "Programming/laravel/acwa/lesson/6-validation.md",
+    "Programming/laravel/acwa/lesson/5-error-handling.md",
+    "Programming/laravel/acwa/lesson/4-application-layer.md",
+    "Programming/laravel/acwa/lesson/3-painless-refactoring.md",
+    "Programming/laravel/acwa/lesson/2-di.md",
+    "Programming/laravel/acwa/lesson/12-end.md",
+    "Programming/laravel/acwa/lesson/11-es.md",
+    "Programming/laravel/acwa/lesson/10-cqrs.md",
+    "Programming/laravel/acwa/lesson/1-bad-habits.md",
+    "Programming/laravel/acwa/lesson/0-intro.md",
+    "Programming/laravel/acwa/images/unit.png",
+    "Programming/laravel/acwa/images/typical_product.png",
+    "Programming/laravel/acwa/images/two_level_validation.png",
+    "Programming/laravel/acwa/images/saga_events.png",
+    "Programming/laravel/acwa/images/orchestrator.png",
+    "Programming/laravel/acwa/images/oracle_cqrs.png",
+    "Programming/laravel/acwa/images/master_slave_cqrs.png",
+    "Programming/laravel/acwa/images/master_slave.png",
+    "Programming/laravel/acwa/images/integration_testing_example.png",
+    "Programming/laravel/acwa/images/hard_dependencies.png",
+    "Programming/laravel/acwa/lesson",
+    "Programming/laravel/acwa/images",
+    "Programming/laravel/acwa/Book.txt",
+    "Programming/laravel/acwa",
+    "Programming/laravel",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions",
+    "Economics/study/Экономическая теория/theme/Вопросы/Что такое модель совокупных расходов.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Что такое Равновесный ВВП.md",
     "daily/2025-07-09.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/Список всех тем volumes.md",
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
-    "Economics/study/Экономическая теория/Список всех расмотренных ситуаций situation.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Как строиться исследование экономики.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Какие есть виды экономических систем.md",
-    "Economics/study/Экономическая теория/theme/Ситуации/Рассмотрим следующие ситуации.md",
-    "Economics/study/Экономическая теория/theme/Экономические законы/Закон спрса и предложения.md",
-    "Economics/study/Экономическая теория/theme/Экономические законы/Закон убывающей отдачи.md",
-    "Economics/study/Экономическая теория/theme/Экономические законы/Закон убывающей предельной полезности.md",
-    "Economics/study/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Экстрактивные и инклюзивные.md",
-    "Economics/study/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Почему в экстрактивных системах невыгодно развивать переработку и технологии.md",
-    "Economics/study/Научно-публитистичкеская экономика/Почему одни богатые а другие бедные/Заметки.md",
-    "Economics/study/Научно-публитистичкеская экономика/Институты.md",
-    "daily/2025-07-05.md",
-    "Economics/volume 15.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32",
     "Economics/study/История экономической мысли/лекции",
     "Economics/study/Экономическая теория/volumes/volume 29/questions",
     "Economics/study/Экономическая теория/volumes/volume 42",
-    "Economics/study/Экономическая теория/volumes/volume 41",
-    "Economics/study/Экономическая теория/volumes/volume 40",
-    "Economics/study/Экономическая теория/volumes/volume 39",
-    "Economics/study/Экономическая теория/volumes/volume 38",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions",
-    "Economics/study/Экономическая теория/volumes/volume 26/questions",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "delay/Pasted image 20250403185047.png",
-    "delay/Pasted image 20250403184850.png",
-    "delay/Pasted image 20250403183924.png",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Схема экономической науки.png",
-    "delay/Pasted image 20250324001823.png",
-    "delay/Pasted image 20250206124311.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Programming/История ОС UNIX/IMG/Nokia_Bell_Labs_Murray_Hill,_NJ.jpg",
-    "Programming/История ОС UNIX/IMG/Bell_Labs_HQ.png"
+    "Untitled.canvas"
   ]
 }
