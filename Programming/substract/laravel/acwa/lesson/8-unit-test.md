@@ -363,7 +363,7 @@ class OrderService
 Он выглядит как часть класса **OrderService**.
 
 
-![](images/unit.png)
+![](unit.png)
 
 
 **OrderService** здесь является модулем, который содержит не только класс **OrderService**, но и класс **TaxCalculator**.
@@ -523,7 +523,7 @@ Unit-тестирование уже было рассмотрено.
 Пример: Попросить **UserService** зарегистрировать нового пользователя и проверить, что новая строка создана в базе данных, нужное событие (**UserRegistered**) было сгенерировано и соответствующий email был послан (ну или хотя бы фреймворк получил команду сделать это).
 
 
-![](images/integration_testing_example.png)
+![](integration_testing_example.png)
 
 
 **Функциональное тестирование** (приёмочное или E2E - end to end) проверяет приложение на соответствие функциональным требованиям.
@@ -662,13 +662,13 @@ class PostsTest extends TestCase
 Схема процессинга запросов "POST /posts/" и "GET /post/{id}":
 
 
-![](images/functional_testing.png)
+![](functional_testing.png)
 
 
 Что должен видеть функциональный тест: 
 
 
-![](images/functional_testing2.png)
+![](functional_testing2.png)
 
 
 ### Моки Laravel-фасадов
