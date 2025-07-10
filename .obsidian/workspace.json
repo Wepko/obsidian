@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+                "file": "Programming/old/algorithms/algorithms_wiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7"
+              "title": "algorithms_wiki"
             }
           },
           {
@@ -363,10 +363,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "4d485b3fd8539cdb",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
+    "Programming/old/algorithms/algorithms.md",
+    "Programming/old/tasks_programers.md",
+    "Programming/old/programming.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+    "Programming/Untitled",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
@@ -389,9 +393,6 @@
     "Programming/laravel/acwa/lesson/11-es.md",
     "Programming/laravel/acwa/lesson/10-cqrs.md",
     "Programming/laravel/acwa/lesson/9-domain-layer.md",
-    "Programming/laravel/acwa/lesson/8-unit-test.md",
-    "Programming/laravel/acwa/lesson/7-events.md",
-    "Programming/laravel/acwa/lesson/6-validation.md",
     "Programming/laravel/acwa/Book.txt",
     "Programming/laravel/acwa/images/unit.png",
     "Programming/laravel/acwa/images/typical_product.png",
@@ -410,7 +411,6 @@
     "Programming/История ОС UNIX/IMG/Без названия.jfif",
     "Programming/История ОС UNIX/IMG",
     "Programming/История ОС UNIX/archlinux_setting",
-    "Programming/История ОС UNIX",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
