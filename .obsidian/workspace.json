@@ -121,31 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/old/base_of_programming/subroutine/subroutine_wiki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "subroutine_wiki"
-            }
-          },
-          {
-            "id": "34a47d4e983e60da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Programming/old/programming_languages/С++/2.5.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2.5"
             }
           },
           {
@@ -308,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -447,11 +423,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34a47d4e983e60da",
+  "active": "8a79bb69cd31ac8e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming/old/programming_languages/С++/2.md",
+    "Programming/old/dynamic_data_structures/devcpp_4.pdf",
+    "Programming/old/dynamic_data_structures/dynamic_data_structures.md",
+    "Programming/old/base_of_programming/base_of_programming.md",
     "Programming/old/base_of_programming/subroutine/subroutine_wiki.md",
     "Programming/old/base_of_programming/subroutine/subroutine.md",
+    "conflict-files-obsidian-git.md",
     "Programming/old/base_of_programming/operator-statement/statement_wiki.md",
     "Programming/old/base_of_programming/operator-statement/statement_info.md",
     "Programming/old/base_of_programming/operator-statement/operator-statement.md",
@@ -472,14 +452,10 @@
     "Programming/old/base_of_programming/cycle/cycle.md",
     "Programming/old/algorithms/algorithms_wiki.md",
     "Programming/old/algorithms/algorithms.md",
-    "Programming/old/dynamic_data_structures/devcpp_4.pdf",
-    "Programming/old/dynamic_data_structures/dynamic_data_structures.md",
     "Programming/old/programming_languages/С/basic_C_language.md",
     "Programming/old/data_structure/data_structure.md",
     "Темы для изучения.md",
     "daily/2025-07-09.md",
-    "Programming/old/tasks_programers.md",
-    "Programming/old/programming.md",
     "Programming/Untitled",
     "Economics/study/Экономическая теория/volumes/volume 32/questions",
     "Programming/laravel/acwa/Book.txt",
