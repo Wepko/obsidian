@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/old/base_of_programming/cycle/cycle_wiki.md",
+                "file": "Programming/old/programming.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -112,31 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cycle_wiki"
-            }
-          },
-          {
-            "id": "8a79bb69cd31ac8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/old/programming_languages/С++/2.5.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.5"
+              "title": "programming"
             }
           },
           {
@@ -284,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -423,8 +399,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a79bb69cd31ac8e",
+  "active": "88fabc6e680ee97c",
   "lastOpenFiles": [
+    "Programming/old/tasks_programers.md",
+    "Programming/old/base_of_programming/cycle/cycle_wiki.md",
+    "programming/Leacture1.md",
+    "Programming/old/programming.md",
+    "Programming/Leacture1.md",
+    "programming/course_C.md",
+    "Programming/course_C.md",
+    "Programming/old/base_of_programming/operator-statement/fundamentals_of_structural_programming.md",
+    "Programming/old/programming_languages/programming_language.md",
+    "Programming/old/programming_languages/С++/C++.md",
+    "Programming/old/programming_languages/С++/5.md",
+    "Programming/old/programming_languages/С++/2.5.md",
     "Programming/old/programming_languages/С++/2.md",
     "Programming/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/old/dynamic_data_structures/dynamic_data_structures.md",
@@ -436,26 +424,14 @@
     "Programming/old/base_of_programming/operator-statement/statement_info.md",
     "Programming/old/base_of_programming/operator-statement/operator-statement.md",
     "Programming/old/base_of_programming/operator-statement/operator_academic.md",
-    "Programming/old/base_of_programming/operator-statement/fundamentals_of_structural_programming.md",
     "Programming/old/base_of_programming/data_type/data_type_wiki.md",
     "Programming/old/base_of_programming/data_type/data_type_pascal.md",
     "Programming/old/base_of_programming/data_type/data_type_C.md",
     "programming/base_of_programming/data_type/Aggregation.md",
-    "Programming/old/base_of_programming/data_type/data_type.md",
-    "Programming/base_of_programming/data_type/Aggregation.md",
     "Programming/base_of_programming/data_type",
     "Programming/base_of_programming",
     "programming/base_of_programming/data_type",
     "programming/base_of_programming",
-    "Programming/old/base_of_programming/data_type/Aggregation.md",
-    "Programming/old/base_of_programming/cycle/cycle_wiki.md",
-    "Programming/old/base_of_programming/cycle/cycle.md",
-    "Programming/old/algorithms/algorithms_wiki.md",
-    "Programming/old/algorithms/algorithms.md",
-    "Programming/old/programming_languages/С/basic_C_language.md",
-    "Programming/old/data_structure/data_structure.md",
-    "Темы для изучения.md",
-    "daily/2025-07-09.md",
     "Programming/Untitled",
     "Economics/study/Экономическая теория/volumes/volume 32/questions",
     "Programming/laravel/acwa/Book.txt",
