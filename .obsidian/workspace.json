@@ -97,8 +97,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Как изучать ASP.NET в информационной системах.md",
-                "mode": "preview",
+                "file": "Programming/Программирование/Список тем для изучение.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как изучать ASP.NET в информационной системах"
+              "title": "Список тем для изучение"
             }
           },
           {
@@ -399,11 +399,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "88fabc6e680ee97c",
   "lastOpenFiles": [
-    "Programming/Untitled",
-    "Programming/substract/Отчет.md",
+    "Programming/Программирование/index.md",
+    "Programming/Программирование/Список тем для изучение.md",
+    "Programming/Программирование/Untitled",
     "Programming/substract/Как изучать ASP.NET в информационной системах.md",
+    "Programming/Программирование",
+    "Programming/substract/Отчет.md",
     "Programming/substract/Questions.md",
     "Programming/Untitled 1",
     "Programming/substract/Stack trace.md",
@@ -436,14 +439,11 @@
     "Programming/substract/old/algorithms/algorithms.md",
     "Programming/substract/old/programming.md",
     "Programming/substract/old/tasks_programers.md",
-    "Programming/substract/old/base_of_programming/cycle/cycle_wiki.md",
     "Programming/substract/base_of_programming/data_type",
     "Programming/substract/base_of_programming",
     "programming/base_of_programming/data_type",
     "programming/base_of_programming",
     "Programming/substract",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions",
-    "Programming/substract/laravel/acwa/Book.txt",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
