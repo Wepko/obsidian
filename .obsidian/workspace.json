@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b048a6af05cd7ff3",
+        "id": "c03995901e8c2eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "dc1fbfc616002b6e",
+            "id": "e31ec84ab8605533",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Темы для изучения.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Темы для изучения"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +164,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc1fbfc616002b6e",
+  "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "daily/2025-07-11.md",
     "Темы для изучения.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-07-06.md",
     "Programming/laravel/acwa/lesson/9-domain-layer.md",
     "Programming/laravel/acwa/lesson/8-unit-test.md",
@@ -221,7 +208,6 @@
     "Economics/study/Экономическая теория/volumes/volume 32/questions",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое модель совокупных расходов.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое Равновесный ВВП.md",
-    "daily/2025-07-09.md",
     "Economics/study/Экономическая теория/volumes/volume 32",
     "Economics/study/История экономической мысли/лекции",
     "Economics/study/Экономическая теория/volumes/volume 29/questions",
