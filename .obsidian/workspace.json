@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Введение в профессию.md",
+                "file": "Programming/Программирование/Урок 2 Программирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Введение в профессию"
+              "title": "Урок 2 Программирование"
             }
           },
           {
@@ -401,13 +401,14 @@
   },
   "active": "88fabc6e680ee97c",
   "lastOpenFiles": [
+    "Programming/Программирование/Введение в профессию.md",
+    "Programming/Программирование/Урок 2 Программирование.md",
     "Programming/substract/old/tasks_programers.md",
     "Programming/substract/old/programming.md",
     "Programming/substract/old/programming_languages/programming_language.md",
     "Programming/substract/old/programming_languages/С++/2.md",
     "Programming/substract/old/programming_languages/С/course_C.md",
     "Programming/substract/old/programming_languages/С/basic_C_language.md",
-    "Programming/Программирование/Введение в профессию.md",
     "Programming/Программирование/index.md",
     "daily/2025-07-11.md",
     "Programming/Программирование/Untitled",
@@ -435,7 +436,6 @@
     "Programming/substract/Computer_Science/Lecture_1/Lecture_1.md",
     "Programming/substract/Computer_Science/Lecture_1/Entropy.md",
     "Programming/substract/Computer_Science/Lecture_1/Acronym.md",
-    "Programming/substract/Computer_Science/Lecture_1/1.1.md",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
