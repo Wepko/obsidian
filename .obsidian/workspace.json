@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Список тем для изучение.md",
+                "file": "daily/2025-07-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Список тем для изучение"
+              "title": "2025-07-11"
             }
           },
           {
@@ -401,8 +401,9 @@
   },
   "active": "88fabc6e680ee97c",
   "lastOpenFiles": [
-    "Programming/Программирование/index.md",
     "Programming/Программирование/Список тем для изучение.md",
+    "daily/2025-07-11.md",
+    "Programming/Программирование/index.md",
     "Programming/Программирование/Untitled",
     "Programming/substract/Как изучать ASP.NET в информационной системах.md",
     "Programming/Программирование",
@@ -438,7 +439,6 @@
     "Programming/substract/old/algorithms/algorithms_wiki.md",
     "Programming/substract/old/algorithms/algorithms.md",
     "Programming/substract/old/programming.md",
-    "Programming/substract/old/tasks_programers.md",
     "Programming/substract/base_of_programming/data_type",
     "Programming/substract/base_of_programming",
     "programming/base_of_programming/data_type",
