@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-11.md",
+                "file": "Programming/Программирование/Введение в профессию.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-11"
+              "title": "Введение в профессию"
             }
           },
           {
@@ -401,8 +401,8 @@
   },
   "active": "88fabc6e680ee97c",
   "lastOpenFiles": [
-    "Programming/Программирование/Список тем для изучение.md",
     "daily/2025-07-11.md",
+    "Programming/Программирование/Введение в профессию.md",
     "Programming/Программирование/index.md",
     "Programming/Программирование/Untitled",
     "Programming/substract/Как изучать ASP.NET в информационной системах.md",
