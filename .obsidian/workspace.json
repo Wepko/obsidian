@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66a27fba3394c885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-07-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-06"
-            }
-          },
-          {
-            "id": "c58234d76e5e78ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/substract/laravel/acwa/lesson/6-validation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "6-validation"
-            }
-          },
-          {
-            "id": "4d485b3fd8539cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/substract/old/data_structure/data_structure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "data_structure"
-            }
-          },
-          {
-            "id": "76535ba54ce6ec66",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "devcpp_4"
-            }
-          },
-          {
-            "id": "88fabc6e680ee97c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Программирование/Урок 2/материал.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "материал"
-            }
-          },
-          {
             "id": "ad44b253d06108eb",
             "type": "leaf",
             "state": {
@@ -283,8 +175,7 @@
               "title": "volume 31"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -423,11 +314,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "ad44b253d06108eb",
   "lastOpenFiles": [
-    "daily/2025-07-12.md",
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 2/материал.md",
+    "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
+    "Programming/substract/old/data_structure/data_structure.md",
+    "Programming/substract/laravel/acwa/lesson/6-validation.md",
+    "daily/2025-07-06.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2025-07-12.md",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 2",
     "Programming/Программирование/Введение в профессию.md",
@@ -455,13 +350,8 @@
     "Programming/substract/Leacture1.md",
     "Programming/substract/course_C.md",
     "Programming/substract/programming/Reflection.md",
-    "Programming/substract/Course/Middle developer.md",
-    "Programming/substract/Computer_Science/Computer_Science.md",
-    "Programming/substract/Computer_Science/Lecture_2/Lecture_2.md",
     "Programming/substract/Computer_Science/Lecture_2/И и ИТ_Лекция 2 (1).pdf",
-    "Programming/substract/Computer_Science/Lecture_1/Practice.md",
     "Programming/substract/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
-    "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
     "Programming/substract/base_of_programming/data_type",
