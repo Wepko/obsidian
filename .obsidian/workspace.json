@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 2 Программирование.md",
+                "file": "Programming/Программирование/Урок 2/материал.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Урок 2 Программирование"
+              "title": "материал"
             }
           },
           {
@@ -401,8 +401,10 @@
   },
   "active": "88fabc6e680ee97c",
   "lastOpenFiles": [
+    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
+    "Programming/Программирование/Урок 2/материал.md",
+    "Programming/Программирование/Урок 2",
     "Programming/Программирование/Введение в профессию.md",
-    "Programming/Программирование/Урок 2 Программирование.md",
     "Programming/substract/old/tasks_programers.md",
     "Programming/substract/old/programming.md",
     "Programming/substract/old/programming_languages/programming_language.md",
@@ -435,7 +437,6 @@
     "Programming/substract/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/substract/Computer_Science/Lecture_1/Lecture_1.md",
     "Programming/substract/Computer_Science/Lecture_1/Entropy.md",
-    "Programming/substract/Computer_Science/Lecture_1/Acronym.md",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
@@ -443,7 +444,6 @@
     "Programming/substract/base_of_programming",
     "programming/base_of_programming/data_type",
     "programming/base_of_programming",
-    "Programming/substract",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
