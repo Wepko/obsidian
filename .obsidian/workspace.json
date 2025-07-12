@@ -116,6 +116,54 @@
             }
           },
           {
+            "id": "ad44b253d06108eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-07-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-12"
+            }
+          },
+          {
+            "id": "cda06b7a039619bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "d28d67f5b55d82b2",
             "type": "leaf",
             "state": {
@@ -260,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -399,10 +447,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88fabc6e680ee97c",
+  "active": "cda06b7a039619bb",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
+    "daily/2025-07-12.md",
+    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 2/материал.md",
+    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 2",
     "Programming/Программирование/Введение в профессию.md",
     "Programming/substract/old/tasks_programers.md",
@@ -435,8 +485,6 @@
     "Programming/substract/Computer_Science/Lecture_2/И и ИТ_Лекция 2 (1).pdf",
     "Programming/substract/Computer_Science/Lecture_1/Practice.md",
     "Programming/substract/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
-    "Programming/substract/Computer_Science/Lecture_1/Lecture_1.md",
-    "Programming/substract/Computer_Science/Lecture_1/Entropy.md",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
