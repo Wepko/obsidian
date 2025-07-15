@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Введение в профессию.md",
-                "mode": "preview",
+                "file": "daily/2025-07-15.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Введение в профессию"
+              "title": "2025-07-15"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Введение в профессию.md",
+    "daily/2025-07-15.md",
+    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 2 Программирование.md",
     "Programming/Программирование/index.md",
     "Programming/Программирование",
@@ -206,7 +207,6 @@
     "Programming/substract/old/base_of_programming/operator-statement/statement_info.md",
     "Programming/substract/old/base_of_programming/operator-statement/operator_academic.md",
     "Programming/substract/old/base_of_programming/operator-statement/operator-statement.md",
-    "Programming/substract/old/base_of_programming/data_type/data_type_wiki.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
