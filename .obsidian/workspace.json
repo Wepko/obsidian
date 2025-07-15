@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Урок 2 Программирование"
             }
-          },
-          {
-            "id": "909bff4678f4d162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,11 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 2/материал.md",
+    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
+    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Введение в профессию.md",
     "daily/2025-07-15.md",
     "Programming/Программирование/Урок 2 Программирование.md",
