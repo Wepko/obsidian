@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-15.md",
+                "file": "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-15"
+              "title": "Урок 2 Программирование"
+            }
+          },
+          {
+            "id": "909bff4678f4d162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,12 +203,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e31ec84ab8605533",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
+    "Programming/Программирование/Урок 2/материал.md",
     "Programming/Программирование/Введение в профессию.md",
     "daily/2025-07-15.md",
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 2 Программирование.md",
+    "daily/2025-07-12.md",
+    "Programming/Программирование/Урок 2",
     "Programming/Программирование/index.md",
     "Programming/Программирование",
     "Programming/substract/patterns/async_programming/list/Асинхронный адаптер.md",
@@ -204,9 +233,6 @@
     "Programming/substract/old/base_of_programming/subroutine/subroutine_wiki.md",
     "Programming/substract/old/base_of_programming/subroutine/subroutine.md",
     "Programming/substract/old/base_of_programming/operator-statement/statement_wiki.md",
-    "Programming/substract/old/base_of_programming/operator-statement/statement_info.md",
-    "Programming/substract/old/base_of_programming/operator-statement/operator_academic.md",
-    "Programming/substract/old/base_of_programming/operator-statement/operator-statement.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
@@ -225,7 +251,6 @@
     "Programming/substract/old/base_of_programming/operator-statement",
     "Programming/substract/old/base_of_programming/data_type",
     "Programming/substract/old/base_of_programming/cycle",
-    "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
