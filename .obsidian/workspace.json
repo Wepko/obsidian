@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-16.md",
+                "file": "Programming/Программирование/Урок 3/материал.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-16"
+              "title": "материал"
             }
           }
         ]
@@ -180,9 +180,12 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
+    "Programming/Программирование/Урок 3/Урок 3.md",
+    "Programming/Программирование/Урок 3/материал.md",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
-    "daily/2025-07-16.md",
     "Programming/Программирование/Урок 2/материал.md",
+    "daily/2025-07-16.md",
+    "Programming/Программирование/Урок 3",
     "conflict-files-obsidian-git.md",
     "Programming/Программирование/Введение в профессию.md",
     "daily/2025-07-15.md",
@@ -206,8 +209,6 @@
     "Programming/substract/old/programming_languages/С++/2.5.md",
     "Programming/substract/old/programming_languages/С/course_C.md",
     "Programming/substract/old/programming_languages/С/basic_C_language.md",
-    "Programming/substract/old/base_of_programming/subroutine/subroutine_wiki.md",
-    "Programming/substract/old/base_of_programming/subroutine/subroutine.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
@@ -225,7 +226,6 @@
     "Programming/substract/old/base_of_programming/subroutine",
     "Programming/substract/old/base_of_programming/operator-statement",
     "Programming/substract/old/base_of_programming/data_type",
-    "Programming/substract/old/base_of_programming/cycle",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
