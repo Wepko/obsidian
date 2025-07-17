@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 3/материал.md",
+                "file": "Programming/Программирование/Урок 3/Урок 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "материал"
+              "title": "Урок 3"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 3/Урок 3.md",
+    "daily/2025-07-17.md",
     "Programming/Программирование/Урок 3/материал.md",
+    "Programming/Программирование/Урок 3/Урок 3.md",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 2/материал.md",
     "daily/2025-07-16.md",
@@ -208,7 +209,6 @@
     "Programming/substract/old/programming_languages/С++/2.md",
     "Programming/substract/old/programming_languages/С++/2.5.md",
     "Programming/substract/old/programming_languages/С/course_C.md",
-    "Programming/substract/old/programming_languages/С/basic_C_language.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
