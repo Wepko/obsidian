@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 2/материал.md",
+                "file": "daily/2025-07-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "материал"
+              "title": "2025-07-17"
             }
           }
         ]
@@ -174,13 +174,14 @@
   },
   "active": "6ce6541109155f21",
   "lastOpenFiles": [
+    "Programming/Программирование/Урок 2/материал.md",
+    "daily/2025-07-17.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "lk.samgtu/VKR/notes/step 2/2.1. Архитектура системы.md",
     "lk.samgtu/VKR/Легенда 1.md",
     "daily/2025-07-12.md",
-    "Programming/Программирование/Урок 2/материал.md",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/substract/old/data_structure/data_structure.md",
     "Programming/substract/laravel/acwa/lesson/6-validation.md",
@@ -204,7 +205,6 @@
     "Programming/substract/Questions.md",
     "Programming/Untitled 1",
     "Programming/substract/Stack trace.md",
-    "Programming/substract/phpstorm IDE.md",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
     "Programming/substract/Pasted image 20230907192719.png",
