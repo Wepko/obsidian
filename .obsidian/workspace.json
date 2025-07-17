@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 3/Урок 3.md",
+                "file": "Programming/Программирование/Урок 3/Урок 3 Как работает программа.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Урок 3"
+              "title": "Урок 3 Как работает программа"
             }
           }
         ]
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 3/Урок 3.md",
     "conflict-files-obsidian-git.md",
+    "Programming/Программирование/Урок 3/Урок 3 Как работает программа.md",
     "daily/2025-07-17.md",
     "Programming/Программирование/Урок 3/материал.md",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
