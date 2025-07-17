@@ -30,8 +30,105 @@
               "icon": "lucide-file",
               "title": "2025-07-17"
             }
+          },
+          {
+            "id": "3b07b4a38cef31a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/Урок 3/материал.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "материал"
+            }
+          },
+          {
+            "id": "a9f361b63c8116a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/Урок 3/материал.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "материал"
+            }
+          },
+          {
+            "id": "e4a5605a80e4193d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/Урок 3/материал.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "материал"
+            }
+          },
+          {
+            "id": "e7d687628d5925d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -159,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +267,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ce6541109155f21",
+  "active": "e7d687628d5925d6",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 2/материал.md",
+    "Programming/Программирование/Урок 3/материал.md",
+    "conflict-files-obsidian-git.md",
+    "Programming/Программирование/Урок 3/Урок 3.md",
     "daily/2025-07-17.md",
+    "daily/2025-07-16.md",
+    "daily/2025-07-15.md",
+    "Programming/Программирование/Урок 3",
+    "Programming/Программирование/Урок 2/материал.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
@@ -186,7 +287,6 @@
     "Programming/substract/old/data_structure/data_structure.md",
     "Programming/substract/laravel/acwa/lesson/6-validation.md",
     "daily/2025-07-06.md",
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 2",
     "Programming/Программирование/Введение в профессию.md",
@@ -199,12 +299,8 @@
     "Programming/Программирование/index.md",
     "daily/2025-07-11.md",
     "Programming/Программирование/Untitled",
-    "Programming/substract/Как изучать ASP.NET в информационной системах.md",
     "Programming/Программирование",
-    "Programming/substract/Отчет.md",
-    "Programming/substract/Questions.md",
     "Programming/Untitled 1",
-    "Programming/substract/Stack trace.md",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
     "Programming/substract/Pasted image 20230907192719.png",
@@ -216,7 +312,6 @@
     "Programming/substract/base_of_programming/data_type",
     "Programming/substract/base_of_programming",
     "programming/base_of_programming/data_type",
-    "programming/base_of_programming",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
