@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 4/Untitled.md",
-                "mode": "source",
+                "file": "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3"
             }
           }
         ]
@@ -180,8 +180,15 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 4/Задача.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
+    "Economics/study/Экономическая теория/rezume/part 8.md",
+    "Economics/study/Экономическая теория/rezume/part 7.md",
+    "Economics/projects/plan.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
+    "Programming/Программирование/Введение в профессию.md",
     "Programming/Программирование/Урок 4/Untitled.md",
+    "Programming/Программирование/Урок 4/Задача.md",
     "Programming/Программирование/Урок 3/Решение задач.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
@@ -197,7 +204,6 @@
     "Programming/Программирование/Урок 2/материал.md",
     "daily/2025-07-16.md",
     "Programming/Программирование/Урок 3",
-    "Programming/Программирование/Введение в профессию.md",
     "daily/2025-07-15.md",
     "Programming/Программирование/Урок 2 Программирование.md",
     "daily/2025-07-12.md",
@@ -205,12 +211,6 @@
     "Programming/Программирование/index.md",
     "Programming/Программирование",
     "Programming/substract/patterns/async_programming/list/Асинхронный адаптер.md",
-    "Programming/substract/patterns/async_programming/list/Thenable.md",
-    "Programming/substract/patterns/async_programming/list/Promise.md",
-    "Programming/substract/patterns/async_programming/list/Future.md",
-    "Programming/substract/patterns/async_programming/list/EventEmitter.md",
-    "Programming/substract/patterns/async_programming/list/Dataflow programming.md",
-    "Programming/substract/patterns/async_programming/list/Deferred.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
