@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
-                "mode": "preview",
+                "file": "Economics/study/Экономическая теория/rezume/part 8.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "part 8"
             }
           }
         ]
@@ -180,9 +180,16 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/rezume/part 8.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
-    "Economics/study/Экономическая теория/rezume/part 8.md",
     "Economics/study/Экономическая теория/rezume/part 7.md",
     "Economics/projects/plan.md",
     "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
@@ -201,16 +208,9 @@
     "daily/2025-07-19.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-07-17.md",
-    "Programming/Программирование/Урок 2/материал.md",
-    "daily/2025-07-16.md",
     "Programming/Программирование/Урок 3",
-    "daily/2025-07-15.md",
-    "Programming/Программирование/Урок 2 Программирование.md",
-    "daily/2025-07-12.md",
     "Programming/Программирование/Урок 2",
-    "Programming/Программирование/index.md",
     "Programming/Программирование",
-    "Programming/substract/patterns/async_programming/list/Асинхронный адаптер.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
