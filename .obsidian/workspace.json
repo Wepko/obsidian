@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 3/материал.md",
+                "file": "Economics/study/Экономическая теория/theme/Какая математика нужна экономисту.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "материал"
+              "title": "Какая математика нужна экономисту"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "model_has",
+                "query": "Киселев",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,11 +157,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 496.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -244,10 +245,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4a5605a80e4193d",
+  "active": "ec061cd20b1c0d6f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 3/материал.md",
+    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 3/Урок 3.md",
     "daily/2025-07-17.md",
     "daily/2025-07-16.md",
