@@ -6,10 +6,11 @@
   "strictLineBreaks": false,
   "vimMode": false,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 90
+    "downscalePercent": 88
   },
   "promptDelete": false,
   "attachmentFolderPath": "delay",
