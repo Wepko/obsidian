@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 4/Материалы.md",
+                "file": "Programming/Программирование/Урок 4/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Материалы"
+              "title": "Untitled"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Programming/Программирование/Урок 4/Материалы.md",
+    "Untitled.md",
     "Programming/Программирование/Урок 4/Задачи.md",
     "Programming/Программирование/Урок 3/Решение задач.md",
     "Programming/Программирование/Урок 3/Переносимость C vs Python.md",
