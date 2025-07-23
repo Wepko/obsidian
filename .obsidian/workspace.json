@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Введение в профессию.md",
+                "file": "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Введение в профессию"
+              "title": "Урок 4 Базовые конструкциии"
             }
           }
         ],
@@ -245,20 +245,22 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 4/Из чего состоит программа.md",
+    "Programming/Программирование/Урок 4/Материалы.md",
+    "Programming/Программирование/Урок 4/Остаток от деления.md",
+    "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
     "Programming/Программирование/Урок 4/Что такое теория программирования.md",
     "Programming/Программирование/Урок 4/Untitled.md",
-    "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
+    "Programming/Программирование/Введение в профессию.md",
+    "Programming/Программирование/index.md",
     "Programming/Программирование/Разграничение по терминам.md",
+    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 4/Задачи.md",
     "Programming/Программирование/Урок 4/Задача.md",
-    "Programming/Программирование/Урок 4/Материалы.md",
     "Untitled.md",
     "Programming/Программирование/Урок 3/Решение задач.md",
     "Programming/Программирование/Урок 3/Переносимость C vs Python.md",
     "Programming/Программирование/Урок 3/материал.md",
-    "Programming/Программирование/Урок 4/Остаток от деления.md",
     "Economics/study/Экономическая теория/theme/Какая математика нужна экономисту.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-07-19.md",
@@ -271,8 +273,6 @@
     "daily/2025-07-16.md",
     "daily/2025-07-15.md",
     "Programming/Программирование/Урок 3",
-    "Programming/Программирование/Урок 2/материал.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/Программирование/Урок 2",
     "Programming/Программирование/Untitled",
