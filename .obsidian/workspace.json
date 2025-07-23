@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
+                "file": "Programming/Программирование/Урок 4/Из чего состоит программа.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Урок 4 Базовые конструкциии"
+              "title": "Из чего состоит программа"
             }
           }
         ],
@@ -245,12 +245,13 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
-    "Programming/Программирование/Урок 4/Материалы.md",
+    "Programming/Программирование/Урок 4/plan.md",
+    "Programming/Программирование/Урок 4/Остаток от деления2.md",
     "Programming/Программирование/Урок 4/Остаток от деления.md",
+    "Programming/Программирование/Урок 4/Из чего состоит программа.md",
+    "Programming/Программирование/Урок 4/Материалы.md",
     "Programming/Программирование/Урок 4/Что такое теория программирования.md",
-    "Programming/Программирование/Урок 4/Untitled.md",
     "Programming/Программирование/Введение в профессию.md",
     "Programming/Программирование/index.md",
     "Programming/Программирование/Разграничение по терминам.md",
@@ -271,7 +272,6 @@
     "Programming/Программирование/Урок 3/Урок 3.md",
     "daily/2025-07-17.md",
     "daily/2025-07-16.md",
-    "daily/2025-07-15.md",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/Программирование/Урок 2",
