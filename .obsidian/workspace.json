@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 4/Из чего состоит программа.md",
+                "file": "Programming/Программирование/Введение в профессию.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Из чего состоит программа"
+              "title": "Введение в профессию"
             }
           }
         ],
@@ -245,8 +245,9 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 4/Что такое теория программирования.md",
+    "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 4/Из чего состоит программа.md",
+    "Programming/Программирование/Урок 4/Что такое теория программирования.md",
     "Programming/Программирование/Урок 4/Untitled.md",
     "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
     "Programming/Программирование/Разграничение по терминам.md",
@@ -272,7 +273,6 @@
     "Programming/Программирование/Урок 3",
     "Programming/Программирование/Урок 2/материал.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "lk.samgtu/VKR/notes/step 2/бизнес процессы/Диаграммы.md",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/Программирование/Урок 2",
     "Programming/Программирование/Untitled",
