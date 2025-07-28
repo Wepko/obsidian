@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-28.md",
+                "file": "Economics/study/learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-28"
+              "title": "learning"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/projects/plan.md",
+                "file": "Economics/study/learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plan"
+              "title": "Backlinks for learning"
             }
           },
           {
@@ -161,12 +161,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +180,19 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 4/Классификация операторов statments.md",
+    "Economics/projects/plan.md",
+    "Economics/study/learning.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/Untitled 5.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/volume 28.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/questions/1.md",
     "daily/2025-07-28.md",
+    "Programming/Программирование/Урок 4/Классификация операторов statments.md",
     "Programming/Программирование/Урок 4/Нотаций в программировние.md",
     "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/Программирование/Урок 4/Что такое оператор.md",
@@ -196,17 +207,6 @@
     "daily/2025-07-24.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
-    "Programming/Программирование/Урок 4/Остаток от деления.md",
-    "Programming/Программирование/Урок 4/Материалы.md",
-    "Programming/Программирование/Урок 4/Задачи.md",
-    "Programming/Программирование/Разграничение по терминам.md",
-    "Economics/study/Экономическая теория/rezume/part 8.md",
-    "Economics/study/Экономическая теория/rezume/part 7.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/5.md",
     "Programming/Программирование/Урок 4",
     "Урок 3 Как работает программа от исходного кода до выполнения.pdf",
     "Programming/Программирование/Урок 3",
