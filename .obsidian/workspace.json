@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 5/Коммутативноcть.md",
+                "file": "Programming/Программирование/Урок 5/Упраженния.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Коммутативноcть"
+              "title": "Упраженния"
             }
           }
         ],
@@ -245,10 +245,10 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 5/Упраженния.md",
-    "Programming/Программирование/Урок 5/Коммутативноcть.md",
     "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
     "Programming/Программирование/Урок 5/Проверка материала.md",
+    "Programming/Программирование/Урок 5/Коммутативноcть.md",
+    "Programming/Программирование/Урок 5/Упраженния.md",
     "Programming/Программирование/Урок 4/Классификация операторов statments.md",
     "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/substract/Виды программирования.md",
