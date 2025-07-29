@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Проверка материала"
             }
-          },
-          {
-            "id": "40e5796aa8d1018d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40e5796aa8d1018d",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "Programming/Программирование/Урок 5/Проверка материала.md",
     "conflict-files-obsidian-git.md",
