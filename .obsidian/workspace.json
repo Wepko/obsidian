@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 4/Классификация операторов statments.md",
+                "file": "Programming/Программирование/Урок 5/Проверка материала.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Классификация операторов statments"
+              "title": "Проверка материала"
             }
           }
         ],
@@ -245,8 +245,10 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
     "Programming/Программирование/Урок 4/Классификация операторов statments.md",
+    "Programming/Программирование/Урок 5/Проверка материала.md",
+    "Programming/Программирование/Урок 5",
+    "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
     "Programming/Программирование/Урок 4/Что такое оператор.md",
     "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/Программирование/Урок 4/Остаток от деления2.md",
@@ -271,7 +273,6 @@
     "Programming/Программирование/Урок 3/Урок 3 Как работает программа.md",
     "Programming/Программирование/Урок 3/Урок 3 Как работает программа от исходного кода до выполнения.md",
     "Programming/Программирование/Урок 3/Важное уточнение.md",
-    "Programming/Программирование/Урок 3/Урок 3.md",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/Программирование/Урок 2",
@@ -287,7 +288,6 @@
     "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
     "Programming/substract/base_of_programming/data_type",
-    "Programming/substract/base_of_programming",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
