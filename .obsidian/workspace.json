@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 5/Упраженния.md",
+                "file": "Programming/Программирование/Урок 5/Коммутативноcть.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Упраженния"
+              "title": "Коммутативноcть"
             }
           }
         ],
@@ -245,9 +245,10 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
+    "Programming/Программирование/Урок 5/Упраженния.md",
+    "Programming/Программирование/Урок 5/Коммутативноcть.md",
     "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
     "Programming/Программирование/Урок 5/Проверка материала.md",
-    "Programming/Программирование/Урок 5/Упраженния.md",
     "Programming/Программирование/Урок 4/Классификация операторов statments.md",
     "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/substract/Виды программирования.md",
@@ -271,7 +272,6 @@
     "Programming/Программирование/Разграничение по терминам.md",
     "Programming/Программирование/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/Урок 4/Задачи.md",
-    "Programming/Программирование/Урок 4/Задача.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
