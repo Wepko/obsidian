@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/learning.md",
+                "file": "daily/2025-07-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "learning"
+              "title": "2025-07-29"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "Economics/projects/plan.md",
     "Economics/study/learning.md",
+    "daily/2025-07-29.md",
+    "Economics/projects/plan.md",
     "Economics/study/Экономическая теория/volumes/volume 28/4.md",
     "Economics/study/Экономическая теория/volumes/volume 28/3.md",
     "Economics/study/Экономическая теория/volumes/volume 28/2.md",
@@ -206,7 +207,6 @@
     "Programming/Программирование/Урок 4/Остаток от деления2.md",
     "daily/2025-07-24.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
     "Programming/Программирование/Урок 4",
     "Урок 3 Как работает программа от исходного кода до выполнения.pdf",
     "Programming/Программирование/Урок 3",
