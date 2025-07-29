@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 5/Проверка материала.md",
+                "file": "Programming/substract/Список дисциплин.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Проверка материала"
+              "title": "Список дисциплин"
             }
           }
         ],
@@ -243,10 +243,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 5/Проверка материала.md",
+    "Programming/substract/Список дисциплин.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-07-28.md",
     "daily/2025-07-26.md",
     "daily/2025-07-24.md",
@@ -271,7 +272,6 @@
     "Untitled.md",
     "Programming/Программирование/Урок 3/Решение задач.md",
     "Programming/Программирование/Урок 3/Переносимость C vs Python.md",
-    "Programming/Программирование/Урок 3/материал.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
