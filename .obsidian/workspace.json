@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Виды программирования.md",
+                "file": "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Виды программирования"
+              "title": "Разница между инструкциями и выражениями"
             }
           }
         ],
@@ -245,8 +245,11 @@
   },
   "active": "e4a5605a80e4193d",
   "lastOpenFiles": [
-    "Programming/substract/Список дисциплин.md",
+    "Programming/Программирование/Урок 4/Классификация операторов statments.md",
+    "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
+    "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/substract/Виды программирования.md",
+    "Programming/substract/Список дисциплин.md",
     "Programming/Программирование/Урок 5/Проверка материала.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-07-28.md",
@@ -254,11 +257,9 @@
     "daily/2025-07-24.md",
     "Programming/Программирование/Урок 4/Нотаций в программировние.md",
     "Economics/study/learning.md",
-    "Programming/Программирование/Урок 4/Классификация операторов statments.md",
     "Programming/Программирование/Урок 5",
     "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
     "Programming/Программирование/Урок 4/Что такое оператор.md",
-    "Programming/Программирование/Урок 4/Из чего состоит программа.md",
     "Programming/Программирование/Урок 4/Остаток от деления2.md",
     "Programming/Программирование/Урок 4/Остаток от деления.md",
     "Programming/Программирование/Урок 4/Что такое теория программирования.md",
@@ -271,7 +272,6 @@
     "Programming/Программирование/Урок 4/Задачи.md",
     "Programming/Программирование/Урок 4/Задача.md",
     "Untitled.md",
-    "Programming/Программирование/Урок 3/Решение задач.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
