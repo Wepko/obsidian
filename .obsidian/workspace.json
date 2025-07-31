@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 6/Литерал.md",
+                "file": "Programming/Программирование/Урок 6/Задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Литерал"
+              "title": "Задачи"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "86d7da7157439b29",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 6/Задачи.md",
     "Programming/Программирование/Урок 6/Литерал.md",
+    "Programming/Программирование/Урок 6/Тип данных.md",
+    "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-17.md",
     "Programming/Программирование/Урок 3/материал.md",
     "Programming/Программирование/Разграничение по терминам.md",
@@ -200,7 +201,6 @@
     "Programming/Программирование/Урок 4/Остаток от деления2.md",
     "Programming/Программирование/Урок 4/Остаток от деления.md",
     "Programming/Программирование/Урок 4/Что такое теория программирования.md",
-    "Programming/Программирование/Урок 4/plan.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
