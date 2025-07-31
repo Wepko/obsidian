@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-07-31.md",
+                "file": "Programming/Программирование/Урок 6/Тип данных.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-31"
-            }
-          },
-          {
-            "id": "26fbc7903c4b3397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Тип данных"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26fbc7903c4b3397",
+  "active": "e31ec84ab8605533",
   "lastOpenFiles": [
+    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
+    "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
+    "Programming/Программирование/Урок 6/Литерал.md",
+    "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-31.md",
     "conflict-files-obsidian-git.md",
     "delay/Pasted image 20250731155433.png",
@@ -214,10 +193,6 @@
     "Programming/Программирование/Урок 7/Остаток от деления.md",
     "Programming/Программирование/Урок 7",
     "Programming/Программирование/Урок 6/Тип данных.md",
-    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
-    "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
-    "Programming/Программирование/Урок 6/Литерал.md",
-    "Programming/Программирование/Урок 6/Задачи.md",
     "Programming/Программирование/Урок 6",
     "Programming/Программирование/Урок 5/Проверка материала.md",
     "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
