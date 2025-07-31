@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
+                "file": "Programming/Программирование/Урок 7/Остаток от деления.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Тема Логические инструкции и логические выражения"
+              "title": "Остаток от деления"
             }
           }
         ]
@@ -172,10 +172,16 @@
   },
   "active": "86d7da7157439b29",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 6/Тип данных.md",
-    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
-    "delay/Pasted image 20250731155433.png",
+    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
+    "Programming/Программирование/Урок 7/Остаток от деления.md",
     "Programming/Программирование/Урок 6/Литерал.md",
+    "Programming/Программирование/index.md",
+    "Programming/Программирование/Урок 8/Тема Циклы.md",
+    "Programming/Программирование/Урок 8",
+    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
+    "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
+    "Programming/Программирование/Урок 6/Тип данных.md",
+    "delay/Pasted image 20250731155433.png",
     "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-17.md",
     "Programming/Программирование/Урок 3/материал.md",
@@ -196,19 +202,13 @@
     "daily/2025-07-26.md",
     "daily/2025-07-24.md",
     "Programming/Программирование/Урок 4/Нотаций в программировние.md",
-    "Economics/study/learning.md",
     "Programming/Программирование/Урок 5",
-    "Programming/Программирование/Урок 4/Урок 4 Базовые конструкциии.md",
-    "Programming/Программирование/Урок 4/Что такое оператор.md",
-    "Programming/Программирование/Урок 4/Остаток от деления2.md",
-    "Programming/Программирование/Урок 4/Остаток от деления.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
     "Programming/Программирование/Урок 2",
     "Programming/Программирование/Урок 6",
     "Programming/Программирование",
-    "Programming/Untitled 1",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
     "Programming/substract/Pasted image 20230907192719.png",
