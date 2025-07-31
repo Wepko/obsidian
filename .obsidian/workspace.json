@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 6/Задачи.md",
+                "file": "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Тема Логические инструкции и логические выражения"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "86d7da7157439b29",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 6/Литерал.md",
     "Programming/Программирование/Урок 6/Тип данных.md",
+    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
+    "delay/Pasted image 20250731155433.png",
+    "Programming/Программирование/Урок 6/Литерал.md",
     "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-17.md",
     "Programming/Программирование/Урок 3/материал.md",
@@ -200,7 +202,6 @@
     "Programming/Программирование/Урок 4/Что такое оператор.md",
     "Programming/Программирование/Урок 4/Остаток от деления2.md",
     "Programming/Программирование/Урок 4/Остаток от деления.md",
-    "Programming/Программирование/Урок 4/Что такое теория программирования.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
@@ -217,7 +218,6 @@
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
-    "Programming/substract/laravel/acwa/images/two_level_validation.png",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
