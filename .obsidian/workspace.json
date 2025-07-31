@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 7/Остаток от деления.md",
+                "file": "Programming/Программирование/Урок 6/Литерал.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Остаток от деления"
+              "title": "Литерал"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "86d7da7157439b29",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "Programming/Программирование/Урок 7/Остаток от деления.md",
+    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "Programming/Программирование/Урок 6/Литерал.md",
     "Programming/Программирование/index.md",
     "Programming/Программирование/Урок 8/Тема Циклы.md",
