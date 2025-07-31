@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "95f3e51caa3663db",
+        "id": "66f9a7508e60db38",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce6541109155f21",
+            "id": "86d7da7157439b29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-07-17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-17"
-            }
-          },
-          {
-            "id": "3b07b4a38cef31a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Программирование/Урок 3/материал.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "материал"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +156,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b07b4a38cef31a7",
+  "active": "86d7da7157439b29",
   "lastOpenFiles": [
+    "daily/2025-07-17.md",
+    "Programming/Программирование/Урок 3/материал.md",
     "Programming/Программирование/Разграничение по терминам.md",
     "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 7",
@@ -224,7 +187,6 @@
     "Programming/Программирование/Урок 4/plan.md",
     "Programming/Программирование/Урок 4/Материалы.md",
     "Programming/Программирование/Введение в профессию.md",
-    "Programming/Программирование/index.md",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
