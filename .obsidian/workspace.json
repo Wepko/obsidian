@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 6/Литерал.md",
+                "file": "daily/2025-08-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Литерал"
+              "title": "2025-08-05"
             }
           }
         ]
@@ -180,11 +180,12 @@
   },
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 6/Задачи.md",
-    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
-    "Programming/Программирование/Урок 6/Литерал.md",
     "Programming/Программирование/Урок 6/Тип данных.md",
+    "daily/2025-08-05.md",
+    "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
     "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
+    "Programming/Программирование/Урок 6/Литерал.md",
+    "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-31.md",
     "conflict-files-obsidian-git.md",
     "delay/Pasted image 20250731155433.png",
