@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 7/Циклы и Условия.md",
+                "file": "Programming/Программирование/Урок 7/Циклы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Циклы и Условия"
+              "title": "Циклы"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
     "daily/2025-08-07.md",
-    "Programming/Программирование/Урок 7/Циклы и Условия.md",
+    "Programming/Программирование/Урок 7/Циклы.md",
     "Programming/Программирование/Урок 6/Задачи.md",
     "Programming/Программирование/Урок 7/code.md",
     "daily/2025-08-05.md",
