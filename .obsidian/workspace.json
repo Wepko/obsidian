@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/Урок 7/Циклы.md",
+                "file": "Economics/study/Экономическая теория/theme/Экономические школы как направление.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Циклы"
+              "title": "Экономические школы как направление"
             }
           }
         ]
@@ -181,11 +181,13 @@
   "active": "e31ec84ab8605533",
   "lastOpenFiles": [
     "Programming/Программирование/Урок 7/Условия.md",
-    "Programming/Программирование/Урок 7/Пример.md",
+    "Economics/study/Экономическая теория/theme/Экономические школы как направление.md",
     "Programming/Программирование/Урок 7/Циклы.md",
+    "Programming/Программирование/Урок 7/Остаток от деления.md",
+    "Programming/Программирование/Урок 7/code.md",
+    "Programming/Программирование/Урок 7/Пример.md",
     "daily/2025-08-07.md",
     "Programming/Программирование/Урок 6/Задачи.md",
-    "Programming/Программирование/Урок 7/code.md",
     "daily/2025-08-05.md",
     "Programming/Программирование/Урок 6/Тип данных.md",
     "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
@@ -197,7 +199,6 @@
     "Programming/Программирование/Урок 8/Тема Циклы.md",
     "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "Programming/Программирование/Урок 8",
-    "Programming/Программирование/Урок 7/Остаток от деления.md",
     "Programming/Программирование/Урок 7",
     "Programming/Программирование/Урок 6",
     "Programming/Программирование/Урок 5/Проверка материала.md",
@@ -209,7 +210,6 @@
     "Programming/substract/Виды программирования.md",
     "Economics/study/learning.md",
     "Economics/projects/plan.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/4.md",
     "Programming/Программирование/Урок 5",
     "Programming/Программирование/Урок 4",
     "Урок 3 Как работает программа от исходного кода до выполнения.pdf",
