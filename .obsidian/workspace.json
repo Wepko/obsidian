@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-08.md",
+                "file": "Programming/Программирование/themes/condition principle/Основные принципы для понятных условий.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-08"
+              "title": "Основные принципы для понятных условий"
             }
           }
         ]
@@ -178,13 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "e31ec84ab8605533",
   "lastOpenFiles": [
+    "daily/2025-08-08.md",
+    "Programming/Программирование/themes/condition principle/Основные принципы для понятных условий.md",
     "Programming/Программирование/themes/condition principle",
     "Programming/Программирование/themes",
     "Programming/Программирование/Урок 8/Untitled",
     "Economics/study/Экономическая теория/theme/Экономические школы как направление.md",
-    "daily/2025-08-08.md",
     "Programming/Программирование/Урок 7/Условия.md",
     "Programming/Программирование/Урок 7/Циклы.md",
     "Programming/Программирование/Урок 7/Остаток от деления.md",
@@ -216,7 +217,6 @@
     "Programming/Программирование/Урок 4",
     "Урок 3 Как работает программа от исходного кода до выполнения.pdf",
     "Programming/Программирование/Урок 3",
-    "Programming/Программирование/Урок 2",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
