@@ -30,8 +30,105 @@
               "icon": "lucide-file",
               "title": "2025-08-09"
             }
+          },
+          {
+            "id": "c84318ef1c199fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 Теории экономического роста Часть 1"
+            }
+          },
+          {
+            "id": "681d36318dfbc3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 Теории экономического роста Часть 1"
+            }
+          },
+          {
+            "id": "3cdce8eb5b48fcc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/2 Теории экономического роста Часть 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2 Теории экономического роста Часть 2"
+            }
+          },
+          {
+            "id": "ba22806e7bfa31ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 421.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -178,10 +275,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e31ec84ab8605533",
+  "active": "ba22806e7bfa31ee",
   "lastOpenFiles": [
-    "Programming/Программирование/themes/condition principle/Задачи начало.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/2 Теории экономического роста Часть 2.md",
+    "conflict-files-obsidian-git.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост",
     "daily/2025-08-09.md",
+    "Economics/study/Теория экономического роста и управление капиалом/11 Производительность труда и 8-ми часовой рабочий день.md",
+    "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
+    "Economics/study/Теория экономического роста и управление капиалом",
+    "Programming/Программирование/themes/condition principle/Задачи начало.md",
     "Programming/Программирование/themes/condition principle/Залачи арифметика.md",
     "Programming/Программирование/themes/condition principle/Основные принципы для понятных условий.md",
     "daily/2025-08-08.md",
@@ -202,21 +306,14 @@
     "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
     "Programming/Программирование/Урок 6/Литерал.md",
     "daily/2025-07-31.md",
-    "conflict-files-obsidian-git.md",
     "delay/Pasted image 20250731155433.png",
     "Programming/Программирование/Урок 8/Тема Циклы.md",
     "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "Programming/Программирование/Урок 8",
     "Programming/Программирование/Урок 7",
     "Programming/Программирование/Урок 6",
-    "Programming/Программирование/Урок 5/Проверка материала.md",
-    "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
-    "daily/2025-07-29.md",
-    "Programming/Программирование/Урок 5/Упраженния.md",
     "Programming/Программирование/Урок 5",
     "Programming/Программирование/Урок 4",
-    "Урок 3 Как работает программа от исходного кода до выполнения.pdf",
-    "Programming/Программирование/Урок 3",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
