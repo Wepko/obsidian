@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "2025-08-09"
             }
+          },
+          {
+            "id": "e2a2837d166f0fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "10 Итоговое видео по видам отдачи от капитала"
+            }
+          },
+          {
+            "id": "3f25a545ec3292c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,10 +219,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86d7da7157439b29",
+  "active": "3f25a545ec3292c6",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 6/Тип данных.md",
+    "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
+    "conflict-files-obsidian-git.md",
+    "Economics/study/Теория экономического роста и управление капиалом",
     "daily/2025-08-09.md",
+    "daily/2025-08-08.md",
+    "daily/2025-08-07.md",
+    "daily/2025-08-05.md",
+    "daily/2025-07-31.md",
+    "Programming/Программирование/Урок 7/Циклы.md",
+    "Programming/Программирование/Урок 7/Условия.md",
+    "Programming/Программирование/Урок 7/Пример.md",
+    "Programming/Программирование/Урок 7/code.md",
+    "Programming/Программирование/themes/condition principle/Залачи арифметика.md",
+    "Programming/Программирование/themes/condition principle/Основные принципы для понятных условий.md",
+    "Programming/Программирование/themes/condition principle/Задачи начало.md",
+    "Programming/Программирование/themes/condition principle",
+    "Programming/Программирование/themes",
+    "Economics/study/Экономическая теория/theme/Экономические школы как направление.md",
+    "Programming/Программирование/Урок 6/Тип данных.md",
     "Programming/Программирование/Урок 6/Литерал.md",
     "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
     "Programming/Программирование/Урок 6/Тема Логические инструкции и логические выражения.md",
@@ -186,29 +252,12 @@
     "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-17.md",
     "Programming/Программирование/Урок 3/материал.md",
-    "Programming/Программирование/Разграничение по терминам.md",
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/Урок 7",
-    "Programming/Программирование/Урок 5/Упраженния.md",
     "Programming/Untitled",
-    "daily/2025-07-29.md",
-    "Programming/Программирование/Урок 5/Разница между инструкциями и выражениями.md",
-    "Programming/Программирование/Урок 5/Проверка материала.md",
-    "Programming/Программирование/Урок 5/Коммутативноcть.md",
-    "Programming/Программирование/Урок 4/Классификация операторов statments.md",
-    "Programming/Программирование/Урок 4/Из чего состоит программа.md",
-    "Programming/substract/Виды программирования.md",
-    "Programming/substract/Список дисциплин.md",
-    "daily/2025-07-28.md",
-    "daily/2025-07-26.md",
-    "daily/2025-07-24.md",
     "Programming/Программирование/Урок 5",
     "Programming/Программирование/Урок 4",
     "Programming/Программирование/Урок 3",
     "Programming/substract/old/dynamic_data_structures/devcpp_4.pdf",
-    "Programming/Программирование/Урок 2",
-    "Programming/Программирование/Урок 6",
-    "Programming/Программирование",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
     "Programming/substract/Pasted image 20230907192719.png",
