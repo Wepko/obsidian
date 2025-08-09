@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "2 Теории экономического роста Часть 2"
             }
-          },
-          {
-            "id": "ba22806e7bfa31ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,10 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba22806e7bfa31ee",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/2 Теории экономического роста Часть 2.md",
     "conflict-files-obsidian-git.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/2 Теории экономического роста Часть 2.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост",
     "daily/2025-08-09.md",
