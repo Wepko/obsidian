@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
+                "file": "Economics/study/Теория экономического роста и управление капиалом/11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10 Итоговое видео по видам отдачи от капитала"
+              "title": "11"
             }
           }
         ],
@@ -195,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "e2a2837d166f0fba",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
+    "Economics/study/Теория экономического роста и управление капиалом/11.md",
+    "conflict-files-obsidian-git.md",
     "Economics/study/Теория экономического роста и управление капиалом",
     "daily/2025-08-09.md",
     "daily/2025-08-08.md",
@@ -227,7 +228,6 @@
     "delay/Pasted image 20250731155433.png",
     "Programming/Программирование/Урок 6/Задачи.md",
     "daily/2025-07-17.md",
-    "Programming/Программирование/Урок 3/материал.md",
     "Programming/Программирование/Урок 7",
     "Programming/Untitled",
     "Programming/Программирование/Урок 5",
