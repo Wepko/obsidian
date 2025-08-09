@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/2 Теории экономического роста Часть 2.md",
+                "file": "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 Теории экономического роста Часть 2"
+              "title": "Untitled"
             }
           }
         ],
@@ -251,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "3cdce8eb5b48fcc6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/2 Теории экономического роста Часть 2.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост",
     "daily/2025-08-09.md",
@@ -284,7 +285,6 @@
     "daily/2025-07-31.md",
     "delay/Pasted image 20250731155433.png",
     "Programming/Программирование/Урок 8/Тема Циклы.md",
-    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "Programming/Программирование/Урок 8",
     "Programming/Программирование/Урок 7",
     "Programming/Программирование/Урок 6",
