@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "10 Итоговое видео по видам отдачи от капитала"
             }
-          },
-          {
-            "id": "3f25a545ec3292c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f25a545ec3292c6",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
     "conflict-files-obsidian-git.md",
+    "Economics/study/Теория экономического роста и управление капиалом/10 Итоговое видео по видам отдачи от капитала.md",
     "Economics/study/Теория экономического роста и управление капиалом",
     "daily/2025-08-09.md",
     "daily/2025-08-08.md",
