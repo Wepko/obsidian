@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/26 Крах стран переселенческого капитализма.md",
+                "file": "daily/2025-08-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26 Крах стран переселенческого капитализма"
+              "title": "2025-08-12"
             }
           }
         ],
@@ -252,11 +252,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "3cdce8eb5b48fcc6",
   "lastOpenFiles": [
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/26 Крах стран переселенческого капитализма.md",
+    "daily/2025-08-12.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/25 Страны переселенческого капитализма II.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/26 Крах стран переселенческого капитализма.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/24 Страны переселенческого капитализма I.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/21 Технологий приводит к экономическим кризисам.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/20 Технологические уклады.md",
@@ -290,7 +291,6 @@
     "delay/Pasted image 20250731155433.png",
     "Programming/Программирование/Урок 8",
     "Programming/Программирование/Урок 7",
-    "Programming/Программирование/Урок 6",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
