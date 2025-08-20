@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/Фиатные деньги.md",
+                "file": "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15/Основные тезисы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Фиатные деньги"
+              "title": "Основные тезисы"
             }
           }
         ],
@@ -275,14 +275,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96a6d533e3a28a03",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/theme/Фискальная и монетарная политика.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15/Что такое реальная экономика.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15/Основные тезисы.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/Untitled.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/Фиатные деньги.md",
+    "Economics/study/Экономическая теория/theme/Фискальная и монетарная политика.md",
     "Economics/study/Экономическая теория/rezume/part 9.md",
     "Economics/study/Экономическая теория/rezume/part 8.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
@@ -300,9 +304,6 @@
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/8 Отрасли с высокой отдачей — меняют экономику.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/7 Убывающая отдача в разных отраслях экономики.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Какие есть макроэкономические зависимости.md",
-    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
-    "Programming/Программирование/Урок 8/Тема Циклы.md",
-    "daily/2025-08-20.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом",
     "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения",
@@ -313,7 +314,6 @@
     "Programming/Программирование/Урок 8/Untitled",
     "delay/Pasted image 20250731155433.png",
     "Programming/Программирование/Урок 8",
-    "Programming/Программирование/Урок 7",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
