@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 32"
+              "title": "5"
             }
           }
         ],
@@ -277,7 +277,10 @@
   },
   "active": "96a6d533e3a28a03",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
@@ -285,11 +288,14 @@
     "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Programming/substract/OOP_programming/Виды связей в ООП между классами.md",
     "Programming/substract/OOP_programming/000-index.md",
     "Programming/substract/programming/Reflection.md",
@@ -298,13 +304,7 @@
     "Programming/substract/laravel/acwa/lesson/4-application-layer.md",
     "Programming/substract/laravel/acwa/lesson/5-error-handling.md",
     "Programming/substract/laravel/auth/Способы авторизации.md",
-    "Programming/substract/laravel/acwa/lesson/0-intro.md",
     "Programming/substract/laravel/auth",
-    "Programming/substract/laravel/acwa/lesson/12-end.md",
-    "Programming/substract/laravel/acwa/lesson/11-es.md",
-    "Programming/substract/laravel/acwa/lesson/10-cqrs.md",
-    "Programming/substract/laravel/acwa/lesson/7-events.md",
-    "Programming/substract/laravel/acwa/lesson/2-di.md",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
