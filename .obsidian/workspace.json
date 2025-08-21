@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/laravel/acwa/lesson/4-application-layer.md",
+                "file": "Programming/substract/OOP_programming/Виды связей в ООП между классами.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4-application-layer"
+              "title": "Виды связей в ООП между классами"
             }
           }
         ],
@@ -277,6 +277,11 @@
   },
   "active": "96a6d533e3a28a03",
   "lastOpenFiles": [
+    "Programming/substract/OOP_programming/000-index.md",
+    "Programming/substract/programming/Reflection.md",
+    "Programming/substract/PHP/Mysqli Контент.md",
+    "Programming/substract/PHP/Замыкание на php.md",
+    "Programming/substract/laravel/acwa/lesson/4-application-layer.md",
     "Programming/substract/laravel/acwa/lesson/5-error-handling.md",
     "Programming/substract/laravel/auth/Способы авторизации.md",
     "Programming/substract/laravel/acwa/lesson/0-intro.md",
@@ -314,11 +319,6 @@
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15/Что такое реальная экономика.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/Untitled.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "Economics/study/Экономическая теория/Фиатные деньги.md",
-    "Economics/study/Экономическая теория/theme/Фискальная и монетарная политика.md",
-    "Economics/study/Экономическая теория/rezume/part 9.md",
-    "Economics/study/Экономическая теория/rezume/part 8.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом",
     "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения",
