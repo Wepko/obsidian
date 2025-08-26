@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/theme/Вопросы/Untitled.md",
+                "file": "Economics/study/История экономической мысли/Словарь.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Словарь"
             }
           }
         ],
@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 473.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -278,8 +278,14 @@
   },
   "active": "96a6d533e3a28a03",
   "lastOpenFiles": [
+    "Economics/study/История экономической мысли/классификации экономических теорий.md",
+    "Economics/study/История экономической мысли/Анализ систем/Факторы успеха странны выделяет Смитт.md",
+    "Economics/study/История экономической мысли/Анализ систем/Основные идеи меркантилизма и физиократов.md",
+    "Economics/study/История экономической мысли/Анализ систем/Заработная плата По мальтутсу и по Смиту.md",
+    "Economics/study/История экономической мысли/Анализ систем/Детерминизм и неопределенность в системе кантилиона.md",
+    "Economics/study/История экономической мысли/лекции/лекция 3.md",
+    "Economics/study/История экономической мысли/лекции/Милль и Смит производство и распределение.md",
     "Economics/study/learning.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Untitled.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-08-26.md",
     "daily/2025-08-22.md",
@@ -298,13 +304,7 @@
     "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
-    "Programming/substract/OOP_programming/Виды связей в ООП между классами.md",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
