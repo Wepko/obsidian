@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-26.md",
+                "file": "Economics/study/Экономическая теория/theme/Фиатные деньги.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "Фиатные деньги"
             }
           }
         ],
@@ -276,8 +276,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96a6d533e3a28a03",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "daily/2025-08-26.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Какие есть экономические эффекты.md",
@@ -299,7 +300,6 @@
     "Economics/study/История экономической мысли/лекции/лекция 3.md",
     "Economics/study/История экономической мысли/лекции/Милль и Смит производство и распределение.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-08-26.md",
     "daily/2025-08-22.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
