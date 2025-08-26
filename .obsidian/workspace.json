@@ -128,13 +128,13 @@
             }
           },
           {
-            "id": "e6f7fea4bef6af3c",
+            "id": "cc2e8c999c5c82ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-26.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-26"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -300,9 +300,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6f7fea4bef6af3c",
+  "active": "cc2e8c999c5c82ba",
   "lastOpenFiles": [
+    "Economics/study/learning.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-08-26.md",
+    "daily/2025-08-22.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
@@ -326,9 +329,6 @@
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/OOP_programming/Виды связей в ООП между классами.md",
     "Programming/substract/OOP_programming/000-index.md",
-    "Programming/substract/programming/Reflection.md",
-    "Programming/substract/PHP/Mysqli Контент.md",
-    "Programming/substract/PHP/Замыкание на php.md",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
