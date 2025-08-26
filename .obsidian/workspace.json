@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/learning.md",
+                "file": "Economics/study/Экономическая теория/theme/Вопросы/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "learning"
+              "title": "Untitled"
             }
           }
         ],
@@ -276,9 +276,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "96a6d533e3a28a03",
   "lastOpenFiles": [
     "Economics/study/learning.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Untitled.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-08-26.md",
     "daily/2025-08-22.md",
@@ -304,7 +305,6 @@
     "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/OOP_programming/Виды связей в ООП между классами.md",
-    "Programming/substract/OOP_programming/000-index.md",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
