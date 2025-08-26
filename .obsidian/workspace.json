@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/theme/Фиатные деньги.md",
+                "file": "Programming/Программирование/Урок 6/Задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Фиатные деньги"
+              "title": "Задачи"
             }
           }
         ],
@@ -276,8 +276,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "96a6d533e3a28a03",
   "lastOpenFiles": [
+    "Programming/Программирование/Урок 4/Задачи.md",
+    "Programming/Программирование/Урок 4/Задача.md",
+    "Programming/Программирование/Урок 5/Упраженния.md",
+    "Economics/study/Экономическая теория/theme/Фиатные деньги.md",
     "daily/2025-08-26.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
@@ -300,10 +304,6 @@
     "Economics/study/История экономической мысли/лекции/лекция 3.md",
     "Economics/study/История экономической мысли/лекции/Милль и Смит производство и распределение.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-08-22.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
