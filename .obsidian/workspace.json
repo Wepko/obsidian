@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Сходства и различия арифметики и алгебры.md",
+                "file": "Mathimatics/Math1/lndex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Сходства и различия арифметики и алгебры"
+              "title": "lndex"
             }
           }
         ]
@@ -179,17 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c926564c5da84bf",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Mathimatics/Math1/А. П. Киселев.md",
+    "Mathimatics/Math1/lndex.md",
     "Mathimatics/Сходства и различия арифметики и алгебры.md",
     "daily/2025-08-27.md",
-    "Mathimatics/lndex.md",
-    "Mathimatics/lvl1/А. П. Киселев.md",
-    "Mathimatics/lvl1/chapter 1/Untitled",
-    "Mathimatics/lvl1/chapter 1/volume 1",
-    "Mathimatics/lvl1/chapter 1",
+    "Mathimatics/Math1/chapter 1/Untitled",
+    "Mathimatics/Math1/chapter 1/volume 1",
+    "Mathimatics/Math1/chapter 1",
     "Mathimatics/Untitled.md",
-    "Mathimatics/lvl1",
+    "Mathimatics/Math1",
     "Jurisprudence/themes/Вопросы/Что такое политика.md",
     "Mathimatics",
     "Jurisprudence/themes/Вопросы",
