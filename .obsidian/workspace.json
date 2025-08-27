@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81b4af7c49aef678",
+        "id": "7eddbb2c9be6a4ae",
         "type": "tabs",
         "children": [
           {
-            "id": "351bb3ee8934cb59",
+            "id": "1c926564c5da84bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-27.md",
+                "file": "Mathimatics/Сходства и различия арифметики и алгебры.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-27"
+              "title": "Сходства и различия арифметики и алгебры"
             }
           }
         ]
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "351bb3ee8934cb59",
+  "active": "1c926564c5da84bf",
   "lastOpenFiles": [
+    "Mathimatics/Сходства и различия арифметики и алгебры.md",
+    "daily/2025-08-27.md",
     "Mathimatics/lndex.md",
     "Mathimatics/lvl1/А. П. Киселев.md",
     "Mathimatics/lvl1/chapter 1/Untitled",
@@ -212,8 +214,6 @@
     "Economics/study/Экономическая теория/rezume/part 8.md",
     "daily/2025-08-09.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
-    "daily/2025-08-12.md",
-    "daily/2025-08-27.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
