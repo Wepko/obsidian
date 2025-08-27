@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Untitled 1.md",
+                "file": "Mathimatics/lndex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "lndex"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "351bb3ee8934cb59",
   "lastOpenFiles": [
     "Mathimatics/lvl1/А. П. Киселев.md",
-    "Mathimatics/Untitled 1.md",
+    "Mathimatics/lndex.md",
     "Mathimatics/lvl1/chapter 1/Untitled",
     "Mathimatics/lvl1/chapter 1/volume 1",
     "Mathimatics/lvl1/chapter 1",
