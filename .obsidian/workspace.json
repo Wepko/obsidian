@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
+                "file": "Jurisprudence/themes/Вопросы/Что такое политика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4"
+              "title": "Что такое политика"
             }
           }
         ]
@@ -181,6 +181,23 @@
   },
   "active": "351bb3ee8934cb59",
   "lastOpenFiles": [
+    "Jurisprudence/themes/Вопросы",
+    "Jurisprudence/themes",
+    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
+    "Jurisprudence/themes/Вопросы/Что такое политика.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
+    "Economics/study/learning.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
@@ -191,22 +208,6 @@
     "daily/2025-08-27.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
-    "Programming/Программирование/Урок 6/Литерал.md",
-    "Programming/Программирование/Урок 6/Примеры булевой алгебры.md",
-    "Programming/Программирование/Урок 6/Задачи.md",
-    "Programming/Программирование/Урок 4/Задачи.md",
-    "Programming/Программирование/Урок 4/Задача.md",
-    "Programming/Программирование/Урок 5/Упраженния.md",
-    "Economics/study/Экономическая теория/theme/Фиатные деньги.md",
-    "daily/2025-08-26.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Какие еще термены нужно знать в экономике, какие есть.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Какие есть экономические эффекты.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое Рефинансирование.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Как строиться исследование экономики.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
@@ -226,7 +227,6 @@
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
