@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Math1/lndex.md",
+                "file": "daily/2025-08-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lndex"
+              "title": "2025-08-28"
             }
           }
         ]
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "1c926564c5da84bf",
   "lastOpenFiles": [
-    "Mathimatics/Math1/А. П. Киселев.md",
     "Mathimatics/Math1/lndex.md",
+    "daily/2025-08-28.md",
+    "Mathimatics/Math1/А. П. Киселев.md",
     "Mathimatics/Сходства и различия арифметики и алгебры.md",
     "daily/2025-08-27.md",
     "Mathimatics/Math1/chapter 1/Untitled",
@@ -213,7 +214,6 @@
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/rezume/part 8.md",
     "daily/2025-08-09.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономический рост/1 Теории экономического роста Часть 1.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
