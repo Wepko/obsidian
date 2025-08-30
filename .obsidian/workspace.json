@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7eddbb2c9be6a4ae",
+        "id": "6e4dd0416a9ad7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "1c926564c5da84bf",
+            "id": "6e631f3b94058fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-28.md",
+                "file": "daily/2025-08-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-28"
+              "title": "2025-08-30"
             }
           }
         ]
@@ -179,10 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c926564c5da84bf",
+  "active": "6e631f3b94058fd8",
   "lastOpenFiles": [
-    "Mathimatics/Math1/lndex.md",
+    "Programming/Программирование/Урок 7/Циклы.md",
+    "daily/2025-08-30.md",
+    "Programming/Программирование/Урок 8/Тема Циклы.md",
+    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "daily/2025-08-28.md",
+    "Mathimatics/Math1/lndex.md",
     "Mathimatics/Math1/А. П. Киселев.md",
     "Mathimatics/Сходства и различия арифметики и алгебры.md",
     "daily/2025-08-27.md",
@@ -210,10 +214,6 @@
     "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
     "Economics/study/learning.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "Economics/study/Экономическая теория/rezume/part 8.md",
-    "daily/2025-08-09.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
