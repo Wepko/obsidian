@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-30.md",
+                "file": "Mathimatics/Math1/lndex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-30"
+              "title": "lndex"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "6e631f3b94058fd8",
   "lastOpenFiles": [
-    "Programming/Программирование/Урок 7/Циклы.md",
     "daily/2025-08-30.md",
+    "Programming/Программирование/Урок 7/Циклы.md",
     "Programming/Программирование/Урок 8/Тема Циклы.md",
     "Programming/Программирование/Урок 8/Задачи и преобразования.md",
     "daily/2025-08-28.md",
