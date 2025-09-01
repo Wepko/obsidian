@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e4dd0416a9ad7c0",
+        "id": "d2f95156fa5ca527",
         "type": "tabs",
         "children": [
           {
-            "id": "6e631f3b94058fd8",
+            "id": "2f9d74a48209b508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-01.md",
+                "file": "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-01"
+              "title": "quest3"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Эффект богатства",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,18 +179,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e631f3b94058fd8",
+  "active": "2f9d74a48209b508",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между эффектом богатства и дохода.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Какие есть макроэкономические зависимости.md",
+    "Economics/study/История экономической мысли/Анализ систем/Заработная плата По мальтутсу и по Смиту.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/2.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
     "daily/2025-09-01.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Jurisprudence/themes/Вопросы/Что такое политика.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между совокупным спросом и расходами.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое модель совокупных расходов.md",
     "Economics/study/Экономическая теория/Список всех расмотренных ситуаций situation.md",
@@ -201,19 +207,13 @@
     "daily/2025-08-30.md",
     "Programming/Программирование/Урок 7/Циклы.md",
     "Programming/Программирование/Урок 8/Тема Циклы.md",
-    "Programming/Программирование/Урок 8/Задачи и преобразования.md",
-    "daily/2025-08-28.md",
-    "daily/2025-08-27.md",
     "Mathimatics/Math1/chapter 1/Untitled",
     "Mathimatics/Math1/chapter 1/volume 1",
     "Mathimatics/Math1/chapter 1",
-    "Mathimatics/Untitled.md",
     "Mathimatics/Math1",
     "Mathimatics",
     "Jurisprudence/themes/Вопросы",
     "Jurisprudence/themes",
-    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
