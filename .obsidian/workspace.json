@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/И Того.md",
+                "file": "Economics/study/Формализованая экономика/themes/Подборка книг для анализа бизнеса.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "И Того"
+              "title": "Подборка книг для анализа бизнеса"
             }
           }
         ]
@@ -181,8 +181,18 @@
   },
   "active": "2f9d74a48209b508",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
+    "Economics/study/Формализованая экономика/themes/Вопрос  1.md",
+    "Economics/study/Формализованая экономика/themes/Подборка книг для анализа бизнеса.md",
+    "Economics/study/Формализованая экономика/chapter 3/Глава 3. Система экономических отношений.md",
+    "Economics/study/Формализованая экономика/chapter 2/Глава 2. Закономерности развития экономики.md",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Система экономических наук.md",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
+    "Economics/study/Формализованая экономика/chapter 1/Глава 1. Роль экономики в жизни общества ..md",
+    "Economics/study/Формализованая экономика/chapter 1/2. Функции исследования экономики.md",
+    "Economics/study/Формализованая экономика/chapter 1/1. Экономика определение понятия. От этимологии слова к современному значению.md",
     "Economics/study/Экономическая теория/И Того.md",
+    "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между эффектом богатства и дохода.md",
@@ -199,14 +209,6 @@
     "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Jurisprudence/themes/Вопросы/Что такое политика.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между совокупным спросом и расходами.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое модель совокупных расходов.md",
-    "Economics/study/Экономическая теория/Список всех расмотренных ситуаций situation.md",
-    "Mathimatics/Math1/А. П. Киселев.md",
-    "Mathimatics/Math1/Разница между переместительным и сочетательным свойствами.md",
-    "Mathimatics/Math1/Сходства и различия арифметики и алгебры.md",
-    "Mathimatics/Math1/lndex.md",
-    "daily/2025-08-30.md",
     "Mathimatics/Math1/chapter 1/Untitled",
     "Mathimatics/Math1/chapter 1/volume 1",
     "Mathimatics/Math1/chapter 1",
@@ -224,8 +226,6 @@
     "Programming/substract/laravel/acwa/images/oracle_cqrs.png",
     "Programming/substract/laravel/acwa/images/master_slave_cqrs.png",
     "Programming/substract/laravel/acwa/images/master_slave.png",
-    "Programming/substract/laravel/acwa/images/integration_testing_example.png",
-    "Programming/substract/laravel/acwa/images/hard_dependencies.png",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/8",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
