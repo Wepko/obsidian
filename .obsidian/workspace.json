@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/2 (Maksim)/Untitled.md",
+                "file": "Programming/plan/Какие есть десцеплины в программирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Какие есть десцеплины в программирование"
             }
           }
         ]
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "e8863a9b4cd905cd",
   "lastOpenFiles": [
+    "Programming/Программирование/2 (Maksim)/Untitled.md",
+    "Programming/plan/Какие есть десцеплины в программирование.md",
+    "Programming/plan",
     "Programming/Программирование/2 (Maksim)/Урок 1",
     "Programming/Программирование/1 (Maksim)/Untitled.md",
-    "Programming/Программирование/2 (Maksim)/Untitled.md",
     "Programming/Программирование/2 (Maksim)",
     "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
     "Programming/Программирование/1 (Maksim)/index.md",
@@ -217,8 +219,6 @@
     "Mathimatics/Math1",
     "Mathimatics",
     "Jurisprudence/themes/Вопросы",
-    "Jurisprudence/themes",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
