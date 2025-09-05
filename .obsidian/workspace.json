@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f95156fa5ca527",
+        "id": "82228606e6f228c7",
         "type": "tabs",
         "children": [
           {
-            "id": "2f9d74a48209b508",
+            "id": "e8863a9b4cd905cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-05.md",
+                "file": "Programming/Программирование/2 (Maksim)/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "Untitled"
             }
           }
         ]
@@ -179,10 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f9d74a48209b508",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
+    "Programming/Программирование/2 (Maksim)/Урок 1",
+    "Programming/Программирование/1 (Maksim)/Untitled.md",
+    "Programming/Программирование/2 (Maksim)/Untitled.md",
+    "Programming/Программирование/2 (Maksim)",
+    "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
+    "Programming/Программирование/1 (Maksim)/index.md",
+    "Programming/Программирование/1 (Maksim)",
     "daily/2025-09-05.md",
+    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
     "Mathimatics/Math1/lndex.md",
     "Mathimatics/Math1/А. П. Киселев.md",
     "daily/2025-09-02.md",
@@ -204,11 +211,6 @@
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между эффектом богатства и дохода.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Какие есть макроэкономические зависимости.md",
-    "Economics/study/История экономической мысли/Анализ систем/Заработная плата По мальтутсу и по Смиту.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/2.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Глобально экономические вопросы/Какие есть экономические эффекты.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
     "Mathimatics/Math1/chapter 1/Untitled",
     "Mathimatics/Math1/chapter 1/volume 1",
     "Mathimatics/Math1/chapter 1",
@@ -217,7 +219,6 @@
     "Jurisprudence/themes/Вопросы",
     "Jurisprudence/themes",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
-    "Programming/substract/laravel/auth",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
@@ -226,7 +227,6 @@
     "Programming/substract/laravel/acwa/images/oracle_cqrs.png",
     "Programming/substract/laravel/acwa/images/master_slave_cqrs.png",
     "Programming/substract/laravel/acwa/images/master_slave.png",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/8",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
