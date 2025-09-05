@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/2 (Maksim)/Урок 1/Урок 1 Целепологание.md",
+                "file": "Programming/Программирование/2 (Maksim)/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Урок 1 Целепологание"
+              "title": "index"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "e8863a9b4cd905cd",
   "lastOpenFiles": [
-    "Programming/Программирование/2 (Maksim)/index.md",
     "Programming/Программирование/2 (Maksim)/Урок 1/Урок 1 Целепологание.md",
+    "Programming/Программирование/2 (Maksim)/index.md",
     "Programming/plan/Какие есть дисциплины в программирование.md",
     "Untitled 2.canvas",
     "Семинар 1.md",
