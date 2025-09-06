@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82228606e6f228c7",
+        "id": "1f0815e6f7be4b52",
         "type": "tabs",
         "children": [
           {
-            "id": "e8863a9b4cd905cd",
+            "id": "4555fb881f3f60c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 216.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -179,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8863a9b4cd905cd",
+  "active": "4555fb881f3f60c2",
   "lastOpenFiles": [
     "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 20/volume 20.md",
     "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/projects/plan.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 14 - Виртуальная память в х86-64.md",
@@ -209,7 +210,6 @@
     "Jurisprudence/trash/Конституционное право.md",
     "Linguistics_Russian/Article_language.md",
     "lk.samgtu/Технологии виртуальной и дополненной реальности.md",
-    "Ещё одна заметка.md",
     "Programming/plan",
     "Programming/Программирование/2 (Maksim)/Урок 1",
     "Programming/Программирование/2 (Maksim)",
