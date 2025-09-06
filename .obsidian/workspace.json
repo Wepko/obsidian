@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 6 - Введение в микроархитектуру.md",
+                "file": "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 7 - Как это всё работает.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ОЭВМиС Лекция 6 - Введение в микроархитектуру"
+              "title": "ОЭВМиС Лекция 7 - Как это всё работает"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "e8863a9b4cd905cd",
   "lastOpenFiles": [
+    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 6 - Введение в микроархитектуру.md",
+    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 7 - Как это всё работает.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 5 - Режимы адресации и форматы операндов.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 4 - Архитектура системы команд.md",
-    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 6 - Введение в микроархитектуру.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 3 - Архитектура системы команд.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 2 - История.md",
     "Programming/substract 2/Архитектура компьютера.md",
@@ -213,7 +214,6 @@
     "Mathimatics/Math1/А. П. Киселев.md",
     "daily/2025-09-02.md",
     "Economics/study/Формализованая экономика/themes/Прогнозных моделей и системам обработки больших данных.md",
-    "Economics/study/Формализованая экономика/themes/Подборка книг для анализа бизнеса.md",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Mathimatics/Math1/chapter 1/Untitled",
