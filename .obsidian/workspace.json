@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/Архитектура компьютера/Untitled.md",
+                "file": "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 11 - Память и кэш-память.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ОЭВМиС Лекция 11 - Память и кэш-память"
             }
           }
         ]
@@ -181,8 +181,11 @@
   },
   "active": "e8863a9b4cd905cd",
   "lastOpenFiles": [
-    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 10 - Параллелизм Память.md",
+    "Programming/substract 2/Архитектура компьютера/Untitled 2.md",
+    "Programming/substract 2/Архитектура компьютера/Untitled 1.md",
     "Programming/substract 2/Архитектура компьютера/Untitled.md",
+    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 11 - Память и кэш-память.md",
+    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 10 - Параллелизм Память.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 9 - Конвейеры.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 8 - Как это всё работает.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 7 - Как это всё работает.md",
@@ -210,10 +213,7 @@
     "Programming/Программирование/1 (Maksim)/Untitled.md",
     "Programming/Программирование/2 (Maksim)",
     "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
-    "Programming/Программирование/1 (Maksim)/index.md",
     "Programming/Программирование/1 (Maksim)",
-    "daily/2025-09-05.md",
-    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Mathimatics/Math1/chapter 1/Untitled",
