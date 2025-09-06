@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 14 - Виртуальная память в х86-64.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ОЭВМиС Лекция 14 - Виртуальная память в х86-64"
+              "title": "volume 30"
             }
           }
         ]
@@ -181,6 +181,10 @@
   },
   "active": "e8863a9b4cd905cd",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
+    "Economics/projects/plan.md",
+    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 14 - Виртуальная память в х86-64.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 11 - Память и кэш-память.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 6 - Введение в микроархитектуру.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 4 - Архитектура системы команд.md",
@@ -189,7 +193,6 @@
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 10 - Параллелизм Память.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 12 - Страничная виртуальная память.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 13 - Сегментная виртуальная память.md",
-    "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 14 - Виртуальная память в х86-64.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 9 - Конвейеры.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 8 - Как это всё работает.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 3 - Архитектура системы команд.md",
@@ -207,12 +210,9 @@
     "Linguistics_Russian/Article_language.md",
     "lk.samgtu/Технологии виртуальной и дополненной реальности.md",
     "Ещё одна заметка.md",
-    "Economics/projects/plan.md",
     "Programming/plan",
     "Programming/Программирование/2 (Maksim)/Урок 1",
-    "Programming/Программирование/1 (Maksim)/Untitled.md",
     "Programming/Программирование/2 (Maksim)",
-    "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
     "Programming/Программирование/1 (Maksim)",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
