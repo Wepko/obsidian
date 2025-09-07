@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 31"
+              "title": "1"
             }
           }
         ]
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 293.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -181,6 +181,15 @@
   },
   "active": "4555fb881f3f60c2",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/volumes/volume 30/volume 30.md",
     "Economics/study/Экономическая теория/volumes/volume 30/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 20/volume 20.md",
@@ -198,18 +207,9 @@
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 8 - Как это всё работает.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 3 - Архитектура системы команд.md",
     "Programming/substract 2/Архитектура компьютера/ОЭВМиС Лекция 2 - История.md",
-    "Programming/substract 2/Архитектура компьютера.md",
     "Programming/substract 2/Архитектура компьютера",
-    "Programming/Программирование/2 (Maksim)/index.md",
     "Programming/substract 2",
-    "Programming/Программирование/2 (Maksim)/Урок 1/Урок 1 Целепологание.md",
-    "Programming/plan/Какие есть дисциплины в программирование.md",
     "Untitled 2.canvas",
-    "Семинар 1.md",
-    "Projects/Blog/note 1.md",
-    "Jurisprudence/trash/Конституционное право.md",
-    "Linguistics_Russian/Article_language.md",
-    "lk.samgtu/Технологии виртуальной и дополненной реальности.md",
     "Programming/plan",
     "Programming/Программирование/2 (Maksim)/Урок 1",
     "Programming/Программирование/2 (Maksim)",
