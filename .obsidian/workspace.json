@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-22.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-22"
+              "title": "4"
+            }
+          },
+          {
+            "id": "ee412b03d6b760dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-09-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-10"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,42 +220,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2a2837d166f0fba",
+  "active": "ee412b03d6b760dd",
   "lastOpenFiles": [
+    "daily/2025-09-10.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/8.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
     "daily/2025-08-22.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-08-20.md",
     "daily/2025-08-12.md",
-    "Programming/substract/laravel/auth/Способы авторизации.md",
     "Programming/substract/laravel/auth",
-    "Economics/study/Экономическая теория/Фиатные деньги.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/8/Основные тезисы урока о валюте.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/7/Основные тезисы урока по недвижимости.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/6/Основные тезисы.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15/Что такое реальная экономика.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/5/Основные тезисы управления личными финансами.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15/Основные тезисы.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/8",
-    "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/Untitled.md",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/7",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/6",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/5",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы/15",
     "Economics/study/Теория экономического роста и управление капиалом/Личные финансы",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономический рост",
     "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения",
     "delay/Pasted image 20250731155433.png",
