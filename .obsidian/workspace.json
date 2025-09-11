@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "2025-09-11"
             }
+          },
+          {
+            "id": "687fabeccf492139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "volume 31"
+            }
+          },
+          {
+            "id": "4b8819a9a1a7742b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "59f0dc4e0f09942e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,10 +252,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4555fb881f3f60c2",
+  "active": "59f0dc4e0f09942e",
   "lastOpenFiles": [
-    "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "conflict-files-obsidian-git.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "daily/2025-09-11.md",
+    "daily/2025-09-10.md",
+    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
+    "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
     "daily/2025-09-09.md",
     "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
     "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
@@ -191,22 +280,6 @@
     "Economics/study/Экономическая теория/volumes/volume 42/volume 42.md",
     "Economics/study/Экономическая теория/volumes/volume 41/volume 41.md",
     "Economics/study/Экономическая теория/volumes/volume 40/volume 40.md",
-    "Economics/study/Экономическая теория/volumes/volume 39/volume 39.md",
-    "Economics/study/Экономическая теория/volumes/volume 38/volume 38.md",
-    "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/volume 35.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 30/questions/3.md",
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
