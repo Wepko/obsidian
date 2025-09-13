@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/dart/Future Function.md",
-                "mode": "preview",
+                "file": "Projects/PayЧек/Чек.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Future Function"
+              "title": "Чек"
             }
           }
         ],
@@ -230,8 +230,10 @@
   },
   "active": "4b8819a9a1a7742b",
   "lastOpenFiles": [
-    "Programming/substract 2/dart/Functions.md",
     "Programming/substract 2/dart/Future Function.md",
+    "Projects/PayЧек/Чек.md",
+    "Projects/PayЧек",
+    "Programming/substract 2/dart/Functions.md",
     "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/Untitled.md",
     "Programming/substract 2/dart",
@@ -256,7 +258,6 @@
     "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "daily/2025-09-11.md",
-    "daily/2025-09-10.md",
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
@@ -268,7 +269,6 @@
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Mathimatics/Math1/chapter 1/Untitled",
     "Mathimatics/Math1/chapter 1/volume 1",
-    "Mathimatics/Math1/chapter 1",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
