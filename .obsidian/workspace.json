@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-13.md",
+                "file": "Programming/substract 2/dart/Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-13"
+              "title": "Functions"
             }
           }
         ],
@@ -230,8 +230,13 @@
   },
   "active": "4b8819a9a1a7742b",
   "lastOpenFiles": [
-    "daily/2025-09-12.md",
+    "Programming/substract 2/dart/Generics.md",
+    "Programming/substract 2/dart/Functions.md",
+    "Programming/substract 2/Untitled.md",
+    "Programming/substract 2/dart",
+    "Programming/substract 2/Архитектура компьютера.md",
     "daily/2025-09-13.md",
+    "daily/2025-09-12.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
@@ -252,10 +257,6 @@
     "daily/2025-09-11.md",
     "daily/2025-09-10.md",
     "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
-    "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
-    "daily/2025-09-09.md",
-    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
@@ -268,7 +269,6 @@
     "Mathimatics/Math1/chapter 1/Untitled",
     "Mathimatics/Math1/chapter 1/volume 1",
     "Mathimatics/Math1/chapter 1",
-    "Mathimatics/Math1",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
