@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/dart/Functions.md",
-                "mode": "source",
+                "file": "Programming/substract 2/dart/Future Function.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions"
+              "title": "Future Function"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "4b8819a9a1a7742b",
   "lastOpenFiles": [
-    "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/dart/Functions.md",
+    "Programming/substract 2/dart/Future Function.md",
+    "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/Untitled.md",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера.md",
@@ -256,7 +257,6 @@
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "daily/2025-09-11.md",
     "daily/2025-09-10.md",
-    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
