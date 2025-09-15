@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66f9a7508e60db38",
+        "id": "61ac833932ceb2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "86d7da7157439b29",
+            "id": "fc643c2b302bf6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-08-09.md",
+                "file": "Economics/study/learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-09"
-            }
-          },
-          {
-            "id": "e2a2837d166f0fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4"
-            }
-          },
-          {
-            "id": "ee412b03d6b760dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-09-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-10"
-            }
-          },
-          {
-            "id": "7c96f955f9570e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-09-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-15"
+              "title": "learning"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,12 +171,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c96f955f9570e49",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
-    "daily/2025-09-15.md",
+    "Economics/study/learning.md",
     "conflict-files-obsidian-git.md",
+    "daily/2025-08-09.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
     "daily/2025-09-10.md",
+    "daily/2025-09-15.md",
+    "daily/2025-09-13.md",
+    "daily/2025-09-12.md",
+    "daily/2025-09-11.md",
+    "Projects/PayЧек/Чек.md",
+    "Projects/PayЧек",
+    "Programming/substract 2/dart/Generics.md",
+    "Programming/substract 2/dart/Future Function.md",
+    "Programming/substract 2/dart/Functions.md",
+    "Programming/substract 2/dart",
+    "Programming/substract 2/Untitled.md",
+    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
     "Jurisprudence/themes/Вопросы/Что такое политика.md",
     "Jurisprudence/themes/Вопросы",
     "Jurisprudence/themes",
@@ -263,25 +203,12 @@
     "daily/2025-08-28.md",
     "daily/2025-08-27.md",
     "daily/2025-08-26.md",
-    "Projects/Blog 1/note 1.md",
     "Projects/Blog 1",
-    "Programming/Программирование/2 (Maksim)/Урок 1/Урок 1 Целепологание.md",
     "Programming/Программирование/2 (Maksim)/Урок 1",
-    "Programming/Программирование/2 (Maksim)/index.md",
     "Programming/Программирование/2 (Maksim)",
-    "Programming/Программирование/1 (Maksim)/themes/condition principle/Основные принципы для понятных условий.md",
-    "Programming/Программирование/1 (Maksim)/themes/condition principle/Залачи арифметика.md",
-    "Programming/Программирование/1 (Maksim)/themes/condition principle/Задачи начало.md",
-    "Programming/Программирование/1 (Maksim)/Урок 7/Условия.md",
-    "Programming/Программирование/1 (Maksim)/Урок 7/Пример.md",
-    "Programming/Программирование/1 (Maksim)/Урок 7/Циклы.md",
-    "Programming/Программирование/1 (Maksim)/Урок 7/Остаток от деления.md",
-    "Programming/Программирование/1 (Maksim)/Урок 7/code.md",
     "Programming/Программирование/1 (Maksim)/themes/condition principle",
     "Programming/Программирование/1 (Maksim)/Урок 7",
     "Programming/Программирование/1 (Maksim)/Урок 4",
-    "Programming/Программирование/1 (Maksim)/Урок 8",
-    "Programming/Программирование/1 (Maksim)/Урок 6",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
