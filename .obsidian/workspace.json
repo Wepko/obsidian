@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/dart/Generics.md",
+                "file": "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "Синтаксис GetX controller"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "c528d53c34364af6",
   "lastOpenFiles": [
-    "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/Generics.md",
+    "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/Способы разделение компонента.md",
     "Programming/substract 2/dart/Сравнение/В чем разница final vs const.md",
     "Programming/substract 2/dart/Functions.md",

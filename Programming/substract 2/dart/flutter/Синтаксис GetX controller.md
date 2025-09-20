@@ -79,3 +79,135 @@ final controller = Provider.of<ReceiptController>(context, listen: false);
 `Get.find<ReceiptController>()` говорит: *"Найди в контейнере зависимостей экземпляр класса ReceiptController и верни его как объект этого типа"*.
 
 Угловые скобки `<T>` нужны для указания **какой именно тип** мы хотим получить, точно так же как в вашем примере с `Box<String>` и `Box<int>`.
+
+---
+## Сравнение с csharp
+Отличный вопрос! В C# аналогичная строка выглядела бы очень похоже, но с некоторыми особенностями синтаксиса и используемых технологий.
+
+## Прямой аналог с использованием Dependency Injection
+
+### 1. **С использованием Microsoft.Extensions.DependencyInjection** (наиболее близкий аналог):
+
+```csharp
+// Регистрация в Startup.cs или Program.cs
+services.AddScoped<ReceiptController>();
+// или
+services.AddSingleton<ReceiptController>();
+
+// Получение зависимости (аналог Get.find<ReceiptController>())
+var controller = serviceProvider.GetService<ReceiptController>();
+// или с гарантией non-null
+var controller = serviceProvider.GetRequiredService<ReceiptController>();
+```
+
+### 2. **С использованием популярных DI-контейнеров** (Autofac, Ninject):
+
+```csharp
+// Autofac
+var controller = container.Resolve<ReceiptController>();
+
+// Ninject  
+var controller = kernel.Get<ReceiptController>();
+```
+
+## Более детальное сравнение
+
+### Dart/GetX:
+```dart
+// Регистрация
+Get.put(ReceiptController());
+
+// Получение
+final controller = Get.find<ReceiptController>();
+```
+
+### C#/.NET:
+```csharp
+// Регистрация (в Startup.cs)
+services.AddScoped<ReceiptController>();
+
+// Получение (в конструкторе или методе)
+public class SomeService
+{
+    private readonly ReceiptController _controller;
+    
+    public SomeService(ReceiptController controller)
+    {
+        _controller = controller; // Constructor injection
+    }
+    
+    public void SomeMethod()
+    {
+        var controller = serviceProvider.GetRequiredService<ReceiptController>();
+    }
+}
+```
+
+## Ключевые различия в подходах
+
+### 1. **Стиль инъекции**:
+- **Dart/GetX**: Service Locator pattern (`Get.find<T>()`)
+- **C#**: Чаще Constructor Injection (более предпочтительно)
+
+### 2. **Конфигурация**:
+- **GetX**: `Get.put(controller)` - явная регистрация
+- **C#**: `services.AddScoped<T>()` - конфигурация в отдельном месте
+
+### 3. **Lifetime management**:
+- **GetX**: По умолчанию singleton-like
+- **C#**: Явное указание lifetime (`AddSingleton`, `AddScoped`, `AddTransient`)
+
+## Полный пример на C#
+
+```csharp
+// ReceiptController.cs
+public class ReceiptController
+{
+    public void DeleteReceipt(int id) => /* implementation */;
+    public List<Receipt> Receipts { get; set; }
+}
+
+// Startup.cs или Program.cs
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddScoped<ReceiptController>();
+
+// Где-то в коде (Service Locator pattern - не лучшая практика в C#)
+var controller = serviceProvider.GetRequiredService<ReceiptController>();
+controller.DeleteReceipt(123);
+
+// Лучший подход в C# - Constructor Injection
+public class ReceiptService
+{
+    private readonly ReceiptController _controller;
+    
+    public ReceiptService(ReceiptController controller)
+    {
+        _controller = controller;
+    }
+    
+    public void ProcessReceipts()
+    {
+        foreach (var receipt in _controller.Receipts)
+        {
+            // работа с receipt
+        }
+    }
+}
+```
+
+## Итог
+
+Строка `Get.find<ReceiptController>()` в C# чаще всего выглядела бы как:
+
+```csharp
+// Service Locator (аналог GetX)
+var controller = serviceProvider.GetRequiredService<ReceiptController>();
+
+// Или через конструктор (более идиоматично для C#)
+public class MyClass(ReceiptController controller)
+{
+    // controller доступен автоматически
+}
+```
+
+C# предпочитает **Constructor Injection** над **Service Locator**, в то время как GetX в Dart часто использует Service Locator pattern для простоты.
