@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f0815e6f7be4b52",
+        "id": "1c91051160f9afc6",
         "type": "tabs",
         "children": [
           {
-            "id": "4555fb881f3f60c2",
+            "id": "d18be01062d28926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-11.md",
+                "file": "daily/2025-09-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-11"
-            }
-          },
-          {
-            "id": "687fabeccf492139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "volume 31"
-            }
-          },
-          {
-            "id": "4b8819a9a1a7742b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/PayЧек/Чек.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Чек"
+              "title": "2025-09-20"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Эффект богатства",
+                "query": "подсчет",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 454.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -228,36 +179,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b8819a9a1a7742b",
+  "active": "d18be01062d28926",
   "lastOpenFiles": [
-    "Programming/substract 2/dart/Future Function.md",
-    "Projects/PayЧек/Чек.md",
-    "Projects/PayЧек",
-    "Programming/substract 2/dart/Functions.md",
-    "Programming/substract 2/dart/Generics.md",
-    "Programming/substract 2/Untitled.md",
-    "Programming/substract 2/dart",
-    "Programming/substract 2/Архитектура компьютера.md",
-    "daily/2025-09-13.md",
-    "daily/2025-09-12.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
+    "daily/2025-09-20.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между эффектом богатства и дохода.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между совокупным спросом и расходами.md",
+    "Economics/study/Экономическая теория/theme/Ситуации/Рассмотрим следующие ситуации.md",
+    "Programming/substract/laravel/acwa/lesson/11-es.md",
+    "lk.samgtu/VKR/notes/step 4/4.2.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
-    "conflict-files-obsidian-git.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/2.md",
+    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/volume 28.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/Untitled 5.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 28/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 27/volume 27.md",
+    "Economics/study/Экономическая теория/volumes/volume 27/Показатели СНС.md",
+    "Economics/study/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "daily/2025-09-11.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
+    "Projects/PayЧек",
+    "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
