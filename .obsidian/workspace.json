@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
+                "file": "Programming/substract 2/dart/Сравнение/В чем разница final vs const.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Верстка базовые компоненты"
+              "title": "В чем разница final vs const"
             }
           }
         ],
@@ -206,12 +206,15 @@
   },
   "active": "c528d53c34364af6",
   "lastOpenFiles": [
-    "Programming/substract 2/dart/Future Function.md",
+    "Programming/substract 2/dart/Functions.md",
+    "Programming/substract 2/dart/Сравнение/В чем разница final vs const.md",
+    "Programming/substract 2/dart/ключевое слово final.md",
+    "Programming/substract 2/dart/Сравнение",
     "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
+    "Programming/substract 2/dart/Future Function.md",
     "Programming/substract 2/dart/flutter",
     "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/dart/Namespace.md",
-    "Programming/substract 2/dart/Functions.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-09-20.md",
     "daily/2025-09-15.md",
@@ -231,8 +234,6 @@
     "Economics/study/Экономическая теория/volumes/volume 28/Untitled 5.md",
     "Economics/study/Экономическая теория/volumes/volume 28/5.md",
     "Economics/study/Экономическая теория/volumes/volume 28/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/2.md",
     "Projects/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
@@ -244,7 +245,6 @@
     "Programming/Программирование/1 (Maksim)",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
-    "Mathimatics/Math1/chapter 1/Untitled",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
