@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PayЧек/Чек.md",
+                "file": "Projects/PayЧек/FastAPI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Чек"
+              "title": "FastAPI"
             }
           }
         ],
@@ -206,6 +206,8 @@
   },
   "active": "c528d53c34364af6",
   "lastOpenFiles": [
+    "Projects/PayЧек/Чек.md",
+    "Projects/PayЧек/FastAPI.md",
     "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/dart/Способы разделение компонента.md",
@@ -232,8 +234,6 @@
     "lk.samgtu/VKR/notes/step 4/4.2.md",
     "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
     "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/volume 28.md",
-    "Economics/study/Экономическая теория/volumes/volume 28/Untitled 5.md",
     "Projects/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
