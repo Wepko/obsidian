@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Namespace"
             }
-          },
-          {
-            "id": "1f8b29f855dd17c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f8b29f855dd17c1",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Programming/substract 2/dart/Namespace.md",
