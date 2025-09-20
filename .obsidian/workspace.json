@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "2025-09-20"
             }
+          },
+          {
+            "id": "c528d53c34364af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/substract 2/dart/Namespace.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Namespace"
+            }
+          },
+          {
+            "id": "1f8b29f855dd17c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,10 +228,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d18be01062d28926",
+  "active": "1f8b29f855dd17c1",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
+    "conflict-files-obsidian-git.md",
+    "Programming/substract 2/dart/Namespace.md",
     "daily/2025-09-20.md",
+    "daily/2025-09-15.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
@@ -204,9 +256,6 @@
     "Economics/study/Экономическая теория/volumes/volume 27/volume 27.md",
     "Economics/study/Экономическая теория/volumes/volume 27/Показатели СНС.md",
     "Economics/study/Экономическая теория/volumes/volume 27/Номинальный и реальный ВВП.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
     "Projects/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
