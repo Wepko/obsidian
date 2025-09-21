@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PayЧек/FastAPI.md",
-                "mode": "source",
+                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FastAPI"
+              "title": "volume 31"
             }
           }
         ],
@@ -206,8 +206,14 @@
   },
   "active": "c528d53c34364af6",
   "lastOpenFiles": [
-    "Projects/PayЧек/Чек.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Projects/PayЧек/FastAPI.md",
+    "Projects/PayЧек/Чек.md",
     "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/dart/Способы разделение компонента.md",
@@ -228,12 +234,6 @@
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между эффектом богатства и дохода.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между совокупным спросом и расходами.md",
-    "Economics/study/Экономическая теория/theme/Ситуации/Рассмотрим следующие ситуации.md",
-    "Programming/substract/laravel/acwa/lesson/11-es.md",
-    "lk.samgtu/VKR/notes/step 4/4.2.md",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
-    "lk.samgtu/VKR/notes/step 1/2 Примерное содержание.md",
     "Projects/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
