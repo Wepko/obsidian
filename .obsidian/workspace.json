@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-23.md",
+                "file": "Projects/System Eco/LiveТрекер/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "Untitled"
             }
           }
         ],
@@ -206,15 +206,18 @@
   },
   "active": "c528d53c34364af6",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "daily/2025-09-23.md",
+    "Projects/System Eco/LiveТрекер/Untitled.md",
+    "Projects/System Eco/LiveТрекер",
+    "Projects/System Eco",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Projects/PayЧек/FastAPI.md",
-    "Projects/PayЧек/Чек.md",
+    "Projects/System Eco/PayЧек/FastAPI.md",
+    "Projects/System Eco/PayЧек/Чек.md",
     "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/Generics.md",
     "Programming/substract 2/dart/Способы разделение компонента.md",
@@ -233,16 +236,13 @@
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
-    "Projects/PayЧек",
+    "Projects/System Eco/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
     "Programming/plan",
     "Programming/Программирование/2 (Maksim)/Урок 1",
-    "Programming/Программирование/2 (Maksim)",
-    "Programming/Программирование/1 (Maksim)",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Programming/substract/laravel/acwa/images/unit.png",
