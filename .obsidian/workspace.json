@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-                "mode": "preview",
+                "file": "daily/2025-09-23.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 31"
+              "title": "2025-09-23"
             }
           }
         ],
@@ -206,12 +206,13 @@
   },
   "active": "c528d53c34364af6",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "daily/2025-09-23.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Projects/PayЧек/FastAPI.md",
     "Projects/PayЧек/Чек.md",
     "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
@@ -233,7 +234,6 @@
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/low1.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница между эффектом богатства и дохода.md",
     "Projects/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
