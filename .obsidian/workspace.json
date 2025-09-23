@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/System Eco/LiveТрекер/Мысли.md",
-                "mode": "preview",
+                "file": "Projects/System Eco/LiveТрекер/Untitled.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Мысли"
+              "title": "Untitled"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "a303795a039ff01c",
   "lastOpenFiles": [
+    "Projects/System Eco/LiveТрекер/Мысли.md",
+    "Projects/System Eco/LiveТрекер/Untitled.md",
     "daily/2025-09-20.md",
     "daily/2025-09-23.md",
-    "Projects/System Eco/LiveТрекер/Мысли.md",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
@@ -210,7 +211,6 @@
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest2.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest1.md",
     "Projects/System Eco/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
