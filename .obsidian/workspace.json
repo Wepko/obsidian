@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c91051160f9afc6",
+        "id": "993dd4c8a4ef8109",
         "type": "tabs",
         "children": [
           {
-            "id": "d18be01062d28926",
+            "id": "a303795a039ff01c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-20.md",
-                "mode": "source",
+                "file": "Projects/System Eco/LiveТрекер/Мысли.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-20"
-            }
-          },
-          {
-            "id": "c528d53c34364af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-09-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "Мысли"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c528d53c34364af6",
+  "active": "a303795a039ff01c",
   "lastOpenFiles": [
-    "Projects/System Eco/LiveТрекер/Untitled.md",
+    "daily/2025-09-20.md",
     "daily/2025-09-23.md",
+    "Projects/System Eco/LiveТрекер/Мысли.md",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
@@ -230,7 +206,6 @@
     "Programming/substract 2/dart/flutter",
     "Programming/substract 2/dart/Namespace.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-09-20.md",
     "daily/2025-09-15.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
