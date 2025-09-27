@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/learning.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "learning"
+              "title": "Untitled"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "a303795a039ff01c",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
     "Economics/study/learning.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/Untitled.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
+    "Economics/study/Экономическая теория/Список ключевых графиков.md",
     "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
     "Economics/study/Экономическая теория/И Того.md",
     "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
@@ -208,7 +210,6 @@
     "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
     "Projects/System Eco/PayЧек/FastAPI.md",
     "Projects/System Eco/PayЧек/Чек.md",
-    "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/Сравнение",
     "Programming/substract 2/dart/flutter",
     "Projects/System Eco/PayЧек",
@@ -217,7 +218,6 @@
     "Programming/substract 2",
     "Untitled 2.canvas",
     "Programming/plan",
-    "Programming/Программирование/2 (Maksim)/Урок 1",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Programming/substract/laravel/acwa/images/unit.png",
