@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+                "file": "Economics/study/learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 32"
+              "title": "learning"
             }
           }
         ]
@@ -181,10 +181,15 @@
   },
   "active": "a303795a039ff01c",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/Список ключевых графиков.md",
+    "Economics/study/learning.md",
+    "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
+    "Economics/study/Экономическая теория/И Того.md",
+    "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
     "daily/2025-09-27.md",
     "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
     "Programming/substract 2/Архитектура компьютера.md",
@@ -204,11 +209,6 @@
     "Projects/System Eco/PayЧек/FastAPI.md",
     "Projects/System Eco/PayЧек/Чек.md",
     "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
-    "Programming/substract 2/dart/Generics.md",
-    "Programming/substract 2/dart/Способы разделение компонента.md",
-    "Programming/substract 2/dart/Сравнение/В чем разница final vs const.md",
-    "Programming/substract 2/dart/Functions.md",
-    "Programming/substract 2/dart/ключевое слово final.md",
     "Programming/substract 2/dart/Сравнение",
     "Programming/substract 2/dart/flutter",
     "Projects/System Eco/PayЧек",
