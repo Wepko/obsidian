@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-09-24.md",
+                "file": "daily/2025-09-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-24"
+              "title": "2025-09-27"
             }
           }
         ]
@@ -181,8 +181,11 @@
   },
   "active": "a303795a039ff01c",
   "lastOpenFiles": [
-    "Projects/System Eco/LiveТрекер/Untitled.md",
+    "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
+    "daily/2025-09-27.md",
+    "Programming/substract 2/Архитектура компьютера.md",
     "daily/2025-09-24.md",
+    "Projects/System Eco/LiveТрекер/Untitled.md",
     "Projects/System Eco/LiveТрекер/Мысли.md",
     "daily/2025-09-20.md",
     "daily/2025-09-23.md",
@@ -203,14 +206,11 @@
     "Programming/substract 2/dart/Functions.md",
     "Programming/substract 2/dart/ключевое слово final.md",
     "Programming/substract 2/dart/Сравнение",
-    "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
     "Programming/substract 2/dart/Future Function.md",
     "Programming/substract 2/dart/flutter",
     "Programming/substract 2/dart/Namespace.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-09-15.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest4.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/quest3.md",
     "Projects/System Eco/PayЧек",
     "Programming/substract 2/dart",
     "Programming/substract 2/Архитектура компьютера",
