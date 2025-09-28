@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
+                "file": "Economics/study/Формализованая экономика/Задачи/Экономические задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Экономические задачи"
             }
           }
         ]
@@ -179,11 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "07c5194c2edf2fa5",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
+    "Economics/study/Формализованая экономика/Задачи/Экономические задачи.md",
+    "Economics/study/Формализованая экономика/Задачи",
+    "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/3.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/26 Крах стран переселенческого капитализма.md",
@@ -206,8 +209,6 @@
     "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
     "Economics/study/Экономическая теория/И Того.md",
     "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
     "Programming/substract 2/dart/Сравнение",
@@ -217,7 +218,6 @@
     "Programming/substract 2/Архитектура компьютера",
     "Programming/substract 2",
     "Untitled 2.canvas",
-    "Programming/plan",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Programming/substract/laravel/acwa/images/unit.png",
