@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "993dd4c8a4ef8109",
+        "id": "11da47dd0671a900",
         "type": "tabs",
         "children": [
           {
-            "id": "a303795a039ff01c",
+            "id": "07c5194c2edf2fa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/Untitled.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "volume 32"
             }
           }
         ]
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 468.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -179,37 +179,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a303795a039ff01c",
+  "active": "07c5194c2edf2fa5",
   "lastOpenFiles": [
-    "Economics/study/learning.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/26 Крах стран переселенческого капитализма.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/25 Страны переселенческого капитализма II.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/24 Страны переселенческого капитализма I.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/21 Технологий приводит к экономическим кризисам.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/20 Технологические уклады.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/17 Мигранты и отдача капитала.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/16.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/15.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/14 Ответы на вопросы.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/13 Разбор экономики РФ.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/9 Санкции, валютный кризис и кто на самом деле пострадает в России.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/7 Как сохранить деньги в текущей экономической ситуации в России.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/5 Экономические мысли - никто не знает экономику.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/4 Российская экономика - экономика карманного бильярда.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/Untitled.md",
+    "Economics/study/learning.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Economics/study/Экономическая теория/Список ключевых графиков.md",
     "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
     "Economics/study/Экономическая теория/И Того.md",
     "Economics/study/Экономическая теория/volumes/volume 37/volume 37.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/7.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
     "daily/2025-09-27.md",
-    "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
-    "Programming/substract 2/Архитектура компьютера.md",
-    "daily/2025-09-24.md",
-    "Projects/System Eco/LiveТрекер/Untitled.md",
-    "Projects/System Eco/LiveТрекер/Мысли.md",
-    "daily/2025-09-20.md",
-    "daily/2025-09-23.md",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/questions/2.md",
-    "Projects/System Eco/PayЧек/FastAPI.md",
-    "Projects/System Eco/PayЧек/Чек.md",
     "Programming/substract 2/dart/Сравнение",
     "Programming/substract 2/dart/flutter",
     "Projects/System Eco/PayЧек",
