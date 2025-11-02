@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/System Eco/PayЧек/FastAPI.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FastAPI"
-            }
-          },
-          {
-            "id": "24f3ef088f60aaf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-11-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-02"
+              "title": "volume 33"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24f3ef088f60aaf1",
+  "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
+    "Projects/System Eco/PayЧек/FastAPI.md",
     "daily/2025-11-02.md",
     "Projects/System Eco/PayЧек/Чек.md",
     "Projects/Clover/Index.md",
@@ -216,7 +200,6 @@
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/3.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/26 Крах стран переселенческого капитализма.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/25 Страны переселенческого капитализма II.md",
@@ -225,14 +208,6 @@
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/20 Технологические уклады.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/17 Мигранты и отдача капитала.md",
     "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/16.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/15.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/14 Ответы на вопросы.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/13 Разбор экономики РФ.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/9 Санкции, валютный кризис и кто на самом деле пострадает в России.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/7 Как сохранить деньги в текущей экономической ситуации в России.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/5 Экономические мысли - никто не знает экономику.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/4 Российская экономика - экономика карманного бильярда.md",
-    "Economics/study/learning.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
