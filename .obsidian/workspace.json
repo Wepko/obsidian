@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
-                "mode": "source",
+                "file": "IT-центров России.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 34"
+              "title": "IT-центров России"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Economics/study/Научно-публитистичкеская экономика/Институты.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/learning.md",
     "Economics/study/Экономическая теория/rezume/part 9.md",
     "Economics/study/Экономическая теория/rezume/part 8.md",
@@ -208,9 +211,6 @@
     "Economics/study/Формализованая экономика/Задачи/Экономические задачи.md",
     "Economics/study/Формализованая экономика/Задачи",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
@@ -229,7 +229,6 @@
     "Programming/substract/laravel/acwa/images/master_slave_cqrs.png",
     "Programming/substract/laravel/acwa/images/master_slave.png",
     "Untitled 3.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
