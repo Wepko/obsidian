@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/projects/Как применить экономику для заработка.md",
+                "file": "Economics/projects/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как применить экономику для заработка"
+              "title": "Untitled"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
-    "Economics/projects/Управление личными финансами как государство.md",
     "Economics/projects/Как применить экономику для заработка.md",
+    "Economics/projects/Untitled.md",
+    "Economics/projects/Управление личными финансами как государство.md",
     "Economics/projects/plan.md",
     "IT-центров России.md",
     "Untitled.canvas",
@@ -210,7 +211,6 @@
     "Projects/System Eco/PayЧек/FastAPI.md",
     "daily/2025-11-02.md",
     "Projects/System Eco/PayЧек/Чек.md",
-    "Projects/Clover/Index.md",
     "Economics/study/Формализованая экономика/Задачи",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Projects/System Eco/LiveТрекер",
