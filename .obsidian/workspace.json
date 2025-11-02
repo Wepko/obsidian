@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-10-24.md",
+                "file": "Projects/System Eco/PayЧек/FastAPI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-24"
+              "title": "FastAPI"
+            }
+          },
+          {
+            "id": "24f3ef088f60aaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-11-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f45114818598356e",
+  "active": "24f3ef088f60aaf1",
   "lastOpenFiles": [
-    "Economics/study/Формализованая экономика/Задачи/Экономические задачи.md",
+    "daily/2025-11-02.md",
+    "Projects/System Eco/PayЧек/Чек.md",
+    "Projects/Clover/Index.md",
     "daily/2025-10-24.md",
+    "Economics/study/Формализованая экономика/Задачи/Экономические задачи.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Economics/study/Формализованая экономика/Задачи",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
@@ -206,9 +234,6 @@
     "Economics/study/Теория экономического роста и управление капиалом/Экономические рассуждения/4 Российская экономика - экономика карманного бильярда.md",
     "Economics/study/learning.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
-    "Economics/study/Экономическая теория/theme/Фундамент науки и истоки экономики.md",
-    "Economics/study/Экономическая теория/И Того.md",
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
     "Programming/substract 2/dart/Сравнение",
