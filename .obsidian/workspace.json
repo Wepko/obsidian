@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/theme/Вопросы/Что такое вклад и депозит.md",
-                "mode": "preview",
+                "file": "Economics/study/Экономическая теория/theme/Разбор/вклад и депозит.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Что такое вклад и депозит"
+              "title": "вклад и депозит"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/theme/Вопросы/Что такое вклад и депозит.md",
+    "Economics/study/Экономическая теория/theme/Разбор/вклад и депозит.md",
+    "Economics/study/Экономическая теория/theme/Разбор",
     "Economics/study/Экономическая теория/theme/Экономические теории до и после.md",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions/8.md",
@@ -207,8 +210,6 @@
     "Economics/study/Экономическая теория/rezume/part 6.md",
     "Economics/study/Экономическая теория/volumes/volume 33/volume 33.md",
     "Economics/study/Экономическая теория/theme/Эффект вытеснения в макроэкономике.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/volume 32.md",
-    "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 33/tasks",
     "Economics/study/Экономическая теория/volumes/volume 33/questions_repeat",
     "Economics/study/Экономическая теория/volumes/volume 33/questions_descussion",
@@ -217,7 +218,6 @@
     "Projects/System Eco/LiveТрекер",
     "Projects/System Eco",
     "Programming/substract 2/dart/Сравнение",
-    "Programming/substract 2/dart/flutter",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
