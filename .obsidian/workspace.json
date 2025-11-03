@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/projects/Как применить экономику для заработка.md",
-                "mode": "source",
+                "file": "Economics/projects/Инвестиции на международной арене без риска.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Как применить экономику для заработка"
+              "title": "Инвестиции на международной арене без риска"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Economics/projects/Как применить экономику для заработка.md",
+    "Economics/projects/Инвестиции на международной арене без риска.md",
     "Economics/projects/Управление личными финансами как государство.md",
     "Economics/projects/Спортзал как статья расходов в государстве.md",
-    "Economics/projects/Как применить экономику для заработка.md",
     "Economics/projects/plan.md",
     "IT-центров России.md",
     "Untitled.canvas",
@@ -210,7 +211,6 @@
     "Economics/study/Экономическая теория/volumes/volume 33/questions/1.md",
     "Projects/System Eco/PayЧек/FastAPI.md",
     "daily/2025-11-02.md",
-    "Projects/System Eco/PayЧек/Чек.md",
     "Economics/study/Формализованая экономика/Задачи",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Projects/System Eco/LiveТрекер",
