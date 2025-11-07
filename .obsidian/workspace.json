@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 35/questions/5.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 35/volume 35.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5"
+              "title": "volume 35"
             }
           }
         ]
@@ -179,14 +179,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "f45114818598356e",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 36/Untitled",
+    "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/6.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
+    "Untitled.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/3.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/2.md",
+    "Economics/study/Экономическая теория/volumes/volume 35/questions/5.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "Economics/study/Экономическая теория/volumes/volume 35/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/5.md",
     "daily/2025-11-07.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
@@ -201,13 +209,6 @@
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
     "Economics/study/Экономическая теория/volumes/volume 34/questions/7.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Сравнение/Разница и сходство ссуды и кредита.md",
     "Economics/study/Экономическая теория/theme/Разбор",
     "Economics/study/Экономическая теория/volumes/volume 34/questions",
     "Untitled.canvas",
@@ -217,7 +218,6 @@
     "Economics/study/Формализованая экономика/Задачи",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Projects/System Eco/LiveТрекер",
-    "Projects/System Eco",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
