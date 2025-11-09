@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/rezume/part 8.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "part 8"
+              "title": "3"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Равновесный ",
+                "query": "Совокупное предложе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,10 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "fc643c2b302bf6d9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Economics/study/Экономическая теория/rezume/part 10.md",
+    "Economics/study/Экономическая теория/rezume/part 9.md",
     "Economics/study/Экономическая теория/rezume/part 8.md",
+    "conflict-files-obsidian-git.md",
     "Projects/System Eco/PayЧек/Чек.md",
     "Projects/System Eco/PayЧек/FastAPI.md",
     "Projects/System Eco/LiveТрекер/Мысли.md",
@@ -205,8 +208,6 @@
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Economics/study/Экономическая теория/volumes/volume 34/questions/8.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions",
     "Economics/study/Экономическая теория/theme/Разбор",
     "delay/Pasted image 20250731155433.png",
