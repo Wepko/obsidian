@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Math1/chapter 3/Свойства уравнений и их решение.md",
+                "file": "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/5 Ресурсное проклятие убивает науку и образование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Свойства уравнений и их решение"
+              "title": "5 Ресурсное проклятие убивает науку и образование"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "подсчет",
+                "query": "математика",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "title": "2025-06-23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,11 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "f45114818598356e",
   "lastOpenFiles": [
+    "daily/2022-02-14.md",
+    "Courses/Предисловие.md",
+    "IT-центров России.md",
+    "Темы для изучения.md",
+    "Mathimatics/Math1/lndex.md",
+    "Mathimatics/Untitled.md",
+    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
+    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
+    "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
+    "Mathimatics/Math1/А. П. Киселев.md",
+    "Mathimatics/Math1/Разница между переместительным и сочетательным свойствами.md",
+    "Mathimatics/Math1/chapter 3/Свойства уравнений и их решение.md",
     "Mathimatics/Math1/chapter 4",
     "daily/2025-11-15.md",
-    "Mathimatics/Math1/chapter 3/Свойства уравнений и их решение.md",
     "Mathimatics/Math1/chapter 3",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
@@ -198,18 +210,8 @@
     "Economics/study/Экономическая теория/volumes/volume 35/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 37/questions",
-    "Economics/study/Экономическая теория/volumes/volume 35/volume 35.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
-    "Untitled.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
-    "daily/2025-11-07.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое эконометрика.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое счета национального дохода.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое Рынок.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое Ростовщичество.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
     "Economics/study/Экономическая теория/theme/Разбор",
     "Economics/study/Экономическая теория/volumes/volume 34/questions",
@@ -217,7 +219,6 @@
     "Economics/study/Экономическая теория/volumes/volume 33/tasks",
     "Economics/study/Экономическая теория/volumes/volume 33/questions_repeat",
     "Economics/study/Экономическая теория/volumes/volume 33/questions_descussion",
-    "Economics/study/Формализованая экономика/Задачи",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
