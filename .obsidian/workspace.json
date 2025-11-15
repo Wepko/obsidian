@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Math1/Начало мотивация.md",
+                "file": "Mathimatics/Math1/chapter 4/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Начало мотивация"
+              "title": "index"
             }
           }
         ]
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f45114818598356e",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Mathimatics/План изучения математики с нуля.md",
     "Mathimatics/Math1/Начало мотивация.md",
+    "Mathimatics/Math1/chapter 4/index.md",
+    "Mathimatics/План изучения математики с нуля.md",
     "Economics/study/Экономическая теория/theme/Какая математика нужна экономисту.md",
     "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/5 Ресурсное проклятие убивает науку и образование.md",
     "daily/2022-02-14.md",
@@ -208,7 +209,6 @@
     "daily/2025-11-08.md",
     "Programming/Программирование/Задачи.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 37/questions",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
