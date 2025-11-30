@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-11-30"
             }
+          },
+          {
+            "id": "806de3a450d0ad2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/substract/git/index.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9c29e5ad6fe8f09",
+  "active": "806de3a450d0ad2b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Programming/substract/git/index.md",
     "daily/2025-11-30.md",
     "Programming/substract/git",
@@ -209,7 +235,6 @@
     "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 37/questions",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
