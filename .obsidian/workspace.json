@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Math1/chapter 6/index.md",
+                "file": "Mathimatics/Math1/chapter 6/qwen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "qwen"
             }
           }
         ]
@@ -171,12 +171,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc643c2b302bf6d9",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Mathimatics/Math1/Untitled 1",
+    "Mathimatics/rezume",
+    "Mathimatics/Math1/chapter 7",
+    "Mathimatics/Math1/chapter 6/index.md",
     "Mathimatics/Math1/chapter 6/qwen.md",
     "Mathimatics/Math1/chapter 5/index.md",
     "Mathimatics/Math1/chapter 5/qwen.md",
-    "Mathimatics/Math1/chapter 6/index.md",
     "Mathimatics/Math1/А. П. Киселев.md",
     "Mathimatics/Math1/chapter 6",
     "Mathimatics/Math1/chapter 4/index.md",
@@ -205,10 +208,7 @@
     "Programming/substract 2/dart/Сравнение",
     "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
-    "Programming/substract 2/dart/flutter",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
