@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/study/Math1/chapter 12/index.md",
+                "file": "Mathimatics/projects/1 Мозговой штурм.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1 Мозговой штурм"
             }
           }
         ]
@@ -171,12 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "fc643c2b302bf6d9",
   "lastOpenFiles": [
-    "Mathimatics/study",
-    "Mathimatics/Untitled",
-    "Mathimatics/study/Math1/chapter 12/qwen.md",
     "Mathimatics/study/Math1/chapter 12/index.md",
+    "Mathimatics/projects/1 Мозговой штурм.md",
+    "Mathimatics/study",
+    "Mathimatics/projects",
+    "Mathimatics/study/Math1/chapter 12/qwen.md",
     "Mathimatics/study/Math1/chapter 11/qwen.md",
     "Mathimatics/study/Math1/chapter 12",
     "Mathimatics/study/Math1/chapter 11/index.md",
@@ -200,7 +201,6 @@
     "Mathimatics/study/Math1/chapter 5/index.md",
     "Mathimatics/study/Math1/chapter 5/qwen.md",
     "Mathimatics/study/Math1/А. П. Киселев.md",
-    "Mathimatics/study/Math1/chapter 6",
     "Mathimatics/study/Math1/chapter 4/index.md",
     "Economics/study/Экономическая теория/И Того.md",
     "conflict-files-obsidian-git.md",
