@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "bc538236f0b6f322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathimatics/Math1/chapter 4/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "732e56dc5ac82222",
             "type": "leaf",
             "state": {
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "2025-11-30"
+            }
+          },
+          {
+            "id": "a260ea8bb7caa503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -228,45 +228,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "732e56dc5ac82222",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
     "daily/2025-11-30.md",
-    "daily/2025-11-23.md",
-    "Mathimatics/Math1/Начало мотивация.md",
-    "Mathimatics/Math1/chapter 4/index.md",
-    "Mathimatics/План изучения математики с нуля.md",
-    "Economics/study/Экономическая теория/theme/Какая математика нужна экономисту.md",
-    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/5 Ресурсное проклятие убивает науку и образование.md",
-    "daily/2022-02-14.md",
-    "Courses/Предисловие.md",
-    "IT-центров России.md",
-    "Темы для изучения.md",
-    "Mathimatics/Math1/lndex.md",
-    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
-    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
-    "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
-    "Mathimatics/Math1/А. П. Киселев.md",
-    "Mathimatics/Math1/Разница между переместительным и сочетательным свойствами.md",
-    "Mathimatics/Math1/chapter 3/Свойства уравнений и их решение.md",
-    "Mathimatics/Math1/chapter 4",
-    "daily/2025-11-15.md",
-    "Mathimatics/Math1/chapter 3",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/1.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-11-08.md",
-    "Economics/study/Экономическая теория/volumes/volume 37/questions",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions",
-    "Economics/study/Экономическая теория/theme/Разбор",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions",
+    "Mathimatics/study/rezume/part 1/1.md",
+    "Mathimatics/study/Math1/chapter 9/qwen.md",
+    "Mathimatics/study/Math1/chapter 9/index.md",
+    "Mathimatics/study/Math1/chapter 8/qwen.md",
+    "Mathimatics/study/Math1/chapter 8/index.md",
+    "Mathimatics/study/Math1/chapter 7/qwen.md",
+    "Mathimatics/study/Math1/chapter 7/index.md",
+    "Mathimatics/study/Math1/chapter 6/qwen.md",
+    "Mathimatics/study/Math1/chapter 6/index.md",
+    "Mathimatics/study/Math1/chapter 3/Свойства уравнений и их решение.md",
+    "Mathimatics/study/Math1/chapter 5/qwen.md",
+    "Mathimatics/study/Math1/chapter 5/index.md",
+    "Mathimatics/study/Math1/chapter 4/index.md",
+    "Mathimatics/study/Math1/chapter 11/qwen.md",
+    "Mathimatics/study/Math1/chapter 11/index.md",
+    "Mathimatics/study/Math1/chapter 12/qwen.md",
+    "Mathimatics/study/Math1/chapter 12/index.md",
+    "Mathimatics/study/Math1/chapter 10/qwen.md",
+    "Mathimatics/study/Math1/chapter 10/index.md",
+    "Mathimatics/study/Math1/chapter 1/Математика и искусство минус на минус.md",
+    "Mathimatics/study/Math1/chapter 1/Логика умножения отрицательных чисел.md",
+    "Mathimatics/study/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
+    "Mathimatics/study/rezume/part 1",
+    "Mathimatics/study/rezume/Untitled 1.md",
+    "Mathimatics/study/Math1/Сходства и различия арифметики и алгебры.md",
+    "Mathimatics/study/Math1/chapter 9",
+    "Mathimatics/study/Math1/chapter 8",
+    "Mathimatics/study/Math1/chapter 7",
+    "Mathimatics/study/Math1/chapter 6",
+    "Mathimatics/study/Math1/chapter 3",
+    "Mathimatics/study/Math1/chapter 5",
+    "Mathimatics/study/Math1/chapter 4",
+    "Mathimatics/study/Math1/chapter 11",
+    "Mathimatics/study/Math1/chapter 12",
     "Untitled.canvas",
-    "Economics/study/Экономическая теория/volumes/volume 33/tasks",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions_repeat",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions_descussion",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
