@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Math1/chapter 7/index.md",
+                "file": "Mathimatics/Math1/chapter 8/qwen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "qwen"
             }
           }
         ]
@@ -171,11 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "fc643c2b302bf6d9",
   "lastOpenFiles": [
+    "Mathimatics/Math1/chapter 8/index.md",
+    "Mathimatics/Math1/chapter 8/qwen.md",
+    "Mathimatics/Math1/chapter 7/index.md",
     "Mathimatics/Math1/chapter 8",
     "Mathimatics/Math1/chapter 7/qwen.md",
-    "Mathimatics/Math1/chapter 7/index.md",
     "Mathimatics/Math1/chapter 6/qwen.md",
     "Mathimatics/Math1/Untitled 1",
     "Mathimatics/rezume",
@@ -206,9 +208,7 @@
     "Projects/System Eco/LiveТрекер/Untitled.md",
     "Projects/System Eco/PayЧек",
     "Projects/System Eco/LiveТрекер",
-    "Projects/System Eco",
     "Programming/substract 2/dart/Сравнение/В чем разница final vs const.md",
-    "Programming/substract 2/dart/flutter/Синтаксис GetX controller.md",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
