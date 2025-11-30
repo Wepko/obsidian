@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "61ac833932ceb2cc",
+        "id": "0cb69db039c0a85b",
         "type": "tabs",
         "children": [
           {
-            "id": "fc643c2b302bf6d9",
+            "id": "f45114818598356e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Economics/study/Экономическая теория/И Того.md",
+=======
+                "file": "Mathimatics/Math1/chapter 4/index.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +32,39 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "И Того"
+=======
+              "title": "index"
+            }
+          },
+          {
+            "id": "bc538236f0b6f322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathimatics/Math1/chapter 4/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+>>>>>>> origin/main
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +96,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "математика",
+>>>>>>> origin/main
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +120,46 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a4085ab3a419bf39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b762022d3028dc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-06-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-23"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 308.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -104,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Программирование/Урок 5/Проверка материала.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Проверка материала"
             }
           },
           {
@@ -125,40 +197,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "2c02c89a4a5272c0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "daily/new.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-ghost",
-              "title": "outgoing-link"
-            }
-          },
-          {
-            "id": "82cffaa1f0c5819d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-ghost",
-              "title": "tag"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc643c2b302bf6d9",
+  "active": "bc538236f0b6f322",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Economics/study/Экономическая теория/volumes/volume 32/questions/3.md",
     "Economics/study/Экономическая теория/rezume/part 10.md",
     "Economics/study/Экономическая теория/rezume/part 9.md",
@@ -191,37 +237,65 @@
     "Programming/substract 2/dart/flutter/Верстка базовые компоненты.md",
     "Programming/substract 2/dart/flutter",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/6.md",
+=======
+    "daily/2025-11-23.md",
+    "Mathimatics/Math1/Начало мотивация.md",
+    "Mathimatics/Math1/chapter 4/index.md",
+    "Mathimatics/План изучения математики с нуля.md",
+    "Economics/study/Экономическая теория/theme/Какая математика нужна экономисту.md",
+    "Economics/study/Теория экономического роста и управление капиалом/Управление капиалом/5 Ресурсное проклятие убивает науку и образование.md",
+    "daily/2022-02-14.md",
+    "Courses/Предисловие.md",
+    "IT-центров России.md",
+    "Темы для изучения.md",
+    "Mathimatics/Math1/lndex.md",
+    "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
+    "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
+    "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
+    "Mathimatics/Math1/А. П. Киселев.md",
+    "Mathimatics/Math1/Разница между переместительным и сочетательным свойствами.md",
+    "Mathimatics/Math1/chapter 3/Свойства уравнений и их решение.md",
+    "Mathimatics/Math1/chapter 4",
+    "daily/2025-11-15.md",
+    "Mathimatics/Math1/chapter 3",
+>>>>>>> origin/main
     "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/1.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2025-11-08.md",
+    "Programming/Программирование/Задачи.md",
+    "Economics/study/Экономическая теория/volumes/volume 37/questions",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
+<<<<<<< HEAD
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/3.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/2.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions_descussion",
     "Economics/study/Экономическая теория/volumes/volume 34/questions",
+=======
+>>>>>>> origin/main
     "Economics/study/Экономическая теория/theme/Разбор",
-    "delay/Pasted image 20250731155433.png",
-    "Programming/substract/Pasted image 20230907194244.png",
-    "Programming/substract/Pasted image 20230907113832.png",
-    "Programming/substract/Pasted image 20230907192719.png",
-    "Programming/substract/Pasted image 20230903135254.png",
-    "Programming/substract/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
-    "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
-    "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
+    "Economics/study/Экономическая теория/volumes/volume 34/questions",
+    "Untitled.canvas",
+    "Economics/study/Экономическая теория/volumes/volume 33/tasks",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions_repeat",
+    "Economics/study/Экономическая теория/volumes/volume 33/questions_descussion",
+    "Untitled 2.canvas",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
+    "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
+    "Programming/substract/laravel/acwa/images/two_level_validation.png",
+    "Programming/substract/laravel/acwa/images/saga_events.png",
+    "Programming/substract/laravel/acwa/images/orchestrator.png",
+    "Programming/substract/laravel/acwa/images/oracle_cqrs.png",
+    "Programming/substract/laravel/acwa/images/master_slave_cqrs.png",
+    "Programming/substract/laravel/acwa/images/master_slave.png",
     "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
