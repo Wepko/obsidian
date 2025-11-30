@@ -11,10 +11,24 @@
             "id": "f45114818598356e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/substract/git/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "математика",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Programming/substract/Untitled.md",
+    "Programming/substract/git/index.md",
+    "Programming/substract/git",
+    "Programming/substract/Course/Middle developer.md",
+    "Programming/substract/MySql/note mysql.md",
     "daily/2025-11-30.md",
     "conflict-files-obsidian-git.md",
     "Mathimatics/study/rezume/part 1/1.md",
@@ -189,11 +208,7 @@
     "Mathimatics/study/Math1/chapter 10/qwen.md",
     "Mathimatics/study/Math1/chapter 10/index.md",
     "Mathimatics/study/Math1/chapter 1/Математика и искусство минус на минус.md",
-    "Mathimatics/study/Math1/chapter 1/Логика умножения отрицательных чисел.md",
-    "Mathimatics/study/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
     "Mathimatics/study/rezume/part 1",
-    "Mathimatics/study/rezume/Untitled 1.md",
-    "Mathimatics/study/Math1/Сходства и различия арифметики и алгебры.md",
     "Mathimatics/study/Math1/chapter 9",
     "Mathimatics/study/Math1/chapter 8",
     "Mathimatics/study/Math1/chapter 7",
@@ -202,7 +217,6 @@
     "Mathimatics/study/Math1/chapter 5",
     "Mathimatics/study/Math1/chapter 4",
     "Mathimatics/study/Math1/chapter 11",
-    "Mathimatics/study/Math1/chapter 12",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
