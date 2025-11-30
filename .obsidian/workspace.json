@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/Math1/chapter 9/index.md",
+                "file": "Mathimatics/Math1/chapter 10/qwen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "qwen"
             }
           }
         ]
@@ -173,8 +173,12 @@
   },
   "active": "fc643c2b302bf6d9",
   "lastOpenFiles": [
-    "Mathimatics/Math1/chapter 7/index.md",
+    "Mathimatics/Math1/chapter 10/index.md",
+    "Mathimatics/Math1/chapter 10/qwen.md",
+    "Mathimatics/Math1/chapter 9/qwen.md",
     "Mathimatics/Math1/chapter 9/index.md",
+    "Mathimatics/Math1/chapter 10",
+    "Mathimatics/Math1/chapter 7/index.md",
     "Mathimatics/Math1/chapter 8/index.md",
     "Mathimatics/Math1/chapter 8/qwen.md",
     "Mathimatics/Math1/chapter 9",
@@ -205,10 +209,6 @@
     "Economics/study/Экономическая теория/rezume/part 9.md",
     "Economics/study/Экономическая теория/rezume/part 8.md",
     "Projects/System Eco/PayЧек/Чек.md",
-    "Projects/System Eco/PayЧек/FastAPI.md",
-    "Projects/System Eco/LiveТрекер/Мысли.md",
-    "Projects/System Eco/LiveТрекер/Untitled.md",
-    "Projects/System Eco/PayЧек",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
