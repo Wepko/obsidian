@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "732e56dc5ac82222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-11-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-30"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc538236f0b6f322",
+  "active": "732e56dc5ac82222",
   "lastOpenFiles": [
+    "daily/2025-11-30.md",
     "daily/2025-11-23.md",
     "Mathimatics/Math1/Начало мотивация.md",
     "Mathimatics/Math1/chapter 4/index.md",
@@ -233,7 +258,6 @@
     "Economics/study/Экономическая теория/volumes/volume 36/questions/1.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-11-08.md",
-    "Programming/Программирование/Задачи.md",
     "Economics/study/Экономическая теория/volumes/volume 37/questions",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
