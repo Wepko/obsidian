@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/git/index.md",
-                "mode": "preview",
+                "file": "daily/2025-12-02.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-12-02"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "806de3a450d0ad2b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/substract/git/index.md",
+    "daily/2025-12-02.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-11-30.md",
     "Programming/substract/git",
     "Mathimatics/Math1/chapter 4/index.md",
@@ -234,7 +235,6 @@
     "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
     "Economics/study/Экономическая теория/volumes/volume 36/questions/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 37/questions",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
