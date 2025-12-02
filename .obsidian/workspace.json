@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46b7bae05bc59439",
+        "id": "67ee0682e37ffb4b",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c29e5ad6fe8f09",
+            "id": "70faf88ff8ac66c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-11-30.md",
+                "file": "Programming/substract/git/git pro/chapter 2/Основы git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-30"
-            }
-          },
-          {
-            "id": "806de3a450d0ad2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-12-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "Основы git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "806de3a450d0ad2b",
+  "active": "70faf88ff8ac66c6",
   "lastOpenFiles": [
+    "Programming/substract/git/git pro/index.md",
+    "Programming/substract/git/git pro/chapter 2/Основы git.md",
+    "Programming/substract/git/git pro/chapter 1/Начало работы.md",
+    "Programming/substract/git/git pro/chapter 2",
+    "Programming/substract/git/git pro/chapter 1",
     "Programming/substract/git/index.md",
+    "Programming/substract/git/git pro",
+    "daily/2025-11-30.md",
     "daily/2025-12-02.md",
     "conflict-files-obsidian-git.md",
-    "daily/2025-11-30.md",
     "Programming/substract/git",
     "Mathimatics/Math1/chapter 4/index.md",
     "daily/2025-11-28.md",
@@ -232,17 +213,11 @@
     "Mathimatics/Math1/chapter 4",
     "daily/2025-11-15.md",
     "Mathimatics/Math1/chapter 3",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/4.md",
-    "Economics/study/Экономическая теория/volumes/volume 36/questions/3.md",
     "Economics/study/Экономическая теория/volumes/volume 37/questions",
     "Economics/study/Экономическая теория/volumes/volume 36/questions",
     "Economics/study/Экономическая теория/volumes/volume 35/questions",
     "Economics/study/Экономическая теория/theme/Разбор",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions",
     "Untitled.canvas",
-    "Economics/study/Экономическая теория/volumes/volume 33/tasks",
-    "Economics/study/Экономическая теория/volumes/volume 33/questions_repeat",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
