@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-03.md",
-                "mode": "source",
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-03"
+              "title": "Untitled"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
-    "Programming/substract/git/index.md",
     "daily/2025-12-03.md",
+    "Programming/substract/git/index.md",
     "Programming/substract/Untitled.md",
     "Programming/substract/git",
     "Programming/substract/Course/Middle developer.md",
