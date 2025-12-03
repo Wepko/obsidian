@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/git/index.md",
+                "file": "daily/2025-12-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-12-03"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
-    "Programming/substract/Untitled.md",
     "Programming/substract/git/index.md",
+    "daily/2025-12-03.md",
+    "Programming/substract/Untitled.md",
     "Programming/substract/git",
     "Programming/substract/Course/Middle developer.md",
     "Programming/substract/MySql/note mysql.md",
@@ -207,7 +208,6 @@
     "Mathimatics/study/Math1/chapter 12/index.md",
     "Mathimatics/study/Math1/chapter 10/qwen.md",
     "Mathimatics/study/Math1/chapter 10/index.md",
-    "Mathimatics/study/Math1/chapter 1/Математика и искусство минус на минус.md",
     "Mathimatics/study/rezume/part 1",
     "Mathimatics/study/Math1/chapter 9",
     "Mathimatics/study/Math1/chapter 8",
