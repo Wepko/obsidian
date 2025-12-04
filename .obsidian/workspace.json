@@ -11,10 +11,24 @@
             "id": "4ddd7fadc43c3045",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/substract/git/git pro/chapter 2/Основы git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Основы git"
             }
           }
         ]
@@ -165,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "4ddd7fadc43c3045",
   "lastOpenFiles": [
+    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
     "conflict-files-obsidian-git.md",
     "daily/2025-12-04.md",
     "daily/2025-12-03.md",
     "Programming/substract/Untitled.md",
-    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
     "Programming/substract/git/git pro/chapter 2/Основы git.md",
     "Programming/substract/Linux/Ubuntu/Untitled",
     "Programming/substract/Linux/Ubuntu",
