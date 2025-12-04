@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/git/git pro/chapter 3/material.md",
+                "file": "Programming/substract/git/git pro/chapter 3/test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "material"
+              "title": "test"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "4ddd7fadc43c3045",
   "lastOpenFiles": [
-    "Programming/substract/git/git pro/chapter 2/Основы git.md",
     "Programming/substract/git/git pro/chapter 3/material.md",
+    "Programming/substract/git/git pro/chapter 3/test.md",
+    "Programming/substract/git/git pro/chapter 2/Основы git.md",
     "Programming/substract/git/git pro/chapter 2/material.md",
     "Programming/substract/git/git pro/chapter 3/Ветвление в Git.md",
     "Programming/substract/git/git pro/chapter 2/test.md",
@@ -215,7 +216,6 @@
     "daily/2022-02-14.md",
     "Courses/Предисловие.md",
     "IT-центров России.md",
-    "Темы для изучения.md",
     "Mathimatics/Math1/chapter 4",
     "Untitled.canvas",
     "Untitled 2.canvas",
