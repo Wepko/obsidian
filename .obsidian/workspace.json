@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd47e3ed11451f1d",
+        "id": "6d52127a2ad7daa1",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bde54f09873c15",
+            "id": "12593cbdde3f6a07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-04.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-04"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -179,10 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7bde54f09873c15",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
+    "conflict-files-obsidian-git.md",
     "daily/2025-12-04.md",
+    "daily/2025-12-03.md",
+    "Programming/substract/Untitled.md",
+    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
     "Programming/substract/git/git pro/chapter 2/Основы git.md",
     "Programming/substract/Linux/Ubuntu/Untitled",
     "Programming/substract/Linux/Ubuntu",
@@ -196,7 +199,6 @@
     "Programming/substract/git/git pro",
     "daily/2025-11-30.md",
     "daily/2025-12-02.md",
-    "conflict-files-obsidian-git.md",
     "Programming/substract/git",
     "Mathimatics/Math1/chapter 4/index.md",
     "daily/2025-11-28.md",
@@ -213,8 +215,6 @@
     "Mathimatics/Math1/chapter 1/Зачем нужны одночлены и многочлены в математике.md",
     "Mathimatics/Math1/chapter 1/Логика умножения отрицательных чисел.md",
     "Mathimatics/Math1/chapter 1/Математика и искусство минус на минус.md",
-    "Mathimatics/Math1/А. П. Киселев.md",
-    "Mathimatics/Math1/Разница между переместительным и сочетательным свойствами.md",
     "Mathimatics/Math1/chapter 4",
     "Mathimatics/Math1/chapter 3",
     "Untitled.canvas",
