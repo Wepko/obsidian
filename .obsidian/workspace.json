@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "daily/2025-12-04.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-12-04"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "daily/2025-12-04.md",
     "daily/2025-12-03.md",
     "Programming/substract/git/index.md",
     "Programming/substract/Untitled.md",
@@ -206,8 +208,6 @@
     "Mathimatics/study/Math1/chapter 11/index.md",
     "Mathimatics/study/Math1/chapter 12/qwen.md",
     "Mathimatics/study/Math1/chapter 12/index.md",
-    "Mathimatics/study/Math1/chapter 10/qwen.md",
-    "Mathimatics/study/Math1/chapter 10/index.md",
     "Mathimatics/study/rezume/part 1",
     "Mathimatics/study/Math1/chapter 9",
     "Mathimatics/study/Math1/chapter 8",
