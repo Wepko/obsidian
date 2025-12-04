@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/git/git pro/chapter 5/material.md",
+                "file": "Programming/substract/git/git pro/chapter 5/practica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "material"
+              "title": "practica"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "4ddd7fadc43c3045",
   "lastOpenFiles": [
-    "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
+    "Programming/substract/git/git pro/chapter 5/test.md",
+    "Programming/substract/git/git pro/chapter 5/practica.md",
     "Programming/substract/git/git pro/chapter 5/material.md",
+    "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
     "Programming/substract/git/git pro/chapter 4/test.md",
     "Programming/substract/git/git pro/chapter 5",
     "Programming/substract/git/git pro/chapter 4/material.md",
@@ -215,8 +217,6 @@
     "Mathimatics/Math1/chapter 4/index.md",
     "daily/2025-11-28.md",
     "daily/2025-11-23.md",
-    "Mathimatics/Math1/Начало мотивация.md",
-    "Mathimatics/План изучения математики с нуля.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
