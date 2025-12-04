@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/git/git pro/chapter 5/practica.md",
+                "file": "Programming/substract/git/git pro/chapter 3/material.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "practica"
+              "title": "material"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "4ddd7fadc43c3045",
   "lastOpenFiles": [
-    "Programming/substract/git/git pro/chapter 5/test.md",
+    "Programming/substract/git/git pro/chapter 3/Ветвление в Git.md",
     "Programming/substract/git/git pro/chapter 5/practica.md",
+    "Programming/substract/git/git pro/chapter 5/test.md",
     "Programming/substract/git/git pro/chapter 5/material.md",
     "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
     "Programming/substract/git/git pro/chapter 4/test.md",
@@ -194,7 +195,6 @@
     "Programming/substract/git/git pro/chapter 3/material.md",
     "Programming/substract/git/git pro/chapter 2/Основы git.md",
     "Programming/substract/git/git pro/chapter 2/material.md",
-    "Programming/substract/git/git pro/chapter 3/Ветвление в Git.md",
     "Programming/substract/git/git pro/chapter 2/test.md",
     "Programming/substract/git/git pro/chapter 3",
     "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
