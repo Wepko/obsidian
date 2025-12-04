@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/git/git pro/chapter 3/Справочная информация.md",
+                "file": "Programming/substract/git/themes/Переключаться с одной ветки на другую и.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Справочная информация"
+              "title": "Переключаться с одной ветки на другую и"
             }
           }
         ]
@@ -181,6 +181,9 @@
   },
   "active": "4ddd7fadc43c3045",
   "lastOpenFiles": [
+    "Programming/substract/git/git pro/chapter 3/test.md",
+    "Programming/substract/git/themes/Переключаться с одной ветки на другую и.md",
+    "Programming/substract/git/themes",
     "Programming/substract/git/git pro/chapter 3/material.md",
     "Programming/substract/git/git pro/chapter 3/Справочная информация.md",
     "Programming/substract/git/git pro/chapter 3/Ветвление в Git.md",
@@ -192,7 +195,6 @@
     "Programming/substract/git/git pro/chapter 5",
     "Programming/substract/git/git pro/chapter 4/material.md",
     "Programming/substract/git/git pro/chapter 4/Git на сервере.md",
-    "Programming/substract/git/git pro/chapter 3/test.md",
     "Programming/substract/git/git pro/chapter 4",
     "Programming/substract/git/git pro/chapter 2/Основы git.md",
     "Programming/substract/git/git pro/chapter 2/material.md",
@@ -212,11 +214,9 @@
     "Programming/substract/git/git pro/chapter 2",
     "Programming/substract/git/git pro/chapter 1",
     "Programming/substract/git/index.md",
-    "Programming/substract/git/git pro",
     "daily/2025-11-30.md",
     "daily/2025-12-02.md",
     "Mathimatics/Math1/chapter 4/index.md",
-    "daily/2025-11-28.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
