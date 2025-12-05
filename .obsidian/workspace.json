@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trash/temp 1.md",
+                "file": "daily/2025-12-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "temp 1"
+              "title": "2025-12-05"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "f45114818598356e",
   "lastOpenFiles": [
-    "Untitled.md",
     "Trash/temp 1.md",
+    "daily/2025-12-05.md",
+    "Untitled.md",
     "Trash",
     "Untitled.canvas",
     "daily/2025-12-04.md",
@@ -209,7 +210,6 @@
     "Mathimatics/study/Math1/chapter 4/index.md",
     "Mathimatics/study/Math1/chapter 11/qwen.md",
     "Mathimatics/study/Math1/chapter 11/index.md",
-    "Mathimatics/study/Math1/chapter 12/qwen.md",
     "Mathimatics/study/rezume/part 1",
     "Mathimatics/study/Math1/chapter 9",
     "Mathimatics/study/Math1/chapter 8",
