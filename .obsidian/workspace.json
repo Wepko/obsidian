@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-12-08"
             }
+          },
+          {
+            "id": "2fa25849ce7d4513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +204,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ddd7fadc43c3045",
+  "active": "2fa25849ce7d4513",
   "lastOpenFiles": [
-    "Programming/substract/git/git pro/chapter 4/material.md",
     "daily/2025-12-08.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2025-12-05.md",
+    "Trash/temp 1.md",
+    "Trash",
+    "Programming/substract/git/git pro/chapter 4/material.md",
     "Programming/substract/git/Учебный проект.md",
     "Programming/substract/git/git pro/chapter 3/test.md",
     "Programming/substract/git/git pro/chapter 3/material.md",
@@ -204,7 +233,6 @@
     "Programming/substract/git/git pro/chapter 2/test.md",
     "Programming/substract/git/git pro/chapter 3",
     "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
-    "conflict-files-obsidian-git.md",
     "daily/2025-12-04.md",
     "daily/2025-12-03.md",
     "Programming/substract/Untitled.md",
@@ -213,10 +241,7 @@
     "Programming/substract/Linux",
     "Programming/substract 2/Untitled",
     "Programming/substract/git/git pro/index.md",
-    "Programming/substract/git/git pro/chapter 1/Начало работы.md",
     "Programming/substract/git/git pro/chapter 2",
-    "Programming/substract/git/git pro/chapter 1",
-    "Programming/substract/git/index.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
