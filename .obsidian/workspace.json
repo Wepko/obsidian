@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/study/rezume/part 1/1.md",
+                "file": "Programming/Программирование/1 (Maksim)/Урок 3/Решение задач.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Решение задач"
             }
           },
           {
-            "id": "4bf6f9dbd920ebbf",
+            "id": "8edc900654eea457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-11.md",
-                "mode": "source",
+                "file": "Programming/Программирование/1 (Maksim)/Урок 6/Литерал.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-11"
+              "title": "Литерал"
+            }
+          },
+          {
+            "id": "84ba92bc63ba5159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/1 (Maksim)/Untitled.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "00d2a27143aa3086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/1 (Maksim)/Урок 6/Литерал.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Литерал"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,44 +244,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bf6f9dbd920ebbf",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "daily/2025-12-11.md",
-    "Mathimatics/study/Math1/chapter 12/index.md",
-    "Mathimatics/study/Math1/chapter 11/index.md",
-    "Mathimatics/study/Math1/chapter 10/index.md",
-    "Mathimatics/study/Math1/chapter 9/index.md",
-    "Mathimatics/study/Math1/chapter 8/index.md",
-    "Mathimatics/study/Math1/chapter 7/index.md",
-    "Mathimatics/study/Math1/chapter 6/index.md",
-    "Mathimatics/study/Math1/chapter 5/index.md",
-    "Mathimatics/study/Math1/chapter 4/index.md",
-    "Mathimatics/study/Math1/chapter 3/Свойства уравнений и их решение.md",
-    "Mathimatics/study/Math1/lndex.md",
-    "Mathimatics/study/Math1/Разница между переместительным и сочетательным свойствами.md",
-    "Mathimatics/study/Math1/Начало мотивация.md",
-    "Mathimatics/study/Math1/А. П. Киселев.md",
+    "conflict-files-obsidian-git.md",
+    "Programming/Программирование/1 (Maksim)/Урок 6/Литерал.md",
+    "Programming/Программирование/1 (Maksim)/Untitled.md",
+    "Programming/Программирование/1 (Maksim)/index.md",
+    "Programming/Программирование/1 (Maksim)/Разграничение по терминам.md",
+    "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
+    "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
+    "Programming/Программирование/1 (Maksim)/Урок 4/Что такое теория программирования.md",
+    "Programming/Программирование/1 (Maksim)/Урок 4/Что такое оператор.md",
+    "Programming/Программирование/1 (Maksim)/Урок 4/Урок 4 Базовые конструкциии.md",
+    "Programming/Программирование/1 (Maksim)/Урок 4/Остаток от деления2.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа от исходного кода до выполнения.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Решение задач.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Важное уточнение.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/материал.md",
+    "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
+    "Programming/Программирование/3 (Настя)/index.md",
     "Mathimatics/study/rezume/part 1/1.md",
-    "Mathimatics/study/rezume/Untitled 1.md",
+    "Programming/Программирование/3 (Настя)",
+    "daily/2025-12-11.md",
+    "daily/2025-12-05.md",
+    "daily/2025-12-04.md",
+    "daily/2025-12-03.md",
+    "daily/2025-11-30.md",
+    "Trash/temp 1.md",
+    "Trash",
+    "Programming/substract/git/index.md",
+    "Programming/substract/git",
     "Mathimatics/study/rezume/part 1",
-    "Mathimatics/projects/1 Мозговой штурм.md",
     "Mathimatics/study",
     "Mathimatics/projects",
-    "Mathimatics/study/Math1/chapter 12/qwen.md",
-    "Mathimatics/study/Math1/chapter 11/qwen.md",
     "Mathimatics/study/Math1/chapter 12",
     "Mathimatics/study/Math1/chapter 11",
-    "Mathimatics/study/Math1/chapter 10/qwen.md",
-    "Mathimatics/study/Math1/chapter 9/qwen.md",
     "Mathimatics/study/Math1/chapter 10",
-    "Mathimatics/study/Math1/chapter 8/qwen.md",
     "Mathimatics/study/Math1/chapter 9",
-    "Mathimatics/study/Math1/chapter 8",
-    "Mathimatics/study/Math1/chapter 7/qwen.md",
-    "Mathimatics/study/Math1/chapter 6/qwen.md",
-    "Mathimatics/Math1/Untitled 1",
-    "Mathimatics/study/rezume",
-    "Mathimatics/study/Math1/chapter 5/qwen.md",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
