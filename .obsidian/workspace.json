@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-14.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 35/questions/1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-14"
+              "title": "1"
             }
           }
         ],
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "2fa25849ce7d4513",
   "lastOpenFiles": [
     "daily/2025-12-14.md",
     "conflict-files-obsidian-git.md",
