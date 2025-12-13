@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "daily/2025-12-14.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2025-12-14"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "2fa25849ce7d4513",
   "lastOpenFiles": [
-    "daily/2025-12-08.md",
     "conflict-files-obsidian-git.md",
+    "daily/2025-12-14.md",
+    "daily/2025-12-08.md",
     "daily/2025-12-05.md",
     "Trash/temp 1.md",
     "Trash",
@@ -240,7 +241,6 @@
     "Programming/substract/Linux/Ubuntu",
     "Programming/substract/Linux",
     "Programming/substract 2/Untitled",
-    "Programming/substract/git/git pro/index.md",
     "Programming/substract/git/git pro/chapter 2",
     "Untitled.canvas",
     "Untitled 2.canvas",
