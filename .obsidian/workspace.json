@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "2"
+            }
+          },
+          {
+            "id": "1797caae36f72f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/study/Экономическая теория/theme/Разбор/вклад и депозит.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "вклад и депозит"
             }
           }
         ],
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "математика",
+                "query": "Депозит",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,8 +230,12 @@
   },
   "active": "2fa25849ce7d4513",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Что такое вклад и депозит.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
+    "Economics/study/Экономическая теория/theme/Разбор/вклад и депозит.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/questions/2.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 32/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion",
@@ -232,10 +260,6 @@
     "Programming/substract/git/themes",
     "Programming/substract/git/git pro/chapter 3/Справочная информация.md",
     "Programming/substract/git/git pro/chapter 3/Ветвление в Git.md",
-    "Programming/substract/git/git pro/chapter 5/practica.md",
-    "Programming/substract/git/git pro/chapter 5/test.md",
-    "Programming/substract/git/git pro/chapter 5/material.md",
-    "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
     "Programming/substract/git/git pro/chapter 5",
     "Programming/substract/git/git pro/chapter 4",
     "Programming/substract/git/git pro/chapter 3",
