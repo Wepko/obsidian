@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f6f1c878d87aca1",
+        "id": "fb653213dc7479a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2fee3bcab0d99d",
+            "id": "bbb39e739271b061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/меди-фабрика/Untitled.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 8 X/volume 8.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "volume 8"
             }
           }
         ]
@@ -179,9 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2fee3bcab0d99d",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 21/volume 21.md",
     "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/questions_repeat",
     "Projects/меди-фабрика/Untitled.md",
     "Projects/меди-фабрика",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
@@ -207,7 +209,6 @@
     "daily/2025-12-21.md",
     "Economics/study/Экономическая теория/theme/Разбор/вклад и депозит.md",
     "conflict-files-obsidian-git.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое вклад и депозит.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion",
     "Programming/Программирование/3 (Настя)",
     "Trash",
@@ -216,7 +217,6 @@
     "Programming/substract/git/git pro/chapter 4",
     "Programming/substract/git/git pro/chapter 3",
     "Programming/substract/Linux/Ubuntu/Untitled",
-    "Programming/substract/Linux/Ubuntu",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
