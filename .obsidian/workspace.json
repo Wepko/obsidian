@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/1 (Maksim)/Урок 6/Литерал.md",
-                "mode": "preview",
+                "file": "daily/2025-12-21.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Литерал"
+              "title": "2025-12-21"
             }
           }
         ],
@@ -246,8 +246,15 @@
   },
   "active": "00d2a27143aa3086",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming/Программирование/1 (Maksim)/Урок 4/Классификация операторов statments.md",
+    "daily/2025-12-21.md",
+    "Programming/Программирование/1 (Maksim)/Урок 4/Из чего состоит программа.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа от исходного кода до выполнения.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Важное уточнение.md",
+    "Programming/Программирование/1 (Maksim)/Урок 6/Задачи.md",
     "Programming/Программирование/1 (Maksim)/Урок 6/Литерал.md",
+    "conflict-files-obsidian-git.md",
     "Programming/Программирование/1 (Maksim)/Untitled.md",
     "Programming/Программирование/1 (Maksim)/index.md",
     "Programming/Программирование/1 (Maksim)/Разграничение по терминам.md",
@@ -257,10 +264,7 @@
     "Programming/Программирование/1 (Maksim)/Урок 4/Что такое оператор.md",
     "Programming/Программирование/1 (Maksim)/Урок 4/Урок 4 Базовые конструкциии.md",
     "Programming/Программирование/1 (Maksim)/Урок 4/Остаток от деления2.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа от исходного кода до выполнения.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
     "Programming/Программирование/1 (Maksim)/Урок 3/Решение задач.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Важное уточнение.md",
     "Programming/Программирование/1 (Maksim)/Урок 3/материал.md",
     "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
     "Programming/Программирование/3 (Настя)/index.md",
@@ -269,11 +273,7 @@
     "daily/2025-12-11.md",
     "daily/2025-12-05.md",
     "daily/2025-12-04.md",
-    "daily/2025-12-03.md",
-    "daily/2025-11-30.md",
-    "Trash/temp 1.md",
     "Trash",
-    "Programming/substract/git/index.md",
     "Programming/substract/git",
     "Mathimatics/study/rezume/part 1",
     "Mathimatics/study",
