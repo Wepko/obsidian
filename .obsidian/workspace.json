@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
+                "file": "Projects/меди-фабрика/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rezume 34"
+              "title": "Untitled"
             }
           }
         ]
@@ -179,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "2a2fee3bcab0d99d",
   "lastOpenFiles": [
-    "Projects/Untitled",
-    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
+    "Projects/меди-фабрика/Untitled.md",
+    "Projects/меди-фабрика",
+    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/14.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/13.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/12.md",
@@ -216,7 +217,6 @@
     "Programming/substract/git/git pro/chapter 3",
     "Programming/substract/Linux/Ubuntu/Untitled",
     "Programming/substract/Linux/Ubuntu",
-    "Programming/substract/Linux",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
