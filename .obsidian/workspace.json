@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 3. Первые шаги с Docker"
+              "title": "Глава 4. Основы Docker"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "eb9c8e2ddc699319",
   "lastOpenFiles": [
-    "Programming/substract/Docker/Использование Docker/index.md",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
+    "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
+    "Programming/substract/Docker/Использование Docker/volume 4",
+    "Programming/substract/Docker/Использование Docker/index.md",
     "Programming/substract/Docker/Использование Docker/volume 3",
     "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Использование Docker",
@@ -212,11 +214,9 @@
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/12.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/11.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/10.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/9.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion",
     "Programming/Программирование/3 (Настя)",
     "Trash",
-    "Programming/substract/git/themes",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
