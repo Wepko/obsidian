@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Docker Вводный курс/index.md",
+                "file": "Programming/substract/Docker/Использование Docker/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "eb9c8e2ddc699319",
   "lastOpenFiles": [
+    "Programming/substract/Docker/Docker Вводный курс/index.md",
+    "Programming/substract/Docker/Использование Docker/index.md",
+    "Programming/substract/Docker/Использование Docker",
     "Programming/substract/Docker/Docker Вводный курс/volume 2",
     "Programming/substract/Docker/thems/tty.md",
-    "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Docker Вводный курс",
     "Programming/substract/Docker/предварительная работа.md",
     "daily/2025-12-22.md",
@@ -215,8 +217,6 @@
     "Trash",
     "Programming/substract/git/themes",
     "Programming/substract/git/git pro/chapter 5",
-    "Programming/substract/git/git pro/chapter 4",
-    "Programming/substract/git/git pro/chapter 3",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
