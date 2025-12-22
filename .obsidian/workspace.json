@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-22.md",
+                "file": "Programming/substract/Docker/Docker Вводный курс/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-22"
+              "title": "index"
             }
           }
         ]
@@ -179,8 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb9c8e2ddc699319",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Programming/substract/Docker/Docker Вводный курс/volume 2",
+    "Programming/substract/Docker/thems/tty.md",
+    "Programming/substract/Docker/Docker Вводный курс/index.md",
+    "Programming/substract/Docker/Docker Вводный курс",
+    "Programming/substract/Docker/предварительная работа.md",
     "daily/2025-12-22.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
@@ -205,10 +210,6 @@
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/10.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/9.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/8.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/7.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/6.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/4.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion",
     "Programming/Программирование/3 (Настя)",
     "Trash",
@@ -216,7 +217,6 @@
     "Programming/substract/git/git pro/chapter 5",
     "Programming/substract/git/git pro/chapter 4",
     "Programming/substract/git/git pro/chapter 3",
-    "Programming/substract/Linux/Ubuntu/Untitled",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
