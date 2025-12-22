@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/index.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Глава 3. Первые шаги с Docker"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "eb9c8e2ddc699319",
   "lastOpenFiles": [
-    "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Использование Docker/index.md",
+    "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
+    "Programming/substract/Docker/Использование Docker/volume 3",
+    "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Использование Docker",
     "Programming/substract/Docker/Docker Вводный курс/volume 2",
     "Programming/substract/Docker/thems/tty.md",
@@ -211,12 +213,10 @@
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/11.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/10.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/9.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/8.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion",
     "Programming/Программирование/3 (Настя)",
     "Trash",
     "Programming/substract/git/themes",
-    "Programming/substract/git/git pro/chapter 5",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
