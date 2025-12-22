@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 7. Распространение образов"
+              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "eb9c8e2ddc699319",
   "lastOpenFiles": [
-    "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
     "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+    "Programming/substract/Docker/Использование Docker/volume 1",
+    "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
     "Programming/substract/Docker/Использование Docker/volume 6",
@@ -213,10 +215,8 @@
     "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_repeat",
     "Projects/меди-фабрика/Untitled.md",
-    "Projects/меди-фабрика",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/14.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/13.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
