@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "2cd772ef6e0d7c10",
+        "id": "ac080e48f8e718cd",
         "type": "tabs",
         "children": [
           {
-            "id": "cf58dd2b5e539dcf",
+            "id": "aaade0070aba027c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-=======
-        "id": "f6717d787cde8df0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb9c8e2ddc699319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
->>>>>>> origin/main
             }
           }
         ]
@@ -97,46 +69,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "a4085ab3a419bf39",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b762022d3028dc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2025-06-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-23"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 496.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -152,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Программирование/Урок 5/Проверка материала.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Проверка материала"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,13 +111,40 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2c02c89a4a5272c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/new.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
+            }
+          },
+          {
+            "id": "82cffaa1f0c5819d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,45 +157,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
   "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "Programming/Программирование/3 (Настя)/index.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Решение задач.md",
-    "Programming/Программирование/1 (Maksim)/Урок 6/Литерал.md",
-    "Programming/Программирование/1 (Maksim)/Untitled.md",
-    "daily/2025-12-21.md",
-    "Programming/Программирование/1 (Maksim)/Урок 4/Классификация операторов statments.md",
-    "Programming/Программирование/1 (Maksim)/Урок 4/Из чего состоит программа.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа от исходного кода до выполнения.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Важное уточнение.md",
-    "Programming/Программирование/1 (Maksim)/Урок 6/Задачи.md",
     "conflict-files-obsidian-git.md",
-    "Programming/Программирование/1 (Maksim)/index.md",
-    "Programming/Программирование/1 (Maksim)/Разграничение по терминам.md",
-    "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
-    "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
-    "Programming/Программирование/1 (Maksim)/Урок 4/Что такое теория программирования.md",
-    "Programming/Программирование/1 (Maksim)/Урок 4/Что такое оператор.md",
-    "Programming/Программирование/1 (Maksim)/Урок 4/Урок 4 Базовые конструкциии.md",
-    "Programming/Программирование/1 (Maksim)/Урок 4/Остаток от деления2.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/материал.md",
-    "Programming/Программирование/1 (Maksim)/Введение в профессию.md",
-    "Mathimatics/study/rezume/part 1/1.md",
-    "Programming/Программирование/3 (Настя)",
-    "daily/2025-12-11.md",
-    "daily/2025-12-05.md",
-    "daily/2025-12-04.md",
-    "Trash",
-    "Programming/substract/git",
-    "Mathimatics/study/rezume/part 1",
-    "Mathimatics/study",
-    "Mathimatics/projects",
-    "Mathimatics/study/Math1/chapter 12",
-    "Mathimatics/study/Math1/chapter 11",
-    "Mathimatics/study/Math1/chapter 10",
-    "Mathimatics/study/Math1/chapter 9",
+    "Projects/меди-фабрика/Untitled.md",
+    "Projects/меди-фабрика",
+    "Programming/substract/git/themes/Переключаться с одной ветки на другую и.md",
+    "Programming/substract/git/themes",
+    "Programming/substract/Docker/Docker Вводный курс/index.md",
+    "Programming/substract/Docker/Docker Вводный курс",
+    "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
+    "Programming/substract/git/git pro/chapter 5/test.md",
+    "Programming/substract/git/git pro/chapter 4/material.md",
+    "Programming/substract/git/git pro/chapter 5/practica.md",
+    "Programming/substract/git/git pro/chapter 5/material.md",
+    "Programming/substract/git/git pro/chapter 4/test.md",
+    "Programming/substract/git/git pro/chapter 4/Git на сервере.md",
+    "Programming/substract/git/git pro/chapter 3/Ответы на вопросы для обсуждения.md",
+    "Programming/substract/git/git pro/chapter 3/Справочная информация.md",
+    "Programming/substract/git/git pro/chapter 3/Ветвление в Git.md",
+    "Programming/substract/git/git pro/chapter 3/test.md",
+    "Programming/substract/git/git pro/chapter 3/material.md",
+    "Programming/substract/git/git pro/chapter 2/Основы git.md",
+    "Programming/substract/git/git pro/chapter 2/material.md",
+    "Programming/substract/git/git pro/chapter 2/test.md",
+    "Programming/substract/git/git pro/chapter 1/Начало работы.md",
+    "Programming/substract/git/git pro/index.md",
+    "Programming/substract/git/git pro/chapter 5",
+    "Programming/substract/git/git pro/chapter 4",
+    "Programming/substract/git/git pro/chapter 3",
+    "Programming/substract/git/git pro/chapter 2",
+    "Programming/substract/git/git pro/chapter 1",
+    "Programming/substract/git/git pro",
+    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
+    "Programming/substract/Linux/Ubuntu",
+    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+    "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
+    "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
@@ -240,59 +203,11 @@
     "Programming/substract/Computer_Science/Lecture_1/Pasted image 20220124023700.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221220.png",
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
-=======
-  "active": "eb9c8e2ddc699319",
-  "lastOpenFiles": [
-    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
-    "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
-    "Programming/substract/Docker/Использование Docker/volume 1",
-    "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
-    "Programming/substract/Docker/Использование Docker/volume 7",
-    "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
-    "Programming/substract/Docker/Использование Docker/volume 6",
-    "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
-    "Programming/substract/Docker/Использование Docker/volume 5",
-    "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
-    "Programming/substract/Docker/Использование Docker/volume 4",
-    "Programming/substract/Docker/Использование Docker/index.md",
-    "Programming/substract/Docker/Использование Docker/volume 3",
-    "Programming/substract/Docker/Docker Вводный курс/index.md",
-    "Programming/substract/Docker/Использование Docker",
-    "Programming/substract/Docker/Docker Вводный курс/volume 2",
-    "Programming/substract/Docker/thems/tty.md",
-    "Programming/substract/Docker/Docker Вводный курс",
-    "Programming/substract/Docker/предварительная работа.md",
-    "daily/2025-12-22.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
-    "Economics/study/Экономическая теория/theme/Сберегательный и срочный банковские счета.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое вклад и депозит.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/questions/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 16/volume 16.md",
-    "Economics/study/Экономическая теория/volumes/volume 13/volume 13.md",
-    "Economics/study/Экономическая теория/volumes/volume 8 X/volume 8.md",
-    "Economics/study/Экономическая теория/volumes/volume 21/volume 21.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_repeat",
-    "Projects/меди-фабрика/Untitled.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/14.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
-    "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
->>>>>>> origin/main
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
-    "Programming/substract/laravel/acwa/images/two_level_validation.png",
-    "Programming/substract/laravel/acwa/images/saga_events.png",
-    "Programming/substract/laravel/acwa/images/orchestrator.png",
-    "Programming/substract/laravel/acwa/images/oracle_cqrs.png",
-    "Programming/substract/laravel/acwa/images/master_slave_cqrs.png",
-    "Programming/substract/laravel/acwa/images/master_slave.png",
     "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
