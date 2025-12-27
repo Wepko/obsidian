@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Что такое таргетирование в экономике"
             }
-          },
-          {
-            "id": "cfbb2e244faeaffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfbb2e244faeaffb",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
     "conflict-files-obsidian-git.md",
+    "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
     "daily/2025-12-27.md",
     "Economics/study/Экономическая теория/theme/Что такое Ресурсное проклятие.md",
     "Economics/study/Экономическая теория/theme/Что такое Голландская болезнь.md",
