@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+                "file": "daily/2025-12-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
+              "title": "2025-12-27"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "eb9c8e2ddc699319",
   "lastOpenFiles": [
-    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+    "daily/2025-12-27.md",
+    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
     "Programming/substract/Docker/Использование Docker/volume 7",
@@ -216,7 +217,6 @@
     "Economics/study/Экономическая теория/volumes/volume 34/questions_repeat",
     "Projects/меди-фабрика/Untitled.md",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/14.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
