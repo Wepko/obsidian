@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/Список всех тем volumes.md",
+                "file": "Economics/study/Экономическая теория/rezume/rezumes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Список всех тем volumes"
+              "title": "rezumes"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "69f83b519d11a805",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/Список всех тем volumes.md",
     "Economics/study/Экономическая теория/Список ключевых графиков.md",
     "Economics/study/Экономическая теория/rezume/rezumes.md",
     "daily/2025-12-31.md",
@@ -240,7 +241,6 @@
     "Programming/substract/Docker/Docker Вводный курс/volume 2",
     "Programming/substract/Docker/thems/tty.md",
     "Programming/substract/Docker/Docker Вводный курс",
-    "Programming/substract/Docker/предварительная работа.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_repeat",
     "Untitled.canvas",
     "Untitled 2.canvas",
