@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/rezume/rezumes.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rezumes"
+              "title": "rezume 34"
             }
           }
         ],
@@ -206,16 +206,20 @@
   },
   "active": "69f83b519d11a805",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 35/rezume/rezume 35.md",
     "Economics/study/Экономическая теория/Список всех тем volumes.md",
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
-    "Economics/study/Экономическая теория/rezume/rezumes.md",
-    "daily/2025-12-31.md",
+    "Economics/study/Экономическая теория/volumes/volume 35/rezume",
+    "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/5.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/4.md",
+    "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
+    "Economics/study/Экономическая теория/volumes/volume 26/volume 26.md",
+    "Economics/study/Экономическая теория/rezume/rezumes.md",
+    "Economics/study/Экономическая теория/Список ключевых графиков.md",
+    "daily/2025-12-31.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/3.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/5.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/theme/Что такое Голландская болезнь.md",
@@ -234,14 +238,10 @@
     "Programming/substract/Docker/Использование Docker/volume 5",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 4",
-    "Programming/substract/Docker/Использование Docker/index.md",
     "Programming/substract/Docker/Использование Docker/volume 3",
-    "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Использование Docker",
     "Programming/substract/Docker/Docker Вводный курс/volume 2",
-    "Programming/substract/Docker/thems/tty.md",
     "Programming/substract/Docker/Docker Вводный курс",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_repeat",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
