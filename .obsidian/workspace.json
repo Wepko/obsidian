@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
+                "file": "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rezume 34"
+              "title": "volume 36"
             }
           }
         ],
@@ -206,10 +206,14 @@
   },
   "active": "69f83b519d11a805",
   "lastOpenFiles": [
+    "Economics/study/Экономическая теория/volumes/volume 36/rezume.md",
+    "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume/rezume 35.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
     "Economics/study/Экономическая теория/Список всех тем volumes.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume",
-    "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/5.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/4.md",
     "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
@@ -221,7 +225,6 @@
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
     "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/theme/Что такое Голландская болезнь.md",
     "Economics/study/Экономическая теория/theme/Что такое Ресурсное проклятие.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
@@ -232,11 +235,8 @@
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
     "Programming/substract/Docker/Использование Docker/volume 7",
-    "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
     "Programming/substract/Docker/Использование Docker/volume 6",
-    "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 5",
-    "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 4",
     "Programming/substract/Docker/Использование Docker/volume 3",
     "Programming/substract/Docker/Использование Docker",
