@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/plan/Какие есть дисциплины в программирование.md",
+                "file": "Programming/substract/git/git pro/chapter 5/material.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Какие есть дисциплины в программирование"
+              "title": "material"
             }
           }
         ],
@@ -193,9 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "69f83b519d11a805",
   "lastOpenFiles": [
+    "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
     "Programming/substract_programming/Все курсы АВ Григорина.md",
+    "Programming/plan/Какие есть дисциплины в программирование.md",
     "daily/2026-01-02.md",
     "Programming/substract_programming",
     "Programming/substract_course/Untitled",
@@ -224,8 +226,6 @@
     "Economics/study/Экономическая теория/theme/Что такое Голландская болезнь.md",
     "Economics/study/Экономическая теория/theme/Что такое Ресурсное проклятие.md",
     "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2025-12-27.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 6",
