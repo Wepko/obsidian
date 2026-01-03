@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-03.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
             }
           }
         ],
@@ -230,6 +230,10 @@
   },
   "active": "eadc0848e51fc793",
   "lastOpenFiles": [
+    "Programming/substract_programming/lecture 1/Конспект 1.md",
+    "Programming/substract_programming/lecture 1/Untitled.md",
+    "Programming/substract_programming/Все курсы АВ Григорина.md",
+    "Programming/substract_programming/lecture 1",
     "daily/2026-01-03.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
     "Programming/substract/Docker/Использование Docker/volume 1/5. 64-битовая версия ОС Linux.md",
@@ -244,7 +248,6 @@
     "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/git/git pro/chapter 5/material.md",
     "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
-    "Programming/substract_programming/Все курсы АВ Григорина.md",
     "Programming/plan/Какие есть дисциплины в программирование.md",
     "daily/2026-01-02.md",
     "Programming/substract_programming",
@@ -260,12 +263,9 @@
     "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
     "Economics/study/Экономическая теория/Список всех тем volumes.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/5.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/4.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 6",
-    "Programming/substract/Docker/Использование Docker/volume 5",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
