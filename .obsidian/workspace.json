@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 1/Docker и контейнеры.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker и контейнеры"
+              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
             }
           }
         ],
@@ -193,11 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f83b519d11a805",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Programming/substract/Docker/Использование Docker/volume 1/Сравнение контейнеров с виртуальными машинами.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/3.Краткая история Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
-    "Programming/substract/Docker/Использование Docker/volume 1/Docker и контейнеры.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/2.Docker и контейнеры.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/1.Сравнение контейнеров с виртуальными машинами.md",
     "Programming/substract/Docker/Использование Docker/index.md",
     "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
@@ -226,7 +227,6 @@
     "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
     "Economics/study/Экономическая теория/volumes/volume 26/volume 26.md",
     "Economics/study/Экономическая теория/rezume/rezumes.md",
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 6",
