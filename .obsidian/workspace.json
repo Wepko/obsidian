@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 1/Задания 1.md",
+                "file": "Programming/substract_programming/lecture 1/Ответы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Задания 1"
+              "title": "Ответы"
             }
           }
         ],
@@ -230,10 +230,11 @@
   },
   "active": "eadc0848e51fc793",
   "lastOpenFiles": [
+    "Programming/substract_programming/lecture 1/Задания 1.md",
+    "Programming/substract_programming/lecture 1/Ответы.md",
+    "Programming/substract_programming/lecture 1/Конспект 1.md",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
-    "Programming/substract_programming/lecture 1/Конспект 1.md",
-    "Programming/substract_programming/lecture 1/Задания 1.md",
     "Programming/substract_programming/Все курсы АВ Григорина.md",
     "Programming/substract_programming/lecture 1",
     "daily/2026-01-03.md",
@@ -261,7 +262,6 @@
     "Economics/study/Экономическая теория/volumes/volume 36/rezume.md",
     "Economics/study/Экономическая теория/volumes/volume 31/volume 31.md",
     "Economics/study/Экономическая теория/volumes/volume 34/rezume 34.md",
-    "Economics/study/Экономическая теория/Список всех тем volumes.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
