@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 1/Docker и контейнеры.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
+              "title": "Docker и контейнеры"
             }
           }
         ],
@@ -197,6 +197,7 @@
   "lastOpenFiles": [
     "Programming/substract/Docker/Использование Docker/volume 1/Сравнение контейнеров с виртуальными машинами.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/Docker и контейнеры.md",
     "Programming/substract/Docker/Использование Docker/index.md",
     "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
@@ -226,7 +227,6 @@
     "Economics/study/Экономическая теория/volumes/volume 26/volume 26.md",
     "Economics/study/Экономическая теория/rezume/rezumes.md",
     "Economics/study/Экономическая теория/Список ключевых графиков.md",
-    "daily/2025-12-31.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 6",
