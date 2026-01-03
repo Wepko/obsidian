@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
+                "file": "Programming/substract_programming/lecture 1/Задания 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 1. Что такое контейнеры и для чего они нужны"
+              "title": "Задания 1"
             }
           }
         ],
@@ -230,12 +230,13 @@
   },
   "active": "eadc0848e51fc793",
   "lastOpenFiles": [
+    "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
     "Programming/substract_programming/lecture 1/Конспект 1.md",
-    "Programming/substract_programming/lecture 1/Untitled.md",
+    "Programming/substract_programming/lecture 1/Задания 1.md",
     "Programming/substract_programming/Все курсы АВ Григорина.md",
     "Programming/substract_programming/lecture 1",
     "daily/2026-01-03.md",
-    "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
     "Programming/substract/Docker/Использование Docker/volume 1/5. 64-битовая версия ОС Linux.md",
     "Programming/substract/Docker/Использование Docker/volume 1/4. Дополнительные модули и надстройки.md",
     "Programming/substract/Docker/Использование Docker/volume 1/3.Краткая история Docker.md",
@@ -243,7 +244,6 @@
     "Programming/substract/Docker/Использование Docker/volume 1/1.Сравнение контейнеров с виртуальными машинами.md",
     "Programming/substract/Docker/Использование Docker/index.md",
     "Programming/substract/Docker/Использование Docker/volume 4/Глава 4. Основы Docker.md",
-    "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 2",
     "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/git/git pro/chapter 5/material.md",
