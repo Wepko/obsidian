@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
+                "file": "daily/2026-01-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "volume 36"
+              "title": "2026-01-06"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "69f83b519d11a805",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
+    "daily/2026-01-06.md",
+    "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 35/volume 35.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume/rezume 35.md",
     "Economics/study/Экономическая теория/volumes/volume 36/rezume.md",
@@ -232,7 +233,6 @@
     "conflict-files-obsidian-git.md",
     "daily/2025-12-27.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
-    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 6",
