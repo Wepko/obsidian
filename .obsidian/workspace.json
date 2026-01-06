@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6717d787cde8df0",
+        "id": "bf15d215e4c29393",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9c8e2ddc699319",
+            "id": "80b555f888bf3b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-27.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-27"
-            }
-          },
-          {
-            "id": "69f83b519d11a805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-06"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +179,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f83b519d11a805",
+  "active": "80b555f888bf3b3e",
   "lastOpenFiles": [
-    "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2025-12-27.md",
     "daily/2026-01-06.md",
+    "daily/2026-01-03.md",
+    "daily/2026-01-02.md",
+    "Programming/substract_programming/lecture 1/Ответы.md",
+    "Programming/substract_programming/lecture 1/Конспект 1.md",
+    "Programming/substract_programming/lecture 1/Задания 1.md",
+    "Programming/substract_programming/Все курсы АВ Григорина.md",
+    "Programming/substract_programming/lecture 1",
+    "Programming/substract_programming",
+    "Programming/substract/Docker/Использование Docker/volume 1/5. 64-битовая версия ОС Linux.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/4. Дополнительные модули и надстройки.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/3.Краткая история Docker.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/2.Docker и контейнеры.md",
+    "Programming/substract/Docker/Использование Docker/volume 1/1.Сравнение контейнеров с виртуальными машинами.md",
+    "Economics/study/Экономическая теория/volumes/volume 36/volume 36.md",
     "Economics/study/Экономическая теория/volumes/volume 34/volume 34.md",
     "Economics/study/Экономическая теория/volumes/volume 35/volume 35.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume/rezume 35.md",
@@ -220,19 +210,6 @@
     "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/4.md",
     "Economics/study/Экономическая теория/volumes/volume 29/volume 29.md",
     "Economics/study/Экономическая теория/volumes/volume 26/volume 26.md",
-    "Economics/study/Экономическая теория/rezume/rezumes.md",
-    "Economics/study/Экономическая теория/Список ключевых графиков.md",
-    "daily/2025-12-31.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/3.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/2.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions_desccussion/1.md",
-    "Economics/study/Экономическая теория/volumes/volume 34/questions/1.md",
-    "Economics/study/Экономическая теория/theme/Что такое Голландская болезнь.md",
-    "Economics/study/Экономическая теория/theme/Что такое Ресурсное проклятие.md",
-    "Economics/study/Экономическая теория/theme/Вопросы/Что такое таргетирование в экономике.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2025-12-27.md",
-    "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
     "Programming/substract/Docker/Использование Docker/volume 1",
     "Programming/substract/Docker/Использование Docker/volume 7",
     "Programming/substract/Docker/Использование Docker/volume 6",
@@ -240,8 +217,6 @@
     "Programming/substract/Docker/Использование Docker/volume 4",
     "Programming/substract/Docker/Использование Docker/volume 3",
     "Programming/substract/Docker/Использование Docker",
-    "Programming/substract/Docker/Docker Вводный курс/volume 2",
-    "Programming/substract/Docker/Docker Вводный курс",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
