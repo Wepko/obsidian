@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathimatics/projects/1 Мозговой штурм.md",
+                "file": "daily/2026-01-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Мозговой штурм"
+              "title": "2026-01-08"
             }
           }
         ]
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "f45114818598356e",
   "lastOpenFiles": [
+    "Mathimatics/projects/1 Мозговой штурм.md",
+    "daily/2026-01-08.md",
     "daily/2025-12-05.md",
     "Trash/temp 1.md",
     "Untitled.md",
@@ -208,8 +210,6 @@
     "Mathimatics/study/Math1/chapter 5/qwen.md",
     "Mathimatics/study/Math1/chapter 5/index.md",
     "Mathimatics/study/Math1/chapter 4/index.md",
-    "Mathimatics/study/Math1/chapter 11/qwen.md",
-    "Mathimatics/study/Math1/chapter 11/index.md",
     "Mathimatics/study/rezume/part 1",
     "Mathimatics/study/Math1/chapter 9",
     "Mathimatics/study/Math1/chapter 8",
