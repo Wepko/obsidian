@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 2/Конспект 2.md",
-                "mode": "source",
+                "file": "Programming/substract_programming/lecture 2/Задания 2.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Конспект 2"
+              "title": "Задания 2"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "aaade0070aba027c",
   "lastOpenFiles": [
-    "Programming/substract_programming/lecture 2/Задания 2.md",
+    "Programming/substract_programming/pattern_conspect.md",
     "Programming/substract_programming/lecture 2/Конспект 2.md",
+    "Programming/substract_programming/lecture 2/Задания 2.md",
     "Programming/substract_programming/lecture 2/Ответы 2.md",
     "Programming/substract_programming/lecture 2/Ответы.md",
     "Programming/substract_programming/lecture 2/Конспект.md",
@@ -205,7 +206,6 @@
     "Programming/substract/Docker/Docker Вводный курс",
     "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
     "Programming/substract/git/git pro/chapter 5/test.md",
-    "Programming/substract/git/git pro/chapter 4/material.md",
     "Programming/substract/git/git pro/chapter 5",
     "Programming/substract/git/git pro/chapter 4",
     "Programming/substract/git/git pro/chapter 3",
