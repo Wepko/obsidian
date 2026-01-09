@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 3/Конспект 3.md",
+                "file": "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Конспект 3"
+              "title": "Урок 2 Программирование"
             }
           }
         ]
@@ -171,10 +171,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "aaade0070aba027c",
   "lastOpenFiles": [
-    "Programming/substract_programming/pattern_conspect.md",
+    "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
+    "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
+    "Programming/Программирование/4 (Елена)/Untitled.md",
+    "Programming/substract 2/python",
     "Programming/substract_programming/lecture 3/Конспект 3.md",
+    "Programming/Программирование/4 (Елена)",
+    "Programming/substract_programming/pattern_conspect.md",
     "Programming/substract_programming/lecture 3",
     "Programming/substract_programming/lecture 2/Задания 2.md",
     "Programming/substract_programming/lecture 2/Конспект 2.md",
@@ -202,13 +207,8 @@
     "Economics/study/Экономическая теория/theme/Что такое Ресурсное проклятие.md",
     "Projects/меди-фабрика/Untitled.md",
     "Projects/меди-фабрика",
-    "Programming/substract/git/themes/Переключаться с одной ветки на другую и.md",
     "Programming/substract/git/themes",
-    "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Docker Вводный курс",
-    "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
-    "Programming/substract/git/git pro/chapter 5",
-    "Programming/substract/git/git pro/chapter 4",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
