@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 2/Задания 2.md",
-                "mode": "preview",
+                "file": "Programming/substract_programming/lecture 1/Задания 1.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Задания 2"
+              "title": "Задания 1"
             }
           }
         ]
@@ -173,10 +173,10 @@
   },
   "active": "aaade0070aba027c",
   "lastOpenFiles": [
-    "Programming/substract_programming/pattern_conspect.md",
-    "Programming/substract_programming/lecture 2/Конспект 2.md",
     "Programming/substract_programming/lecture 2/Задания 2.md",
+    "Programming/substract_programming/lecture 2/Конспект 2.md",
     "Programming/substract_programming/lecture 2/Ответы 2.md",
+    "Programming/substract_programming/pattern_conspect.md",
     "Programming/substract_programming/lecture 2/Ответы.md",
     "Programming/substract_programming/lecture 2/Конспект.md",
     "Programming/substract_programming/lecture 2/Задание 2.md",
