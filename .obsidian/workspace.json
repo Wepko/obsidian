@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 1/Задания 1.md",
+                "file": "Programming/substract_programming/lecture 3/Конспект 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Задания 1"
+              "title": "Конспект 3"
             }
           }
         ]
@@ -171,20 +171,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaade0070aba027c",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Programming/substract_programming/pattern_conspect.md",
+    "Programming/substract_programming/lecture 3/Конспект 3.md",
+    "Programming/substract_programming/lecture 3",
     "Programming/substract_programming/lecture 2/Задания 2.md",
     "Programming/substract_programming/lecture 2/Конспект 2.md",
+    "Programming/substract_programming/lecture 2/Вопросы.md",
     "Programming/substract_programming/lecture 2/Ответы 2.md",
-    "Programming/substract_programming/pattern_conspect.md",
+    "Programming/substract_programming/lecture 1/Ответы.md",
+    "Programming/substract_programming/lecture 1/Задания 1.md",
+    "Programming/substract_programming/lecture 1/Конспект 1.md",
     "Programming/substract_programming/lecture 2/Ответы.md",
     "Programming/substract_programming/lecture 2/Конспект.md",
     "Programming/substract_programming/lecture 2/Задание 2.md",
-    "Programming/substract_programming/lecture 1/Задания 1.md",
     "conflict-files-obsidian-git.md",
-    "Programming/substract_programming/lecture 1/Конспект 1.md",
-    "Programming/substract_programming/lecture 2/Вопросы.md",
-    "Programming/substract_programming/lecture 1/Ответы.md",
     "Programming/substract_programming/lecture 2",
     "Programming/substract_programming/Все курсы АВ Григорина.md",
     "daily/2026-01-06.md",
@@ -205,10 +207,8 @@
     "Programming/substract/Docker/Docker Вводный курс/index.md",
     "Programming/substract/Docker/Docker Вводный курс",
     "Programming/substract/git/git pro/chapter 5/Распределенная система Git.md",
-    "Programming/substract/git/git pro/chapter 5/test.md",
     "Programming/substract/git/git pro/chapter 5",
     "Programming/substract/git/git pro/chapter 4",
-    "Programming/substract/git/git pro/chapter 3",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
