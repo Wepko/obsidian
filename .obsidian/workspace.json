@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0cb69db039c0a85b",
+        "id": "723e41065e416a77",
         "type": "tabs",
         "children": [
           {
-            "id": "f45114818598356e",
+            "id": "a99dc16b8356bfc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-08"
-            }
-          },
-          {
-            "id": "144e006ca07545e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
+                "file": "Programming/substract_programming/lecture 3/Конспект 3.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Урок 2 Программирование"
-            }
-          },
-          {
-            "id": "ffde595bf5dff668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Урок 3 Как работает программа"
+              "title": "Конспект 3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffde595bf5dff668",
+  "active": "a99dc16b8356bfc7",
   "lastOpenFiles": [
+    "daily/2026-01-08.md",
+    "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
     "daily/2026-01-10.md",
     "conflict-files-obsidian-git.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
@@ -247,11 +201,8 @@
     "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
     "Programming/substract 2/python",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
-    "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
     "Programming/Программирование/4 (Елена)",
-    "daily/2026-01-08.md",
     "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
     "Programming/substract/Linux/Ubuntu",
     "Programming/substract/Linux",
