@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/python/Системы управления переменными в программировании.md",
+                "file": "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Системы управления переменными в программировании"
+              "title": "Python с неизменяемыми типами переменные"
             }
           }
         ]
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 452.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -181,8 +181,9 @@
   },
   "active": "a99dc16b8356bfc7",
   "lastOpenFiles": [
-    "Programming/substract_programming/lecture 3/Конспект 3.md",
     "Programming/substract 2/python/Системы управления переменными в программировании.md",
+    "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
+    "Programming/substract_programming/lecture 3/Конспект 3.md",
     "daily/2026-01-08.md",
     "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
@@ -215,7 +216,6 @@
     "daily/2026-01-03.md",
     "daily/2026-01-02.md",
     "daily/2025-12-31.md",
-    "daily/2025-12-27.md",
     "Projects/меди-фабрика",
     "Untitled.canvas",
     "Untitled 2.canvas",
