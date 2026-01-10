@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 3/Конспект 3.md",
-                "mode": "preview",
+                "file": "Programming/substract 2/python/Системы управления переменными в программировании.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Конспект 3"
+              "title": "Системы управления переменными в программировании"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "a99dc16b8356bfc7",
   "lastOpenFiles": [
+    "Programming/substract_programming/lecture 3/Конспект 3.md",
+    "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "daily/2026-01-08.md",
     "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
@@ -194,7 +196,6 @@
     "Programming/Программирование/4 (Елена)/Урок 1",
     "Programming/Программирование/4 (Елена)/Untitled.md",
     "Programming/substract_programming/pattern_conspect.md",
-    "Programming/substract_programming/lecture 3/Конспект 3.md",
     "Programming/substract_programming/lecture 3",
     "Programming/substract_programming/lecture 2/Задания 2.md",
     "Programming/substract_programming/lecture 2/Вопросы.md",
@@ -215,7 +216,6 @@
     "daily/2026-01-02.md",
     "daily/2025-12-31.md",
     "daily/2025-12-27.md",
-    "daily/2025-12-22.md",
     "Projects/меди-фабрика",
     "Untitled.canvas",
     "Untitled 2.canvas",
