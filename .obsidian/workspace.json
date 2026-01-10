@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
+                "file": "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Инструкции и оператор"
+              "title": "Абстрация Переменая"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "aaade0070aba027c",
   "lastOpenFiles": [
-    "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
+    "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
+    "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
     "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
     "Programming/Программирование/4 (Елена)/Урок 1/Untitled.md",
@@ -204,7 +205,6 @@
     "Programming/substract_programming/lecture 2/Задание 2.md",
     "conflict-files-obsidian-git.md",
     "Programming/substract_programming/lecture 2",
-    "Programming/substract_programming/Все курсы АВ Григорина.md",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume",
     "Programming/substract_programming/lecture 1",
     "Programming/substract_programming",
