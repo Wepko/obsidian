@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "Урок 3 Как работает программа"
             }
-          },
-          {
-            "id": "5d449186389a6fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-10"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d449186389a6fe8",
+  "active": "ffde595bf5dff668",
   "lastOpenFiles": [
+    "daily/2026-01-10.md",
     "conflict-files-obsidian-git.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
@@ -270,7 +247,6 @@
     "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
     "Programming/substract 2/python",
-    "daily/2026-01-10.md",
     "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
     "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
     "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
