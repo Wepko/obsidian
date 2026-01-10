@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "2026-01-08"
             }
+          },
+          {
+            "id": "144e006ca07545e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Урок 2 Программирование"
+            }
+          },
+          {
+            "id": "ffde595bf5dff668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Урок 3 Как работает программа"
+            }
+          },
+          {
+            "id": "5d449186389a6fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-10"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,45 +252,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f45114818598356e",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "Mathimatics/projects/1 Мозговой штурм.md",
-    "daily/2026-01-08.md",
-    "daily/2025-12-05.md",
-    "Trash/temp 1.md",
-    "Untitled.md",
-    "Trash",
-    "Untitled.canvas",
-    "daily/2025-12-04.md",
-    "daily/2025-12-03.md",
-    "Programming/substract/git/index.md",
-    "Programming/substract/Untitled.md",
-    "Programming/substract/git",
-    "Programming/substract/Course/Middle developer.md",
-    "Programming/substract/MySql/note mysql.md",
-    "daily/2025-11-30.md",
     "conflict-files-obsidian-git.md",
-    "Mathimatics/study/rezume/part 1/1.md",
-    "Mathimatics/study/Math1/chapter 9/qwen.md",
-    "Mathimatics/study/Math1/chapter 9/index.md",
-    "Mathimatics/study/Math1/chapter 8/qwen.md",
-    "Mathimatics/study/Math1/chapter 8/index.md",
-    "Mathimatics/study/Math1/chapter 7/qwen.md",
-    "Mathimatics/study/Math1/chapter 7/index.md",
-    "Mathimatics/study/Math1/chapter 6/qwen.md",
-    "Mathimatics/study/Math1/chapter 6/index.md",
-    "Mathimatics/study/Math1/chapter 3/Свойства уравнений и их решение.md",
-    "Mathimatics/study/Math1/chapter 5/qwen.md",
-    "Mathimatics/study/Math1/chapter 5/index.md",
-    "Mathimatics/study/Math1/chapter 4/index.md",
-    "Mathimatics/study/rezume/part 1",
-    "Mathimatics/study/Math1/chapter 9",
-    "Mathimatics/study/Math1/chapter 8",
-    "Mathimatics/study/Math1/chapter 7",
-    "Mathimatics/study/Math1/chapter 6",
-    "Mathimatics/study/Math1/chapter 3",
-    "Mathimatics/study/Math1/chapter 5",
-    "Mathimatics/study/Math1/chapter 4",
+    "daily/2026-01-10.md",
+    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
+    "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
+    "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
+    "Programming/Программирование/4 (Елена)",
+    "daily/2026-01-08.md",
+    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
+    "Programming/substract/Linux/Ubuntu",
+    "Programming/substract/Linux",
+    "Programming/substract/Docker/Docker Вводный курс/index.md",
+    "Programming/substract/Docker/Docker Вводный курс",
+    "Economics/study/Экономическая теория/volumes/volume 35/rezume/rezume 35.md",
+    "Economics/study/Экономическая теория/volumes/volume 35/rezume",
+    "daily/2026-01-06.md",
+    "daily/2026-01-03.md",
+    "daily/2026-01-02.md",
+    "daily/2025-12-31.md",
+    "daily/2025-12-27.md",
+    "daily/2025-12-22.md",
+    "daily/2025-12-21.md",
+    "daily/2025-12-14.md",
+    "daily/2025-12-11.md",
+    "daily/2025-12-08.md",
+    "daily/2025-12-02.md",
+    "daily/2025-11-28.md",
+    "Projects/меди-фабрика/Untitled.md",
+    "Projects/меди-фабрика",
+    "Programming/Программирование/3 (Настя)/index.md",
+    "Programming/Программирование/3 (Настя)",
+    "Programming/substract_programming/lecture 2/Конспект 2.md",
+    "Programming/substract_programming/lecture 2/Ответы 2.md",
+    "Programming/substract_programming/lecture 2/Задание 2.md",
+    "Programming/substract_programming/lecture 2",
+    "Programming/substract_programming/lecture 1",
+    "Programming/substract_programming",
+    "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
     "Economics/study/Формализованая экономика/chapter 1/asset/Общественное производство.png",
