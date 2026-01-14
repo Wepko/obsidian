@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
+                "file": "daily/2026-01-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python с неизменяемыми типами переменные"
+              "title": "2026-01-14"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "a99dc16b8356bfc7",
   "lastOpenFiles": [
-    "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
+    "daily/2026-01-14.md",
+    "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/substract_programming/lecture 3/Конспект 3.md",
     "daily/2026-01-08.md",
     "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
@@ -215,7 +216,6 @@
     "daily/2026-01-06.md",
     "daily/2026-01-03.md",
     "daily/2026-01-02.md",
-    "daily/2025-12-31.md",
     "Projects/меди-фабрика",
     "Untitled.canvas",
     "Untitled 2.canvas",
