@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "723e41065e416a77",
+        "id": "4d3755d55bcbae6c",
         "type": "tabs",
         "children": [
           {
-            "id": "a99dc16b8356bfc7",
+            "id": "ed8e4a9f1127ab3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
+                "file": "Programming/substract_programming/lecture 2/Ответы 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python с неизменяемыми типами переменные"
+              "title": "Ответы 2"
             }
           }
         ]
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 395.5
   },
   "right": {
     "id": "69e258f4db20389d",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,44 +179,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a99dc16b8356bfc7",
+  "active": "ed8e4a9f1127ab3e",
   "lastOpenFiles": [
-    "Programming/substract 2/python/Системы управления переменными в программировании.md",
-    "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
-    "Programming/substract_programming/lecture 3/Конспект 3.md",
-    "daily/2026-01-08.md",
-    "Programming/Программирование/1 (Maksim)/Урок 2/Урок 2 Программирование.md",
-    "Programming/Программирование/1 (Maksim)/Урок 3/Урок 3 Как работает программа.md",
     "daily/2026-01-10.md",
-    "conflict-files-obsidian-git.md",
+    "daily/2026-01-08.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
-    "Programming/Программирование/4 (Елена)/Урок 2",
     "Programming/Программирование/4 (Елена)/Урок 1/Untitled.md",
+    "Programming/Программирование/4 (Елена)/Урок 2",
     "Programming/Программирование/4 (Елена)/Урок 1",
     "Programming/Программирование/4 (Елена)/Untitled.md",
+    "Programming/Программирование/4 (Елена)",
     "Programming/substract_programming/pattern_conspect.md",
-    "Programming/substract_programming/lecture 3",
+    "Programming/substract_programming/lecture 3/Конспект 3.md",
     "Programming/substract_programming/lecture 2/Задания 2.md",
     "Programming/substract_programming/lecture 2/Вопросы.md",
+    "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
+    "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
     "Programming/substract 2/python",
-    "Programming/Программирование/1 (Maksim)/Урок 2/материал.md",
-    "Programming/Программирование/4 (Елена)",
-    "Programming/substract/Linux/Ubuntu/Инструкция по локалям.md",
-    "Programming/substract/Linux/Ubuntu",
-    "Programming/substract/Linux",
-    "Programming/substract/Docker/Docker Вводный курс/index.md",
-    "Programming/substract/Docker/Docker Вводный курс",
-    "Economics/study/Экономическая теория/volumes/volume 35/rezume/rezume 35.md",
-    "Economics/study/Экономическая теория/volumes/volume 35/rezume",
+    "Programming/substract_programming/lecture 2/Конспект 2.md",
+    "Programming/substract_programming/lecture 2/Задание 2.md",
+    "Programming/substract_programming/lecture 2/Ответы 2.md",
+    "Programming/substract_programming/lecture 3",
+    "Programming/substract_programming/lecture 2",
     "daily/2026-01-06.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2025-12-27.md",
     "daily/2026-01-03.md",
     "daily/2026-01-02.md",
-    "daily/2025-12-31.md",
-    "Projects/меди-фабрика",
+    "Programming/substract_programming/lecture 1/Ответы.md",
+    "Programming/substract_programming/lecture 1/Конспект 1.md",
+    "Programming/substract_programming/lecture 1/Задания 1.md",
+    "Programming/substract_programming/lecture 1",
+    "Programming/substract_programming",
+    "Economics/study/Экономическая теория/volumes/volume 35/rezume",
+    "Programming/substract/Docker/Использование Docker/volume 1",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
