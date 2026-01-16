@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract_programming/lecture 2/Ответы 2.md",
+                "file": "Programming/substract 2/python/Системы управления переменными в программировании.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ответы 2"
+              "title": "Системы управления переменными в программировании"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "ed8e4a9f1127ab3e",
   "lastOpenFiles": [
+    "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
+    "Programming/substract_programming/lecture 2/Ответы 2.md",
     "daily/2026-01-10.md",
     "daily/2026-01-08.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
@@ -196,13 +198,11 @@
     "Programming/substract_programming/lecture 2/Задания 2.md",
     "Programming/substract_programming/lecture 2/Вопросы.md",
     "Programming/substract 2/python/Системы управления переменными в программировании.md",
-    "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
     "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
     "Programming/substract 2/python",
     "Programming/substract_programming/lecture 2/Конспект 2.md",
     "Programming/substract_programming/lecture 2/Задание 2.md",
-    "Programming/substract_programming/lecture 2/Ответы 2.md",
     "Programming/substract_programming/lecture 3",
     "Programming/substract_programming/lecture 2",
     "daily/2026-01-06.md",
