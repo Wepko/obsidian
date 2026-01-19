@@ -11,10 +11,24 @@
             "id": "bb67f36918f14b97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/subes/readme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "readme"
             }
           }
         ]
@@ -165,10 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/subes/docker/Untitled.md",
+    "Programming/subes/readme.md",
+    "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
+    "Programming/Программирование/4 (Елена)/Урок 3",
+    "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
+    "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
+    "conflict-files-obsidian-git.md",
     "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/subes/docker/Untitled",
     "Programming/subes/docker",
@@ -178,9 +197,6 @@
     "Programming/substract_programming/lecture 2/Ответы 2.md",
     "daily/2026-01-10.md",
     "daily/2026-01-08.md",
-    "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
-    "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
-    "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
     "Programming/Программирование/4 (Елена)/Урок 1/Untitled.md",
     "Programming/Программирование/4 (Елена)/Урок 2",
     "Programming/Программирование/4 (Елена)/Урок 1",
@@ -201,8 +217,6 @@
     "daily/2025-12-27.md",
     "daily/2026-01-03.md",
     "daily/2026-01-02.md",
-    "Programming/substract_programming/lecture 1/Ответы.md",
-    "Programming/substract_programming/lecture 1",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
