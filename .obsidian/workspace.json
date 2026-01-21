@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/laravel-api-products.md",
+                "file": "Programming/subes/pagination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "laravel-api-products"
+              "title": "pagination"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "daily/2026-01-21.md",
     "Programming/subes/Laravel/laravel-api-products.md",
+    "Programming/subes/pagination.md",
+    "daily/2026-01-21.md",
     "Programming/subes/Laravel",
     "Programming/subes/readme.md",
     "Programming/subes/docker/Untitled.md",
@@ -216,7 +217,6 @@
     "Programming/substract_programming/lecture 2/Задание 2.md",
     "Programming/substract_programming/lecture 3",
     "daily/2026-01-06.md",
-    "daily/2025-12-27.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
