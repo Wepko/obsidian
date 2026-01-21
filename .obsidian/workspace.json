@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/pagination/newset vs keyset.md",
-                "mode": "preview",
+                "file": "Programming/subes/Laravel/pagination/learn.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "newset vs keyset"
+              "title": "learn"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/pagination/learn.md",
+    "Programming/subes/Laravel/pagination/history.md",
     "Programming/subes/Laravel/pagination/newset vs keyset.md",
+    "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/pagination.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/Laravel/laravel-api-products.md",
@@ -216,7 +217,6 @@
     "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
     "Programming/substract 2/python",
-    "Programming/substract_programming/lecture 2/Конспект 2.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
