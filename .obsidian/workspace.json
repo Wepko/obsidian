@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/pagination/laravel-pagination.md",
+                "file": "Programming/subes/Laravel/pagination/pagination-exdention.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "laravel-pagination"
+              "title": "pagination-exdention"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/subes/Laravel/pagination/laravel-pagination.md",
+                "file": "Programming/subes/Laravel/pagination/pagination-exdention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for laravel-pagination"
+              "title": "Backlinks for pagination-exdention"
             }
           },
           {
@@ -182,6 +182,7 @@
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
     "Programming/subes/Laravel/pagination/pagination.md",
+    "Programming/subes/Laravel/pagination/pagination-exdention.md",
     "Programming/subes/Laravel/pagination/laravel-pagination.md",
     "Programming/subes/Laravel/pagination/history.md",
     "Programming/subes/Laravel/pagination/newset vs keyset.md",
@@ -216,7 +217,6 @@
     "Programming/substract_programming/pattern_conspect.md",
     "Programming/substract_programming/lecture 3/Конспект 3.md",
     "Programming/substract_programming/lecture 2/Задания 2.md",
-    "Programming/substract_programming/lecture 2/Вопросы.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
