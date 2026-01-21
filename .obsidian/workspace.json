@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-21.md",
-                "mode": "preview",
+                "file": "Programming/subes/Laravel/laravel-api-products.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-21"
+              "title": "laravel-api-products"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "Programming/subes/readme.md",
     "daily/2026-01-21.md",
+    "Programming/subes/Laravel/laravel-api-products.md",
+    "Programming/subes/Laravel",
+    "Programming/subes/readme.md",
     "Programming/subes/docker/Untitled.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
     "Programming/Программирование/4 (Елена)/Урок 3",
@@ -213,10 +215,8 @@
     "Programming/substract_programming/lecture 2/Конспект 2.md",
     "Programming/substract_programming/lecture 2/Задание 2.md",
     "Programming/substract_programming/lecture 3",
-    "Programming/substract_programming/lecture 2",
     "daily/2026-01-06.md",
     "daily/2025-12-27.md",
-    "daily/2026-01-03.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
