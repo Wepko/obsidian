@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/readme.md",
-                "mode": "source",
+                "file": "daily/2026-01-21.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "2026-01-21"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "Programming/subes/docker/Untitled.md",
     "Programming/subes/readme.md",
+    "daily/2026-01-21.md",
+    "Programming/subes/docker/Untitled.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
     "Programming/Программирование/4 (Елена)/Урок 3",
     "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
@@ -216,7 +217,6 @@
     "daily/2026-01-06.md",
     "daily/2025-12-27.md",
     "daily/2026-01-03.md",
-    "daily/2026-01-02.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
