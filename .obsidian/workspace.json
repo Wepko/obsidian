@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
+                "file": "Programming/subes/Laravel/pagination/newset vs keyset/Сравнение сегментной и курсорной пагинации.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Репозиторий с интерфейсом практическое руководство"
+              "title": "Сравнение сегментной и курсорной пагинации"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
+                "file": "Programming/subes/Laravel/pagination/newset vs keyset/Сравнение сегментной и курсорной пагинации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Репозиторий с интерфейсом практическое руководство"
+              "title": "Backlinks for Сравнение сегментной и курсорной пагинации"
             }
           },
           {
@@ -181,17 +181,18 @@
   },
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
-    "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
+    "Programming/subes/Laravel/pagination/newset vs keyset/newset vs keyset.md",
+    "Programming/subes/Laravel/pagination/newset vs keyset/Сравнение сегментной и курсорной пагинации.md",
+    "Programming/subes/Laravel/pagination/newset vs keyset",
+    "Programming/subes/Laravel/pagination/history.md",
+    "Programming/subes/Laravel/pagination/laravel-pagination.md",
     "Programming/subes/Laravel/laravel-api-products.md",
+    "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
+    "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
     "Programming/subes/Laravel/pagination/pagination-exdention.md",
     "Programming/subes/Laravel/pagination/pagination.md",
-    "Programming/subes/Laravel/pagination/laravel-pagination.md",
-    "Programming/subes/Laravel/pagination/history.md",
-    "Programming/subes/Laravel/pagination/newset vs keyset.md",
     "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/algo.md",
-    "Programming/subes/Laravel/pagination/Untitled",
     "Programming/subes/Laravel/pagination",
     "daily/2026-01-21.md",
     "Programming/subes/Laravel",
@@ -216,7 +217,6 @@
     "Programming/Программирование/4 (Елена)/Урок 1",
     "Programming/Программирование/4 (Елена)/Untitled.md",
     "Programming/Программирование/4 (Елена)",
-    "Programming/substract_programming/pattern_conspect.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
