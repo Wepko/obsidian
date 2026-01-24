@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/helper NN.md",
+                "file": "daily/2026-01-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "helper NN"
+              "title": "2026-01-25"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "bb67f36918f14b97",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/readme.md",
     "Programming/subes/helper NN.md",
+    "daily/2026-01-25.md",
+    "Programming/subes/Laravel/readme.md",
     "daily/2026-01-24.md",
     "Programming/subes/traaning/parallely/Untitled.md",
     "Programming/subes/traaning/Yeahub/Untitled.md",
@@ -216,7 +217,6 @@
     "Programming/subes/docker",
     "daily/2026-01-14.md",
     "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
-    "Programming/substract_programming/lecture 2/Ответы 2.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
