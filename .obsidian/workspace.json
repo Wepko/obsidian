@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-25.md",
+                "file": "Projects/Pet/Pet-project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-25"
+              "title": "Pet-project"
             }
           }
         ]
@@ -179,10 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb67f36918f14b97",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Programming/subes/helper NN.md",
+    "Projects/меди-фабрика/Untitled.md",
+    "Projects/Pet/Pet-project.md",
     "daily/2026-01-25.md",
+    "Projects/Pet",
+    "Programming/subes/helper NN.md",
     "Programming/subes/Laravel/readme.md",
     "daily/2026-01-24.md",
     "Programming/subes/traaning/parallely/Untitled.md",
@@ -214,9 +217,6 @@
     "conflict-files-obsidian-git.md",
     "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/subes/docker/Untitled",
-    "Programming/subes/docker",
-    "daily/2026-01-14.md",
-    "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
