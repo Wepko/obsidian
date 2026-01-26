@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/subes/list learning.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -171,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "2aae22b6fc6b4e0c",
   "lastOpenFiles": [
     "Programming/subes/list learning.md",
     "Programming/subes/helper NN.md",
