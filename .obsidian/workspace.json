@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac080e48f8e718cd",
+        "id": "0d2e9bb340e9f8aa",
         "type": "tabs",
         "children": [
           {
-            "id": "aaade0070aba027c",
+            "id": "26df10883790fba6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Абстрация Переменая"
+              "title": "New tab"
             }
           }
         ]
@@ -171,10 +157,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaade0070aba027c",
+  "active": "26df10883790fba6",
   "lastOpenFiles": [
-    "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
+    "daily/2026-01-26.md",
+    "Programming/substract 2/Untitled.md",
+    "Programming/substract 2/Архитектура компьютера.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
+    "Programming/Программирование/4 (Елена)/Урок 2/Инструкции и оператор.md",
     "Programming/Программирование/4 (Елена)/Урок 2/Сложный рзабор.md",
     "Programming/substract 2/python/Название Python REPL в интерактивном режиме.md",
     "Programming/substract 2/python/Python и статическая типизация аннотации типов.md",
@@ -201,9 +190,6 @@
     "Programming/substract_programming/lecture 1/Задания 1.md",
     "Programming/substract_programming/lecture 1/Конспект 1.md",
     "Programming/substract_programming/lecture 2/Ответы.md",
-    "Programming/substract_programming/lecture 2/Конспект.md",
-    "Programming/substract_programming/lecture 2/Задание 2.md",
-    "conflict-files-obsidian-git.md",
     "Programming/substract_programming/lecture 2",
     "Economics/study/Экономическая теория/volumes/volume 35/rezume",
     "Programming/substract_programming/lecture 1",
