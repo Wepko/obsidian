@@ -29,3 +29,4 @@ Laravel Фасады CSR DTO Request migration(какие виды есть ми
 PSR стандарты
 
 Понимание SSR SSG PWA
+Какие есть платформы SaaS PaaS итд
