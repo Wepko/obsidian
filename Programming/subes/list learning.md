@@ -28,3 +28,4 @@ Laravel Фасады CSR DTO Request migration(какие виды есть ми
 Как работает SSR
 PSR стандарты
 
+Понимание SSR SSG PWA
