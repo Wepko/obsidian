@@ -31,3 +31,8 @@ PSR стандарты
 Понимание GraphQL REST API Websocket
 Понимание SSR SSG PWA
 Какие есть платформы SaaS PaaS итд
+
+
+Слабые темы это
+- многопоточность в php разница между apache и nginx что такое php-fpm
+	 job очереди
