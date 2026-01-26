@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "092506cdecf5fd82",
+        "id": "8a6d129fedbf4074",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c4e6b7093b90a0",
+            "id": "2aae22b6fc6b4e0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming/subes/list learning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -171,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5c4e6b7093b90a0",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
+    "Programming/subes/list learning.md",
     "Programming/subes/helper NN.md",
     "Programming/subes/traaning/Yeahub/Untitled.md",
     "Programming/subes/Laravel/Larastore/Будем думать.md",
@@ -180,7 +181,6 @@
     "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
     "Programming/subes/Laravel/laravel-api-products.md",
     "Programming/subes/Laravel/readme.md",
-    "Programming/subes/list learning.md",
     "conflict-files-obsidian-git.md",
     "Programming/subes/traaning/chat/Untitled.md",
     "Programming/subes/traaning/chat",
