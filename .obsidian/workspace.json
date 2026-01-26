@@ -11,10 +11,24 @@
             "id": "b5c4e6b7093b90a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/subes/Laravel/Larastore/Будем думать.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Будем думать"
             }
           }
         ]
@@ -157,8 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96dbea7db3b1f7a3",
+  "active": "b5c4e6b7093b90a0",
   "lastOpenFiles": [
+    "Programming/subes/Laravel/Larastore/Будем думать.md",
+    "Programming/subes/Laravel/Larastore",
     "conflict-files-obsidian-git.md",
     "daily/2026-01-25.md",
     "daily/2026-01-24.md",
@@ -191,10 +207,8 @@
     "Programming/subes/docker/Untitled.md",
     "Programming/subes/Laravel",
     "Programming/subes/traaning",
-    "Programming/subes/helper NN.md",
     "Programming/subes/docker",
     "Programming/subes",
-    "Programming/Программирование/4 (Елена)/Урок 2",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
