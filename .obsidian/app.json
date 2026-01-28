@@ -15,5 +15,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "delay",
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "openBehavior": "daily"
 }
