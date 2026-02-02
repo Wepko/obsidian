@@ -11,10 +11,24 @@
             "id": "387e8432907dc9da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-02-02.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-02-02"
             }
           }
         ]
@@ -167,6 +181,7 @@
   },
   "active": "387e8432907dc9da",
   "lastOpenFiles": [
+    "daily/2026-02-02.md",
     "Programming/subes/traaning/chat/Untitled.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-01-26.md",
@@ -202,7 +217,6 @@
     "daily/2026-01-21.md",
     "Programming/subes/Laravel",
     "Programming/subes/docker/Untitled.md",
-    "Programming/Программирование/4 (Елена)/Урок 2/Абстрация Переменая.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
