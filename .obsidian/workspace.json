@@ -11,10 +11,24 @@
             "id": "7c439665ba26ba2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/subes/Системы.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Системы"
             }
           }
         ]
@@ -165,12 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "7c439665ba26ba2e",
   "lastOpenFiles": [
+    "Programming/subes/list learning.md",
+    "Programming/subes/Системы.md",
+    "Programming/subes/helper NN.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-02-02.md",
     "mateline/Задачи.md",
-    "Programming/subes/list learning.md",
     "Programming/subes/traaning/chat/Untitled.md",
     "daily/2026-01-26.md",
     "Programming/subes/Laravel/Larastore/Будем думать.md",
@@ -182,7 +198,6 @@
     "Projects/меди-фабрика/Untitled.md",
     "daily/2026-01-25.md",
     "Projects/Pet",
-    "Programming/subes/helper NN.md",
     "Programming/subes/Laravel/readme.md",
     "daily/2026-01-24.md",
     "Programming/subes/traaning/Yeahub/Untitled.md",
@@ -200,7 +215,6 @@
     "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
     "Programming/subes/Laravel/pagination/pagination-exdention.md",
     "Programming/subes/Laravel/pagination/learn.md",
-    "Programming/subes/Laravel/pagination/algo.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/Laravel",
     "Untitled.canvas",
