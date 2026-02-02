@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Системы.md",
+                "file": "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Системы"
+              "title": "Apache Pulsar и Apache Kafka объяснение"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "7c439665ba26ba2e",
   "lastOpenFiles": [
+    "Programming/subes/infrastructure/Системы.md",
+    "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
+    "Programming/subes/infrastructure",
     "Programming/subes/list learning.md",
-    "Programming/subes/Системы.md",
     "Programming/subes/helper NN.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-02-02.md",
@@ -194,7 +196,6 @@
     "Programming/subes/traaning/parallely/Untitled.md",
     "Programming/subes/traaning/chat",
     "Projects/Pet/Pet-project.md",
-    "Programming/subes/Untitled",
     "Projects/меди-фабрика/Untitled.md",
     "daily/2026-01-25.md",
     "Projects/Pet",
@@ -214,7 +215,6 @@
     "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
     "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
     "Programming/subes/Laravel/pagination/pagination-exdention.md",
-    "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/Laravel",
     "Untitled.canvas",
