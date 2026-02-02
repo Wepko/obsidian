@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/infrastructure/IaC (Infrastructure as Code — Инфраструктура как код).md",
+                "file": "Programming/subes/infrastructure/ADR (Architecture Decision Record).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IaC (Infrastructure as Code — Инфраструктура как код)"
+              "title": "ADR (Architecture Decision Record)"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "7c439665ba26ba2e",
   "lastOpenFiles": [
-    "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
     "Programming/subes/infrastructure/IaC (Infrastructure as Code — Инфраструктура как код).md",
+    "Programming/subes/infrastructure/ADR (Architecture Decision Record).md",
+    "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
     "Programming/subes/infrastructure/Системы.md",
     "Programming/subes/infrastructure",
     "Programming/subes/list learning.md",
@@ -214,7 +215,6 @@
     "Programming/subes/Laravel/pagination/laravel-pagination.md",
     "Programming/subes/Laravel/laravel-api-products.md",
     "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
-    "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/Laravel",
     "Untitled.canvas",
