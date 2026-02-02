@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ed551ddad5635e",
+        "id": "7018fa73a3faeb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "387e8432907dc9da",
+            "id": "bdc44241cae1fdc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-02-02.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -179,11 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "387e8432907dc9da",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
-    "daily/2026-02-02.md",
-    "Programming/subes/traaning/chat/Untitled.md",
     "conflict-files-obsidian-git.md",
+    "daily/2026-02-02.md",
+    "mateline/Задачи.md",
+    "Programming/subes/list learning.md",
+    "Programming/subes/traaning/chat/Untitled.md",
     "daily/2026-01-26.md",
     "Programming/subes/Laravel/Larastore/Будем думать.md",
     "Programming/subes/Laravel/Larastore",
@@ -214,9 +216,7 @@
     "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/algo.md",
     "Programming/subes/Laravel/pagination",
-    "daily/2026-01-21.md",
     "Programming/subes/Laravel",
-    "Programming/subes/docker/Untitled.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
