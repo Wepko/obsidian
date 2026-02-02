@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
+                "file": "Programming/subes/infrastructure/IaC (Infrastructure as Code — Инфраструктура как код).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apache Pulsar и Apache Kafka объяснение"
+              "title": "IaC (Infrastructure as Code — Инфраструктура как код)"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "7c439665ba26ba2e",
   "lastOpenFiles": [
-    "Programming/subes/infrastructure/Системы.md",
     "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
+    "Programming/subes/infrastructure/IaC (Infrastructure as Code — Инфраструктура как код).md",
+    "Programming/subes/infrastructure/Системы.md",
     "Programming/subes/infrastructure",
     "Programming/subes/list learning.md",
     "Programming/subes/helper NN.md",
@@ -214,7 +215,6 @@
     "Programming/subes/Laravel/laravel-api-products.md",
     "Programming/subes/Laravel/Репозиторий с интерфейсом практическое руководство.md",
     "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
-    "Programming/subes/Laravel/pagination/pagination-exdention.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/Laravel",
     "Untitled.canvas",
