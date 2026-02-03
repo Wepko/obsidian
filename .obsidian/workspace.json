@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/высокие нагрузки.md",
+                "file": "Programming/subes/hh/1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "высокие нагрузки"
+              "title": "1"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "2aae22b6fc6b4e0c",
   "lastOpenFiles": [
-    "Programming/subes/me.md",
     "Programming/subes/высокие нагрузки.md",
+    "Programming/subes/hh/1.md",
+    "Programming/subes/hh",
+    "Programming/subes/me.md",
     "conflict-files-obsidian-git.md",
     "Programming/subes/list learning.md",
     "Programming/subes/helper NN.md",
@@ -202,13 +204,11 @@
     "Programming/subes/Laravel/pagination/pagination.md",
     "Programming/subes/Laravel/pagination/pagination-exdention.md",
     "Programming/subes/Laravel/pagination/newset vs keyset",
-    "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/traaning/Yeahub",
     "Programming/subes/traaning/parallely",
     "Programming/subes/Laravel",
     "Programming/subes/traaning",
-    "Programming/subes/docker",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
