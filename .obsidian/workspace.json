@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/list learning.md",
+                "file": "Programming/subes/me.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "list learning"
+              "title": "me"
             }
           }
         ]
@@ -174,6 +174,7 @@
   "active": "2aae22b6fc6b4e0c",
   "lastOpenFiles": [
     "Programming/subes/list learning.md",
+    "Programming/subes/me.md",
     "Programming/subes/helper NN.md",
     "Programming/subes/traaning/Yeahub/Untitled.md",
     "Programming/subes/Laravel/Larastore/Будем думать.md",
@@ -202,7 +203,6 @@
     "Programming/subes/Laravel/pagination/newset vs keyset",
     "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/laravel-pagination.md",
-    "Programming/subes/Laravel/pagination/history.md",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/traaning/Yeahub",
     "Programming/subes/traaning/parallely",
