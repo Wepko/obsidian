@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/hh/1.md",
+                "file": "daily/2026-02-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "2026-02-03"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "2aae22b6fc6b4e0c",
   "lastOpenFiles": [
-    "Programming/subes/высокие нагрузки.md",
+    "Projects/Pet/Pet-project.md",
+    "daily/2026-02-03.md",
     "Programming/subes/hh/1.md",
+    "Programming/subes/высокие нагрузки.md",
     "Programming/subes/hh",
     "Programming/subes/me.md",
     "conflict-files-obsidian-git.md",
@@ -195,14 +197,12 @@
     "daily/2026-01-14.md",
     "daily/2026-01-10.md",
     "daily/2026-01-08.md",
-    "Projects/Pet/Pet-project.md",
     "Projects/Pet",
     "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
     "Programming/subes/Laravel/pagination/newset vs keyset/Сравнение сегментной и курсорной пагинации.md",
     "Programming/subes/Laravel/pagination/newset vs keyset/newset vs keyset.md",
     "Programming/subes/Laravel/pagination/pagination.md",
-    "Programming/subes/Laravel/pagination/pagination-exdention.md",
     "Programming/subes/Laravel/pagination/newset vs keyset",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/traaning/Yeahub",
