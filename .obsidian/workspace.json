@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Pet/описание.md",
+                "file": "Programming/substract/Docker/Docker на практике/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "описание"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,16 +173,18 @@
   },
   "active": "2aae22b6fc6b4e0c",
   "lastOpenFiles": [
-    "Projects/Pet/Pet-project.md",
     "Projects/Pet/описание.md",
-    "daily/2026-02-03.md",
-    "Programming/subes/hh/1.md",
+    "Programming/substract/Docker/Docker на практике/Untitled.md",
+    "Programming/substract/Docker/Docker на практике",
     "Programming/subes/высокие нагрузки.md",
-    "Programming/subes/hh",
-    "Programming/subes/me.md",
-    "conflict-files-obsidian-git.md",
-    "Programming/subes/list learning.md",
     "Programming/subes/helper NN.md",
+    "Programming/subes/list learning.md",
+    "Programming/subes/me.md",
+    "Programming/subes/hh/1.md",
+    "Projects/Pet/Pet-project.md",
+    "daily/2026-02-03.md",
+    "Programming/subes/hh",
+    "conflict-files-obsidian-git.md",
     "Programming/subes/traaning/Yeahub/Untitled.md",
     "Programming/subes/Laravel/Larastore/Будем думать.md",
     "Programming/subes/Laravel/Паттерн Specification в проектировании.md",
@@ -202,13 +204,11 @@
     "Programming/substract 2/python/Системы управления переменными в программировании.md",
     "Programming/substract 2/python/Python с неизменяемыми типами переменные.md",
     "Programming/subes/Laravel/pagination/newset vs keyset/Сравнение сегментной и курсорной пагинации.md",
-    "Programming/subes/Laravel/pagination/newset vs keyset/newset vs keyset.md",
     "Programming/subes/Laravel/pagination/newset vs keyset",
     "Programming/subes/Laravel/pagination",
     "Programming/subes/traaning/Yeahub",
     "Programming/subes/traaning/parallely",
     "Programming/subes/Laravel",
-    "Programming/subes/traaning",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
