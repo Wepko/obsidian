@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
+                "file": "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Глава 5. Использование Docker в процессе разработки"
-            }
-          },
-          {
-            "id": "a76361a0ac9e071b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Глава 6. Создание простого веб-приложения"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a76361a0ac9e071b",
+  "active": "e2dd18af455f638b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
+    "conflict-files-obsidian-git.md",
     "Programming/substract/Docker/Docker на практике/Untitled.md",
     "daily/2026-02-04.md",
     "daily/2026-02-02.md",
