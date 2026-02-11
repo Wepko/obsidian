@@ -54,9 +54,81 @@
               "icon": "lucide-file",
               "title": "2026-02-11"
             }
+          },
+          {
+            "id": "873f2550787de8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-02-11.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-11"
+            }
+          },
+          {
+            "id": "c8fb737c833d535b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Программирование/5 (Михаил)/1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "0af93b7cc9b8ce84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,12 +276,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ca33e1867279d3d",
+  "active": "0af93b7cc9b8ce84",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/pagination/algo.md",
-    "daily/2026-02-11.md",
-    "Programming/subes/Laravel/readme/readme 2.md",
+    "Programming/Программирование/5 (Михаил)/1.md",
     "conflict-files-obsidian-git.md",
+    "Programming/Программирование/5 (Михаил)",
+    "daily/2026-02-11.md",
+    "Untitled 1.md",
+    "Programming/substract/Docker/Docker на практике/Untitled.md",
+    "Programming/substract/Docker/Docker на практике",
+    "Programming/subes/Laravel/pagination/algo.md",
+    "Programming/subes/Laravel/readme/readme 2.md",
     "Programming/subes/Laravel/readme/readme.md",
     "Programming/subes/Laravel/readme",
     "Programming/subes/Laravel/pagination/learn.md",
@@ -232,16 +309,11 @@
     "mateline/Задачи.md",
     "Programming/subes/traaning/chat/Untitled.md",
     "daily/2026-01-26.md",
-    "Programming/subes/Laravel/Larastore/Будем думать.md",
     "Programming/subes/Laravel/Larastore",
-    "Programming/subes/traaning/parallely/Untitled.md",
     "Programming/subes/traaning/chat",
-    "Projects/Pet/Pet-project.md",
     "Projects/Pet",
     "Programming/subes/traaning/parallely",
     "Programming/subes/traaning/Yeahub",
-    "Programming/subes/traaning",
-    "Programming/subes/Laravel/pagination/newset vs keyset",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
