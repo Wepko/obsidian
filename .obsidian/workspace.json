@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/readme/readme 2.md",
+                "file": "daily/2026-02-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "readme 2"
+              "title": "2026-02-11"
             }
           }
         ],
@@ -206,13 +206,14 @@
   },
   "active": "5ca33e1867279d3d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Programming/subes/Laravel/pagination/algo.md",
+    "daily/2026-02-11.md",
     "Programming/subes/Laravel/readme/readme 2.md",
+    "conflict-files-obsidian-git.md",
     "Programming/subes/Laravel/readme/readme.md",
     "Programming/subes/Laravel/readme",
     "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/laravel-pagination.md",
-    "Programming/subes/Laravel/pagination/algo.md",
     "daily/2026-02-04.md",
     "daily/2026-02-03.md",
     "Projects/Pet/описание.md",
