@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/traaning/solution/Письма счастья от службы доставки.md",
+                "file": "Programming/subes/traaning/solution/Призрачные товары из песочницы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Письма счастья от службы доставки"
+              "title": "Призрачные товары из песочницы"
             }
           }
         ],
@@ -252,10 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8fb737c833d535b",
+  "active": "96dbea7db3b1f7a3",
   "lastOpenFiles": [
-    "Programming/subes/traaning/solution/Мёртвая хватка отчёта и маркетплейса.md",
     "Programming/subes/traaning/solution/Письма счастья от службы доставки.md",
+    "Programming/subes/traaning/solution/Призрачные товары из песочницы.md",
+    "Programming/subes/traaning/solution/Мёртвая хватка отчёта и маркетплейса.md",
     "Programming/subes/высокие нагрузки.md",
     "Programming/subes/traaning/solution",
     "Programming/subes/helper NN.md",
@@ -285,7 +286,6 @@
     "Programming/subes/infrastructure/Системы.md",
     "Programming/subes/infrastructure",
     "Programming/subes/list learning.md",
-    "daily/2026-02-02.md",
     "Programming/subes/Laravel/Larastore",
     "Programming/subes/traaning/chat",
     "Projects/Pet",
