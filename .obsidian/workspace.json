@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/traaning/solution/Токен‑бомба забанила магазин на Ozon.md",
+                "file": "Programming/subes/traaning/solution/main questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Токен‑бомба забанила магазин на Ozon"
+              "title": "main questions"
             }
           }
         ],
@@ -254,8 +254,9 @@
   },
   "active": "c8fb737c833d535b",
   "lastOpenFiles": [
-    "Programming/subes/traaning/solution/Невидимая миграция API которая сломала кэш.md",
     "Programming/subes/traaning/solution/Токен‑бомба забанила магазин на Ozon.md",
+    "Programming/subes/traaning/solution/main questions.md",
+    "Programming/subes/traaning/solution/Невидимая миграция API которая сломала кэш.md",
     "Programming/subes/traaning/solution/Призрачные товары из песочницы.md",
     "Programming/subes/traaning/solution/Письма счастья от службы доставки.md",
     "Programming/subes/traaning/solution/Мёртвая хватка отчёта и маркетплейса.md",
@@ -284,7 +285,6 @@
     "Programming/subes/hh",
     "Programming/subes/infrastructure/ADR (Architecture Decision Record).md",
     "Programming/subes/infrastructure/IaC (Infrastructure as Code — Инфраструктура как код).md",
-    "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/Larastore",
     "Programming/subes/traaning/chat",
