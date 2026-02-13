@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/traaning/solution/2/mongoa a.md",
+                "file": "Programming/subes/traaning/solution/questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoa a"
+              "title": "questions"
             }
           }
         ],
@@ -254,8 +254,9 @@
   },
   "active": "c8fb737c833d535b",
   "lastOpenFiles": [
-    "Programming/subes/traaning/solution/main questions.md",
     "Programming/subes/traaning/solution/2/mongoa a.md",
+    "Programming/subes/traaning/solution/questions.md",
+    "Programming/subes/traaning/solution/main questions.md",
     "Programming/subes/traaning/solution/1 bug/Токен‑бомба забанила магазин на Ozon.md",
     "Programming/subes/traaning/solution/2",
     "Programming/subes/traaning/solution/1 bug/Невидимая миграция API которая сломала кэш.md",
@@ -285,7 +286,6 @@
     "daily/2026-02-03.md",
     "Projects/Pet/описание.md",
     "Programming/subes/me.md",
-    "Programming/subes/hh/1.md",
     "Programming/subes/hh",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/Larastore",
