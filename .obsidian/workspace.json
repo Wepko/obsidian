@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/traaning/solution/Мёртвая хватка отчёта и маркетплейса.md",
+                "file": "Programming/subes/traaning/solution/Письма счастья от службы доставки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Мёртвая хватка отчёта и маркетплейса"
+              "title": "Письма счастья от службы доставки"
             }
           }
         ],
@@ -254,8 +254,9 @@
   },
   "active": "c8fb737c833d535b",
   "lastOpenFiles": [
-    "Programming/subes/высокие нагрузки.md",
     "Programming/subes/traaning/solution/Мёртвая хватка отчёта и маркетплейса.md",
+    "Programming/subes/traaning/solution/Письма счастья от службы доставки.md",
+    "Programming/subes/высокие нагрузки.md",
     "Programming/subes/traaning/solution",
     "Programming/subes/helper NN.md",
     "daily/2026-02-13.md",
@@ -285,7 +286,6 @@
     "Programming/subes/infrastructure",
     "Programming/subes/list learning.md",
     "daily/2026-02-02.md",
-    "mateline/Задачи.md",
     "Programming/subes/Laravel/Larastore",
     "Programming/subes/traaning/chat",
     "Projects/Pet",
