@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Программирование/5 (Михаил)/1.md",
+                "file": "daily/2026-02-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "2026-02-13"
             }
           }
         ],
@@ -252,9 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "c8fb737c833d535b",
   "lastOpenFiles": [
     "Programming/Программирование/5 (Михаил)/1.md",
+    "daily/2026-02-13.md",
     "conflict-files-obsidian-git.md",
     "Programming/Программирование/5 (Михаил)",
     "daily/2026-02-11.md",
@@ -284,7 +285,6 @@
     "daily/2026-02-02.md",
     "mateline/Задачи.md",
     "Programming/subes/traaning/chat/Untitled.md",
-    "daily/2026-01-26.md",
     "Programming/subes/Laravel/Larastore",
     "Programming/subes/traaning/chat",
     "Projects/Pet",
