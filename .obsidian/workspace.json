@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "daily/2026-02-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "2026-02-18"
+            }
+          },
+          {
+            "id": "0b519cafda0ad8a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,10 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a41f81a45eb0419f",
+  "active": "0b519cafda0ad8a9",
   "lastOpenFiles": [
-    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Untitled 1.md",
+    "daily/2026-02-18.md",
+    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 1/Глава 1. Что такое контейнеры и для чего они нужны.md",
     "Programming/substract/Docker/Использование Docker/volume 1/1.Сравнение контейнеров с виртуальными машинами.md",
@@ -250,7 +263,6 @@
     "Programming/subes/me.md",
     "Programming/subes/hh/1.md",
     "Projects/Pet/Pet-project.md",
-    "daily/2026-02-03.md",
     "Programming/subes/hh",
     "Programming/subes/traaning/chat",
     "Programming/subes/Laravel/Larastore",
