@@ -90,9 +90,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.7"
             }
+          },
+          {
+            "id": "0b5247f66a4c2003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,9 +256,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b519cafda0ad8a9",
+  "active": "0b5247f66a4c2003",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "daily/2026-02-13.md",
+    "daily/2026-02-11.md",
+    "Programming/Программирование/5 (Михаил)/1.md",
+    "Programming/Программирование/5 (Михаил)",
+    "Programming/subes/traaning/solution/2/mongoa a.md",
+    "Programming/subes/traaning/solution/1 bug/Призрачные товары из песочницы.md",
+    "Programming/subes/traaning/solution/1 bug/Токен‑бомба забанила магазин на Ozon.md",
+    "Programming/subes/traaning/solution/1 bug/Письма счастья от службы доставки.md",
+    "Programming/subes/traaning/solution/1 bug/Невидимая миграция API которая сломала кэш.md",
+    "Programming/subes/traaning/solution/1 bug/Мёртвая хватка отчёта и маркетплейса.md",
+    "Programming/subes/traaning/solution/questions.md",
+    "Programming/subes/traaning/solution/main questions.md",
+    "Programming/subes/traaning/solution/2",
+    "Programming/subes/traaning/solution/1 bug",
+    "Programming/subes/traaning/solution",
+    "Programming/subes/Laravel/laravel-yandex-map.md",
     "daily/2026-02-18.md",
     "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Programming/substract/Docker/Использование Docker/volume 3/Глава 3. Первые шаги с Docker.md",
@@ -243,33 +289,14 @@
     "Programming/substract/Docker/Использование Docker/volume 1/3.Краткая история Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
     "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
-    "conflict-files-obsidian-git.md",
     "Programming/substract/Docker/Docker на практике/Untitled.md",
     "daily/2026-02-04.md",
-    "daily/2026-02-02.md",
-    "Programming/subes/infrastructure/Системы.md",
-    "Programming/subes/infrastructure/IaC (Infrastructure as Code — Инфраструктура как код).md",
-    "Programming/subes/infrastructure/Apache Pulsar и Apache Kafka объяснение.md",
-    "Programming/subes/infrastructure/ADR (Architecture Decision Record).md",
     "Programming/subes/infrastructure",
-    "Programming/subes/Laravel/readme/readme.md",
-    "Programming/subes/Laravel/readme/readme 2.md",
     "Programming/subes/Laravel/readme",
-    "Projects/Pet/описание.md",
     "Programming/substract/Docker/Docker на практике",
-    "Programming/subes/высокие нагрузки.md",
-    "Programming/subes/helper NN.md",
-    "Programming/subes/list learning.md",
-    "Programming/subes/me.md",
-    "Programming/subes/hh/1.md",
-    "Projects/Pet/Pet-project.md",
     "Programming/subes/hh",
     "Programming/subes/traaning/chat",
     "Programming/subes/Laravel/Larastore",
-    "Projects/Pet",
-    "Programming/subes/Laravel/pagination/newset vs keyset",
-    "Programming/subes/Laravel/pagination",
-    "Programming/subes/traaning/Yeahub",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
@@ -280,9 +307,6 @@
     "Programming/substract/old/data_structure/Pasted image 20220215221026.png",
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
