@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-02-18.md",
+                "file": "Programming/subes/Laravel/laravel-yandex-map.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-18"
+              "title": "laravel-yandex-map"
             }
           }
         ],
@@ -254,8 +254,10 @@
   },
   "active": "c8fb737c833d535b",
   "lastOpenFiles": [
-    "Programming/subes/traaning/solution/questions.md",
+    "Programming/subes/Laravel/laravel-api-products.md",
+    "Programming/subes/Laravel/laravel-yandex-map.md",
     "daily/2026-02-18.md",
+    "Programming/subes/traaning/solution/questions.md",
     "Programming/subes/traaning/solution/2/mongoa a.md",
     "Programming/subes/traaning/solution/main questions.md",
     "Programming/subes/traaning/solution/1 bug/Токен‑бомба забанила магазин на Ozon.md",
@@ -284,8 +286,6 @@
     "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/laravel-pagination.md",
     "daily/2026-02-04.md",
-    "daily/2026-02-03.md",
-    "Projects/Pet/описание.md",
     "Programming/subes/hh",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/Larastore",
