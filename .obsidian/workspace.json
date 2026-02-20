@@ -138,9 +138,33 @@
               "icon": "lucide-file",
               "title": "Untitled 3"
             }
+          },
+          {
+            "id": "51288c9aeac7b5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -280,10 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d95c87015a11fc0d",
+  "active": "51288c9aeac7b5a6",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -314,7 +339,6 @@
     "Programming/substract/Docker/Использование Docker/volume 1/3.Краткая история Docker.md",
     "Programming/substract/Docker/Использование Docker/volume 6/Глава 6. Создание простого веб-приложения.md",
     "Programming/substract/Docker/Использование Docker/volume 5/Глава 5. Использование Docker в процессе разработки.md",
-    "Programming/substract/Docker/Docker на практике/Untitled.md",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/readme",
     "Programming/substract/Docker/Docker на практике",
