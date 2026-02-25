@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/laravel-yandex-map.md",
+                "file": "daily/2026-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "laravel-yandex-map"
+              "title": "2026-02-25"
             }
           }
         ],
@@ -254,8 +254,9 @@
   },
   "active": "c8fb737c833d535b",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/laravel-api-products.md",
     "Programming/subes/Laravel/laravel-yandex-map.md",
+    "daily/2026-02-25.md",
+    "Programming/subes/Laravel/laravel-api-products.md",
     "daily/2026-02-18.md",
     "Programming/subes/traaning/solution/questions.md",
     "Programming/subes/traaning/solution/2/mongoa a.md",
@@ -285,7 +286,6 @@
     "Programming/subes/Laravel/readme",
     "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/Laravel/pagination/laravel-pagination.md",
-    "daily/2026-02-04.md",
     "Programming/subes/hh",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/Larastore",
