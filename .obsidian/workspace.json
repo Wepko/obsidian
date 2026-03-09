@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2026-03-09"
             }
+          },
+          {
+            "id": "ff9995387be968a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,10 +252,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "873f2550787de8b3",
+  "active": "ff9995387be968a5",
   "lastOpenFiles": [
-    "daily/2026-02-11.md",
     "daily/2026-03-09.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Programming/Программирование/4 (Елена)/Урок 33/Untitled.md",
+    "Programming/Программирование/4 (Елена)/Урок 33",
+    "daily/2026-02-11.md",
     "daily/2026-02-25.md",
     "Programming/subes/Laravel/laravel-yandex-map.md",
     "Programming/subes/Laravel/laravel-api-products.md",
@@ -252,20 +283,13 @@
     "Programming/subes/helper NN.md",
     "daily/2026-02-13.md",
     "Programming/Программирование/5 (Михаил)/1.md",
-    "conflict-files-obsidian-git.md",
     "Programming/Программирование/5 (Михаил)",
     "Untitled 1.md",
-    "Programming/substract/Docker/Docker на практике/Untitled.md",
     "Programming/substract/Docker/Docker на практике",
-    "Programming/subes/Laravel/pagination/algo.md",
-    "Programming/subes/Laravel/readme/readme 2.md",
-    "Programming/subes/Laravel/readme/readme.md",
     "Programming/subes/Laravel/readme",
-    "Programming/subes/Laravel/pagination/learn.md",
     "Programming/subes/hh",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/Larastore",
-    "Programming/subes/traaning/chat",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
