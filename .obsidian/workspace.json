@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/hh/2.md",
+                "file": "Programming/subes/hh/2/readme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2"
+              "title": "readme"
             }
           }
         ],
@@ -354,8 +354,10 @@
   },
   "active": "4c0a430dd1d1c70a",
   "lastOpenFiles": [
+    "Programming/subes/hh/2/2.md",
+    "Programming/subes/hh/2/readme.md",
+    "Programming/subes/hh/2",
     "Programming/subes/hh/1.md",
-    "Programming/subes/hh/2.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-03-10.md",
     "daily/2026-03-09.md",
@@ -387,12 +389,10 @@
     "Programming/subes/traaning/solution/2",
     "Programming/subes/traaning/solution/1 bug",
     "Programming/subes/traaning/solution",
-    "Programming/subes/Laravel/laravel-yandex-map.md",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/readme",
     "Programming/substract/Docker/Docker на практике",
     "Programming/subes/hh",
-    "Programming/subes/traaning/chat",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
