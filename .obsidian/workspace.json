@@ -191,12 +191,24 @@
             "id": "4c0a430dd1d1c70a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Programming/subes/hh/2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
+              "icon": "lucide-file",
+              "title": "2"
             }
           }
         ],
@@ -340,8 +352,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "4c0a430dd1d1c70a",
   "lastOpenFiles": [
+    "Programming/subes/hh/1.md",
+    "Programming/subes/hh/2.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-03-10.md",
     "daily/2026-03-09.md",
@@ -374,8 +388,6 @@
     "Programming/subes/traaning/solution/1 bug",
     "Programming/subes/traaning/solution",
     "Programming/subes/Laravel/laravel-yandex-map.md",
-    "daily/2026-02-18.md",
-    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
     "Programming/subes/infrastructure",
     "Programming/subes/Laravel/readme",
     "Programming/substract/Docker/Docker на практике",
