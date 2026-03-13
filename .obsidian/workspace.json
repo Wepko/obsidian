@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2026-03-13"
             }
+          },
+          {
+            "id": "fe9b0120b91919ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,12 +252,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "873f2550787de8b3",
+  "active": "fe9b0120b91919ca",
   "lastOpenFiles": [
-    "Programming/linux.md",
     "daily/2026-03-13.md",
-    "daily/2026-03-09.md",
     "conflict-files-obsidian-git.md",
+    "daily/2026-03-10.md",
+    "Programming/subes/hh/2/readme.md",
+    "Programming/subes/hh/2/2.md",
+    "Programming/subes/hh/2",
+    "Programming/llm/ИИ эволюция.md",
+    "Programming/llm",
+    "Programming/linux.md",
+    "daily/2026-03-09.md",
     "Untitled 5.md",
     "Untitled 4.md",
     "Untitled 3.md",
@@ -255,17 +285,11 @@
     "Programming/subes/traaning/solution/1 bug/Письма счастья от службы доставки.md",
     "Programming/subes/traaning/solution/1 bug/Мёртвая хватка отчёта и маркетплейса.md",
     "Programming/subes/traaning/Yeahub/Untitled.md",
-    "Programming/subes/traaning/solution/1 bug/Призрачные товары из песочницы.md",
-    "Programming/subes/высокие нагрузки.md",
     "Programming/subes/traaning/solution",
-    "Programming/subes/helper NN.md",
-    "daily/2026-02-13.md",
     "Programming/Программирование/5 (Михаил)",
     "Programming/substract/Docker/Docker на практике",
     "Programming/subes/Laravel/readme",
     "Programming/subes/hh",
-    "Programming/subes/infrastructure",
-    "Programming/subes/Laravel/Larastore",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
