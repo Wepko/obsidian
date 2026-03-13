@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/linux.md",
+                "file": "daily/2026-03-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "linux"
+              "title": "2026-03-13"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "873f2550787de8b3",
   "lastOpenFiles": [
-    "daily/2026-03-09.md",
     "Programming/linux.md",
+    "daily/2026-03-13.md",
+    "daily/2026-03-09.md",
     "conflict-files-obsidian-git.md",
     "Untitled 5.md",
     "Untitled 4.md",
@@ -259,7 +260,6 @@
     "Programming/subes/traaning/solution",
     "Programming/subes/helper NN.md",
     "daily/2026-02-13.md",
-    "Programming/Программирование/5 (Михаил)/1.md",
     "Programming/Программирование/5 (Михаил)",
     "Programming/substract/Docker/Docker на практике",
     "Programming/subes/Laravel/readme",
