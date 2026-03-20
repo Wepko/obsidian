@@ -313,8 +313,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/cgc/Без названия.md",
-                "mode": "preview",
+                "file": "Projects/cgc/Оценка cgc.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -328,7 +328,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Оценка cgc"
             }
           }
         ],
@@ -475,7 +475,7 @@
   "active": "a56aeb9c40176416",
   "lastOpenFiles": [
     "Без названия 3.md",
-    "Projects/cgc/Без названия.md",
+    "Projects/cgc/Оценка cgc.md",
     "Projects/cgc",
     "Без названия 1.md",
     "Без названия.md",
