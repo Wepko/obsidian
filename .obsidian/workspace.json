@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 3.md",
+                "file": "Projects/cgc/Без названия.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -328,7 +328,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия 3"
+              "title": "Без названия"
             }
           }
         ],
@@ -474,8 +474,10 @@
   },
   "active": "a56aeb9c40176416",
   "lastOpenFiles": [
-    "Без названия 1.md",
     "Без названия 3.md",
+    "Projects/cgc/Без названия.md",
+    "Projects/cgc",
+    "Без названия 1.md",
     "Без названия.md",
     "Без названия 2.md",
     "conflict-files-obsidian-git.md",
@@ -503,7 +505,6 @@
     "Programming/Программирование/4 (Елена)/Урок 33",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Untitled 2.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
@@ -512,7 +513,6 @@
     "Programming/subes/traaning/solution/1 bug",
     "Programming/subes/traaning/solution",
     "Programming/subes/infrastructure",
-    "Programming/subes/Laravel/readme",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
