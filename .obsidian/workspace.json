@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Без названия 1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -304,11 +304,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "Без названия 1"
+            }
+          },
+          {
+            "id": "a56aeb9c40176416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 3"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -448,13 +472,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bc3434bea9c1f5",
+  "active": "a56aeb9c40176416",
   "lastOpenFiles": [
+    "Без названия 1.md",
+    "Без названия 3.md",
+    "Без названия.md",
     "Без названия 2.md",
     "conflict-files-obsidian-git.md",
-    "Без названия 1.md",
     "daily/2026-03-20.md",
-    "Без названия.md",
     "daily/2026-03-17.md",
     "Programming/plan/План развития по поиску.md",
     "Untitled 5.md",
@@ -479,7 +504,6 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
