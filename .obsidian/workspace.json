@@ -306,33 +306,9 @@
               "icon": "lucide-file",
               "title": "Без названия 2"
             }
-          },
-          {
-            "id": "8a336740cde73864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -472,7 +448,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a336740cde73864",
+  "active": "45bc3434bea9c1f5",
   "lastOpenFiles": [
     "Без названия 2.md",
     "conflict-files-obsidian-git.md",
