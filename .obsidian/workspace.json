@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-23.md",
+                "file": "Programming/plan/План развития по поиску.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -328,7 +328,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-23"
+              "title": "План развития по поиску"
             }
           }
         ],
@@ -474,8 +474,8 @@
   },
   "active": "a56aeb9c40176416",
   "lastOpenFiles": [
-    "Projects/cgc/Оценка cgc.md",
     "daily/2026-03-23.md",
+    "Projects/cgc/Оценка cgc.md",
     "Без названия 3.md",
     "Projects/cgc",
     "Без названия 1.md",
