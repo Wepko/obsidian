@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/cgc/Оценка cgc.md",
+                "file": "daily/2026-03-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -328,7 +328,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Оценка cgc"
+              "title": "2026-03-23"
             }
           }
         ],
@@ -474,8 +474,9 @@
   },
   "active": "a56aeb9c40176416",
   "lastOpenFiles": [
-    "Без названия 3.md",
     "Projects/cgc/Оценка cgc.md",
+    "daily/2026-03-23.md",
+    "Без названия 3.md",
     "Projects/cgc",
     "Без названия 1.md",
     "Без названия.md",
@@ -504,7 +505,6 @@
     "daily/2026-02-25.md",
     "Programming/Программирование/4 (Елена)/Урок 33",
     "Untitled 4.md",
-    "Untitled 3.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
