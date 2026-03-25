@@ -354,9 +354,33 @@
               "icon": "lucide-file",
               "title": "Без названия 4"
             }
+          },
+          {
+            "id": "c70d32b88c302b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 5.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 5"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -496,10 +520,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3836b85448a2ff9c",
+  "active": "c70d32b88c302b58",
   "lastOpenFiles": [
-    "Без названия.md",
     "Без названия 4.md",
+    "Без названия 5.md",
+    "Без названия.md",
     "Без названия 1.md",
     "Programming/plan/План развития по поиску.md",
     "daily/2026-03-23.md",
@@ -527,7 +552,6 @@
     "daily/2026-03-09.md",
     "Programming/linux.md",
     "Programming/Программирование/4 (Елена)/Урок 33/Untitled.md",
-    "daily/2026-02-25.md",
     "Programming/Программирование/4 (Елена)/Урок 33",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
