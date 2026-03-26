@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-20.md",
+                "file": "daily/2026-03-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-20"
+              "title": "2026-03-26"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "active": "67d2d4eb3b6d9032",
   "lastOpenFiles": [
     "Programming/plan/План развития по поиску.md",
+    "daily/2026-03-26.md",
     "daily/2026-03-20.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-02-04.md",
@@ -210,7 +211,6 @@
     "Programming/Программирование/4 (Елена)/Урок 33/Untitled.md",
     "Programming/Программирование/4 (Елена)/Урок 33",
     "daily/2026-02-25.md",
-    "Programming/subes/Laravel/laravel-yandex-map.md",
     "Programming/subes/traaning/solution/2",
     "Programming/subes/traaning/solution/1 bug",
     "Programming/subes/traaning/solution",
