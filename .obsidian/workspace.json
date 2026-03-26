@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "2026-03-26"
             }
+          },
+          {
+            "id": "c34f676f4db80c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/subes/verstca/Относимтельные модули.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Относимтельные модули"
+            }
+          },
+          {
+            "id": "24b2fbad57a3ca66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,12 +228,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67d2d4eb3b6d9032",
+  "active": "24b2fbad57a3ca66",
   "lastOpenFiles": [
-    "Programming/plan/План развития по поиску.md",
-    "daily/2026-03-26.md",
-    "daily/2026-03-20.md",
+    "Programming/subes/verstca/Относимтельные модули.md",
     "conflict-files-obsidian-git.md",
+    "Programming/subes/verstca",
+    "daily/2026-03-26.md",
+    "Без названия.md",
+    "Без названия 5.md",
+    "Без названия 4.md",
+    "Без названия 3.md",
+    "Без названия 2.md",
+    "Без названия 1.md",
+    "daily/2026-03-23.md",
+    "Projects/cgc/Оценка cgc.md",
+    "Projects/cgc",
+    "Programming/plan/План развития по поиску.md",
+    "daily/2026-03-20.md",
     "daily/2026-02-04.md",
     "daily/2026-02-11.md",
     "daily/2026-03-17.md",
@@ -200,23 +260,12 @@
     "Programming/subes/hh/2/readme.md",
     "Programming/subes/hh/2/2.md",
     "Programming/subes/hh/2",
-    "Programming/llm/ИИ эволюция.md",
     "Programming/llm",
-    "Programming/linux.md",
-    "daily/2026-03-09.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Programming/Программирование/4 (Елена)/Урок 33/Untitled.md",
     "Programming/Программирование/4 (Елена)/Урок 33",
-    "daily/2026-02-25.md",
     "Programming/subes/traaning/solution/2",
     "Programming/subes/traaning/solution/1 bug",
     "Programming/subes/traaning/solution",
     "Programming/Программирование/5 (Михаил)",
-    "Programming/substract/Docker/Docker на практике",
-    "Programming/subes/Laravel/readme",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
