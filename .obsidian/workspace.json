@@ -35,13 +35,24 @@
             "id": "2273048944e06252",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "delay/Pasted image 20260327191739.png",
-                "staged": true
+                "file": "Projects/ComputeClub/Без названия.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Pasted image 20260327191739.png)"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
         ],
@@ -187,6 +198,7 @@
   },
   "active": "2273048944e06252",
   "lastOpenFiles": [
+    "Projects/ComputeClub/Без названия 1.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-03-27.md",
     "delay/envanto.png",
@@ -219,7 +231,6 @@
     "Без названия 5.md",
     "Programming/plan/План развития по поиску.md",
     "daily/2026-03-23.md",
-    "Projects/cgc/Оценка cgc.md",
     "Projects/cgc",
     "Projects/codecanyon",
     "Programming/llm",
