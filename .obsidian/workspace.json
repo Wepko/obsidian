@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/ComputeClub/Анализ конкурентов.md",
+                "file": "Projects/ComputeClub/Бизнес процессы.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Анализ конкурентов"
+              "title": "Бизнес процессы"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "c34f676f4db80c5e",
   "lastOpenFiles": [
-    "daily/2026-03-27.md",
     "Projects/ComputeClub/Анализ конкурентов.md",
+    "Projects/ComputeClub/Бизнес процессы.md",
+    "daily/2026-03-27.md",
     "Projects/ComputeClub",
     "Programming/subes/verstca/best example.md",
     "Programming/subes/verstca/envanto.png",
@@ -239,7 +240,6 @@
     "Programming/subes/me.md",
     "Programming/subes/list learning.md",
     "Projects/codecanyon/Выбор стека.md",
-    "Projects/codecanyon/index.md",
     "Projects/codecanyon",
     "Programming/subes/hh/2",
     "Programming/llm",
