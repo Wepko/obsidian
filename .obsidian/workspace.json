@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/ComputeClub/Без названия.md",
+                "file": "daily/2026-03-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "2026-03-28"
             }
           }
         ],
@@ -198,6 +198,8 @@
   },
   "active": "2273048944e06252",
   "lastOpenFiles": [
+    "Projects/ComputeClub/Без названия.md",
+    "daily/2026-03-28.md",
     "Projects/ComputeClub/Без названия 1.md",
     "conflict-files-obsidian-git.md",
     "daily/2026-03-27.md",
@@ -207,7 +209,6 @@
     "delay/Pasted image 20260327191733.png",
     "daily/2026-03-26.md",
     "Projects/ComputeClub/Бизнес процессы.md",
-    "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Анализ конкурентов.md",
     "Projects/ComputeClub",
     "Programming/subes/verstca/Относимтельные модули.md",
@@ -230,7 +231,6 @@
     "Programming/substract/Docker/Docker на практике/Untitled.md",
     "Без названия 5.md",
     "Programming/plan/План развития по поиску.md",
-    "daily/2026-03-23.md",
     "Projects/cgc",
     "Projects/codecanyon",
     "Programming/llm",
