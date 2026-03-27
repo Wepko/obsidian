@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/verstca/best example.md",
-                "mode": "preview",
+                "file": "Projects/ComputeClub/Анализ конкурентов.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "best example"
+              "title": "Анализ конкурентов"
             }
           }
         ],
@@ -206,8 +206,11 @@
   },
   "active": "c34f676f4db80c5e",
   "lastOpenFiles": [
-    "Programming/subes/verstca/envanto.png",
+    "daily/2026-03-27.md",
+    "Projects/ComputeClub/Анализ конкурентов.md",
+    "Projects/ComputeClub",
     "Programming/subes/verstca/best example.md",
+    "Programming/subes/verstca/envanto.png",
     "delay/envanto.png",
     "delay/Pasted image 20260327191803.png",
     "delay/Pasted image 20260327191739.png",
@@ -238,14 +241,12 @@
     "Projects/codecanyon/Выбор стека.md",
     "Projects/codecanyon/index.md",
     "Projects/codecanyon",
-    "Programming/llm/ИИ стандарты.md",
     "Programming/subes/hh/2",
     "Programming/llm",
     "Programming/Программирование/4 (Елена)/Урок 33",
     "Programming/subes/traaning/solution/2",
     "Programming/subes/traaning/solution/1 bug",
     "Programming/subes/traaning/solution",
-    "Programming/Программирование/5 (Михаил)",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Economics/study/Формализованая экономика/chapter 1/asset/Юридические лица.png",
