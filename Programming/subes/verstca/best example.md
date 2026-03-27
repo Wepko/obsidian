@@ -1,0 +1,1 @@
+![[Pasted image 20260327191803.png]]![[envanto.png]]

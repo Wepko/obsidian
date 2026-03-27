@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/verstca/Анализ СGC new.md",
-                "mode": "source",
+                "file": "Programming/subes/verstca/best example.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Анализ СGC new"
+              "title": "best example"
             }
           }
         ],
@@ -206,8 +206,14 @@
   },
   "active": "c34f676f4db80c5e",
   "lastOpenFiles": [
-    "Programming/subes/verstca/Анализ CGC.md",
+    "Programming/subes/verstca/envanto.png",
+    "Programming/subes/verstca/best example.md",
+    "delay/envanto.png",
+    "delay/Pasted image 20260327191803.png",
+    "delay/Pasted image 20260327191739.png",
+    "delay/Pasted image 20260327191733.png",
     "Programming/subes/verstca/Анализ СGC new.md",
+    "Programming/subes/verstca/Анализ CGC.md",
     "Programming/subes/verstca/Относимтельные модули.md",
     "conflict-files-obsidian-git.md",
     "Programming/subes/verstca",
@@ -233,8 +239,6 @@
     "Projects/codecanyon/index.md",
     "Projects/codecanyon",
     "Programming/llm/ИИ стандарты.md",
-    "daily/2026-03-13.md",
-    "daily/2026-03-10.md",
     "Programming/subes/hh/2",
     "Programming/llm",
     "Programming/Программирование/4 (Елена)/Урок 33",
@@ -249,11 +253,6 @@
     "Programming/substract/laravel/acwa/images/unit.png",
     "Programming/substract/laravel/acwa/images/typical_product.png",
     "Programming/substract/laravel/acwa/images/two_level_validation.png",
-    "Programming/substract/laravel/acwa/images/saga_events.png",
-    "Programming/substract/laravel/acwa/images/orchestrator.png",
-    "Programming/substract/laravel/acwa/images/oracle_cqrs.png",
-    "Programming/substract/laravel/acwa/images/master_slave_cqrs.png",
-    "Programming/substract/laravel/acwa/images/master_slave.png",
     "Untitled 3.canvas",
     "Untitled 1.canvas"
   ]
