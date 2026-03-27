@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/verstca/Анализ CGC.md",
-                "mode": "preview",
+                "file": "Programming/subes/verstca/Анализ СGC new.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Анализ CGC"
+              "title": "Анализ СGC new"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "c34f676f4db80c5e",
   "lastOpenFiles": [
-    "Programming/subes/verstca/Относимтельные модули.md",
     "Programming/subes/verstca/Анализ CGC.md",
+    "Programming/subes/verstca/Анализ СGC new.md",
+    "Programming/subes/verstca/Относимтельные модули.md",
     "conflict-files-obsidian-git.md",
     "Programming/subes/verstca",
     "daily/2026-03-26.md",
@@ -234,7 +235,6 @@
     "Programming/llm/ИИ стандарты.md",
     "daily/2026-03-13.md",
     "daily/2026-03-10.md",
-    "Programming/subes/hh/2/readme.md",
     "Programming/subes/hh/2",
     "Programming/llm",
     "Programming/Программирование/4 (Елена)/Урок 33",
