@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Pet/Eccommerse/Первые требования.md",
+                "file": "Projects/Pet/Eccommerse/промпт 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Первые требования"
+              "title": "промпт 1"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "574cc50d303ab876",
   "lastOpenFiles": [
-    "Projects/Pet/Eccommerse/Первая итерация всег проекта.md",
     "Projects/Pet/Eccommerse/Первые требования.md",
+    "Projects/Pet/Eccommerse/промпт 1.md",
+    "Projects/Pet/Eccommerse/Первая итерация всег проекта.md",
     "Projects/Pet/описание.md",
     "Projects/Pet/Eccommerse",
     "Projects/Pet/Pet-project.md",
@@ -206,7 +207,6 @@
     "daily/2026-03-10.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Untitled 2.md",
     "Projects/cgc",
     "Projects/codecanyon",
     "Programming/llm",
