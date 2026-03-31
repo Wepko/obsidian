@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-27.md",
-                "mode": "preview",
+                "file": "Projects/Pet/Eccommerse/Первая итерация всег проекта.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-27"
+              "title": "Первая итерация всег проекта"
             }
           }
         ]
@@ -173,12 +173,16 @@
   },
   "active": "574cc50d303ab876",
   "lastOpenFiles": [
+    "Projects/Pet/описание.md",
+    "Projects/Pet/Eccommerse",
+    "Projects/Pet/Eccommerse/Первая итерация всег проекта.md",
+    "Projects/Pet/Pet-project.md",
+    "daily/2026-03-27.md",
     "daily/2026-03-31.md",
     "daily/2026-03-28.md",
     "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Без названия 1.md",
     "conflict-files-obsidian-git.md",
-    "daily/2026-03-27.md",
     "delay/envanto.png",
     "delay/Pasted image 20260327191803.png",
     "delay/Pasted image 20260327191739.png",
@@ -203,9 +207,6 @@
     "Untitled 3.md",
     "Untitled 2.md",
     "daily/2026-02-18.md",
-    "Programming/substract/Docker/Использование Docker/volume 7/Глава 7. Распространение образов.md",
-    "Programming/substract/Docker/Docker на практике/Untitled.md",
-    "Без названия 5.md",
     "Projects/cgc",
     "Projects/codecanyon",
     "Programming/llm",
@@ -216,7 +217,6 @@
     "Untitled.canvas",
     "Programming/Программирование/5 (Михаил)",
     "Programming/subes/traaning/solution/2",
-    "Programming/subes/traaning/solution/1 bug",
     "delay/Pasted image 20250731155433.png",
     "Programming/substract/Pasted image 20230907194244.png",
     "Programming/substract/Pasted image 20230907113832.png",
