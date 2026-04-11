@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/ComputeClub/Тестовое приложение Club Server.md",
+                "file": "daily/2026-04-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Тестовое приложение Club Server"
+              "title": "2026-04-11"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "c34f676f4db80c5e",
   "lastOpenFiles": [
-    "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Тестовое приложение Club Server.md",
+    "daily/2026-04-11.md",
+    "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Бизнес процессы.md",
     "Projects/ComputeClub/Анализ конкурентов.md",
     "daily/2026-03-27.md",
@@ -239,7 +240,6 @@
     "daily/2026-02-11.md",
     "daily/2026-03-17.md",
     "Programming/plan/Какие есть дисциплины в программирование.md",
-    "Programming/subes/me.md",
     "Projects/codecanyon",
     "Programming/subes/hh/2",
     "Programming/llm",
