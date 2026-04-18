@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-18.md",
+                "file": "Programming/subes/Laravel/laravel-layer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-18"
+              "title": "laravel-layer"
             }
           }
         ],
@@ -230,8 +230,10 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/orders/Без названия.md",
+    "Programming/subes/Laravel/orders/Без названия 1.md",
+    "Programming/subes/Laravel/laravel-layer.md",
     "daily/2026-04-18.md",
+    "Programming/subes/Laravel/orders/Без названия.md",
     "daily/2026-04-17.md",
     "Programming/subes/Laravel/orders",
     "daily/2026-04-14.md",
@@ -262,9 +264,7 @@
     "delay/Pasted image 20260327191733.png",
     "Programming/subes/verstca/Анализ СGC new.md",
     "Programming/subes/verstca/Анализ CGC.md",
-    "Programming/subes/verstca/Относимтельные модули.md",
     "Programming/subes/verstca",
-    "daily/2026-03-26.md",
     "Projects/cgc",
     "Projects/codecanyon",
     "Programming/subes/hh/2",
