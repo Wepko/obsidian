@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/laravel-layer.md",
+                "file": "daily/2026-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "laravel-layer"
+              "title": "2026-04-18"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "habr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -167,7 +167,8 @@
               "title": "2025-06-23"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +231,11 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "Programming/subes/Laravel/orders/Без названия 1.md",
+    "Courses/info/Подготовка к crud.md",
+    "Projects/Courses/info/Подготовка к crud.md",
+    "Programming/subes/hh/2/2.md",
     "Programming/subes/Laravel/laravel-layer.md",
+    "Programming/subes/Laravel/orders/Без названия 1.md",
     "daily/2026-04-18.md",
     "Programming/subes/Laravel/orders/Без названия.md",
     "daily/2026-04-17.md",
@@ -256,14 +260,11 @@
     "Projects/ComputeClub/Анализ конкурентов.md",
     "daily/2026-03-27.md",
     "Projects/ComputeClub",
-    "Programming/subes/verstca/best example.md",
     "Programming/subes/verstca/envanto.png",
     "delay/envanto.png",
     "delay/Pasted image 20260327191803.png",
     "delay/Pasted image 20260327191739.png",
     "delay/Pasted image 20260327191733.png",
-    "Programming/subes/verstca/Анализ СGC new.md",
-    "Programming/subes/verstca/Анализ CGC.md",
     "Programming/subes/verstca",
     "Projects/cgc",
     "Projects/codecanyon",
