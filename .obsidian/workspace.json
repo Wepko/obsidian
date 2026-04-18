@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/subes/Laravel/orders/Без названия.md",
+                "file": "daily/2026-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "2026-04-18"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "daily/2026-04-17.md",
     "Programming/subes/Laravel/orders/Без названия.md",
+    "daily/2026-04-18.md",
+    "daily/2026-04-17.md",
     "Programming/subes/Laravel/orders",
     "daily/2026-04-14.md",
     "Projects/cgc/atw.md",
@@ -264,7 +265,6 @@
     "Programming/subes/verstca/Относимтельные модули.md",
     "Programming/subes/verstca",
     "daily/2026-03-26.md",
-    "Без названия.md",
     "Projects/cgc",
     "Projects/codecanyon",
     "Programming/subes/hh/2",
