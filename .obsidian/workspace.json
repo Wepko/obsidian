@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-18.md",
+                "file": "Programming/habr.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-18"
+              "title": "habr"
             }
           }
         ],
@@ -167,8 +167,7 @@
               "title": "2025-06-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,12 +230,13 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
+    "daily/2026-04-18.md",
+    "Programming/habr.md",
     "Courses/info/Подготовка к crud.md",
     "Projects/Courses/info/Подготовка к crud.md",
     "Programming/subes/hh/2/2.md",
     "Programming/subes/Laravel/laravel-layer.md",
     "Programming/subes/Laravel/orders/Без названия 1.md",
-    "daily/2026-04-18.md",
     "Programming/subes/Laravel/orders/Без названия.md",
     "daily/2026-04-17.md",
     "Programming/subes/Laravel/orders",
@@ -258,7 +258,6 @@
     "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Бизнес процессы.md",
     "Projects/ComputeClub/Анализ конкурентов.md",
-    "daily/2026-03-27.md",
     "Projects/ComputeClub",
     "Programming/subes/verstca/envanto.png",
     "delay/envanto.png",
