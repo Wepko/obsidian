@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/habr.md",
+                "file": "daily/2026-04-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "habr"
+              "title": "2026-04-19"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "daily/2026-04-18.md",
     "Programming/habr.md",
+    "daily/2026-04-19.md",
+    "daily/2026-04-18.md",
     "Courses/info/Подготовка к crud.md",
     "Projects/Courses/info/Подготовка к crud.md",
     "Programming/subes/hh/2/2.md",
@@ -257,7 +258,6 @@
     "Projects/ComputeClub/Тестовое приложение Club Server.md",
     "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Бизнес процессы.md",
-    "Projects/ComputeClub/Анализ конкурентов.md",
     "Projects/ComputeClub",
     "Programming/subes/verstca/envanto.png",
     "delay/envanto.png",
