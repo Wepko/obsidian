@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/task.md",
+                "file": "daily/2026-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task"
+              "title": "2026-04-21"
             }
           }
         ],
@@ -230,9 +230,10 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "Programming/habr.md",
-    "Programming/task.md",
+    "Без названия.canvas",
     "Programming/linux.md",
+    "Programming/task.md",
+    "Programming/habr.md",
     "daily/2026-04-21.md",
     "daily/2026-04-19.md",
     "daily/2026-04-18.md",
@@ -257,7 +258,6 @@
     "Projects/Pet/Eccommerse/Первая итерация всег проекта.md",
     "Projects/Pet/Eccommerse",
     "Projects/ComputeClub/Без названия 1.md",
-    "Programming/llm/Категории всех инструментов.md",
     "Projects/ComputeClub",
     "Programming/subes/verstca/envanto.png",
     "delay/envanto.png",
