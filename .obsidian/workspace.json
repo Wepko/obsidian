@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-21.md",
+                "file": "daily/2026-04-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-21"
+              "title": "2026-04-22"
             }
           }
         ],
@@ -230,11 +230,12 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
+    "daily/2026-04-21.md",
+    "daily/2026-04-22.md",
     "Без названия.canvas",
     "Programming/linux.md",
     "Programming/task.md",
     "Programming/habr.md",
-    "daily/2026-04-21.md",
     "daily/2026-04-19.md",
     "daily/2026-04-18.md",
     "Courses/info/Подготовка к crud.md",
