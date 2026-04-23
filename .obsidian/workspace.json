@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/frilans/atw/Автоматизация.md",
+                "file": "Projects/frilans/atw/Срипты.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Автоматизация"
+              "title": "Срипты"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "daily/2026-04-23.md",
     "Projects/frilans/atw/Автоматизация.md",
+    "Projects/frilans/atw/Срипты.md",
+    "daily/2026-04-23.md",
     "Projects/frilans/atw",
     "Projects/frilans",
     "Programming/docpart",
@@ -260,7 +261,6 @@
     "daily/2026-03-31.md",
     "daily/2026-03-28.md",
     "Projects/Pet/Eccommerse/промпт 1.md",
-    "Projects/Pet/Eccommerse/Первые требования.md",
     "Projects/Pet/Eccommerse",
     "Projects/ComputeClub",
     "Programming/subes/verstca/envanto.png",
