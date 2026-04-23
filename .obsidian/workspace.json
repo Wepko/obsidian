@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/frilans/atw/Срипты.md",
+                "file": "daily/2026-04-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Срипты"
+              "title": "2026-04-23"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "a849e4227956ea5d",
   "lastOpenFiles": [
-    "Projects/frilans/atw/Автоматизация.md",
     "Projects/frilans/atw/Срипты.md",
+    "Projects/frilans/atw/Автоматизация.md",
     "daily/2026-04-23.md",
     "Projects/frilans/atw",
     "Projects/frilans",
