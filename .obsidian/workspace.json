@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-27.md",
+                "file": "daily/2026-04-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-27"
+              "title": "2026-04-28"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "7991634e7dfbd7a6",
   "lastOpenFiles": [
+    "daily/2026-04-27.md",
+    "daily/2026-04-28.md",
     "Projects/ComputeClub/Бизнес процессы.md",
     "Projects/ComputeClub/Тестовое приложение Club Server.md",
     "Projects/ComputeClub/Без названия 1.md",
     "Projects/ComputeClub/Без названия.md",
     "Projects/ComputeClub/Анализ конкурентов.md",
-    "daily/2026-04-27.md",
     "daily/2026-04-22.md",
     "daily/2026-04-23.md",
     "daily/2026-04-25.md",
@@ -210,7 +211,6 @@
     "Programming/subes/Laravel/laravel-layer.md",
     "Programming/subes/Laravel/orders/Без названия 1.md",
     "Programming/subes/Laravel/orders/Без названия.md",
-    "daily/2026-04-17.md",
     "Programming/subes/Laravel/orders",
     "Projects/Pet/Eccommerse",
     "Projects/ComputeClub",
