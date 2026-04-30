@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/frilans/atw/Интеграция с категориями.md",
+                "file": "daily/2026-04-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Интеграция с категориями"
+              "title": "2026-04-30"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "7991634e7dfbd7a6",
   "lastOpenFiles": [
-    "daily/2026-04-28.md",
     "Projects/frilans/atw/Интеграция с категориями.md",
+    "daily/2026-04-30.md",
+    "daily/2026-04-28.md",
     "daily/2026-04-27.md",
     "daily/2026-04-25.md",
     "Projects/ComputeClub/Бизнес процессы.md",
@@ -210,7 +211,6 @@
     "Projects/Courses/info/Подготовка к crud.md",
     "Programming/subes/hh/2/2.md",
     "Programming/subes/Laravel/laravel-layer.md",
-    "Programming/subes/Laravel/orders/Без названия 1.md",
     "Programming/subes/Laravel/orders",
     "Projects/Pet/Eccommerse",
     "Projects/ComputeClub",
