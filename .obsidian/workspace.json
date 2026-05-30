@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-05-28.md",
+                "file": "daily/2026-05-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-28"
+              "title": "2026-05-30"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "7991634e7dfbd7a6",
   "lastOpenFiles": [
-    "daily/2026-05-21.md",
     "daily/2026-05-28.md",
+    "daily/2026-05-30.md",
+    "daily/2026-05-21.md",
     "Без названия 1.md",
     "daily/2026-05-05.md",
     "daily/2026-05-01.md",
@@ -210,7 +211,6 @@
     "Без названия.canvas",
     "Programming/linux.md",
     "Programming/task.md",
-    "Programming/habr.md",
     "Programming/subes/Laravel/orders",
     "Projects/Pet/Eccommerse",
     "Projects/ComputeClub",
