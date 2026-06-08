@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-03.md",
+                "file": "daily/2026-06-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-03"
+              "title": "2026-06-08"
             }
           }
         ],
@@ -206,8 +206,9 @@
   },
   "active": "ef6a964153b2492e",
   "lastOpenFiles": [
-    "daily/2026-06-02.md",
     "daily/2026-06-03.md",
+    "daily/2026-06-08.md",
+    "daily/2026-06-02.md",
     "Без названия 7.md",
     "daily/2026-06-01.md",
     "daily/2026-05-30.md",
@@ -231,7 +232,6 @@
     "daily/2026-04-22.md",
     "daily/2026-04-23.md",
     "daily/2026-04-21.md",
-    "daily/2026-03-26.md",
     "Projects/frilans/atw",
     "Projects/frilans",
     "Programming/docpart",
